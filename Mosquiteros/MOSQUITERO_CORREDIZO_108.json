@@ -1,0 +1,31 @@
+{
+  "Id": 0,
+  "Nombre": "MOSQUITERO CORREDIZO 108",
+  "LineaNombre": "NIZA",
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "01080",
+      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA",
+      "Cantidad": 2,
+      "Formula": "A",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "01080",
+      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA",
+      "Cantidad": 2,
+      "Formula": "H",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "V"
+    }
+  ],
+  "Accesorios": [],
+  "Telas": []
+}

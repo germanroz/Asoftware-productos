@@ -1,0 +1,165 @@
+﻿{
+  "Id": 976,
+  "Nombre": "PUERTA 271/272/273",
+  "LineaId": 1,
+  "LineaNombre": "TRADICIONAL",
+  "TipoAberturaId": 6,
+  "TipoAberturaNombre": "PUERTA",
+  "Descripcion": "",
+  "EspesorMin": 4,
+  "EspesorMax": 8,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2710",
+      "DescripcionPerfil": "MARCO DE PUERTA HOJA RECTA DE 36 MM",
+      "Cantidad": 1,
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Estructural",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2710",
+      "DescripcionPerfil": "MARCO DE PUERTA HOJA RECTA DE 36 MM",
+      "Cantidad": 1,
+      "FormulaMedida": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Estructural",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2730",
+      "DescripcionPerfil": "PARANTE DE HOJA PUERTA RECTA DE 36 MM",
+      "Cantidad": 2,
+      "FormulaMedida": "H-32",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 10,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2720",
+      "DescripcionPerfil": "TRAVESA\u00D1O HOJA PUERTA RECTA DE 36 MM",
+      "Cantidad": 2,
+      "FormulaMedida": "A-220",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Estructural",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2710",
+      "DescripcionPerfil": "MARCO DE PUERTA HOJA RECTA DE 36 MM",
+      "Cantidad": 1,
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Estructural",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80070",
+      "DescripcionAccesorio": "ESC.PARTE A INTERM 70.5MM (055) (CAJA X 100UNID)",
+      "FormulaCantidad": "2",
+      "Unidad": "CAJAX100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89225",
+      "DescripcionAccesorio": "MANIJA PUERTA H-50 DOBLE BALANCIN ISTANA (NYLON)",
+      "FormulaCantidad": "1",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "85670",
+      "DescripcionAccesorio": "CERRADURA KALLAY 3001",
+      "FormulaCantidad": "1",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80945",
+      "DescripcionAccesorio": "BISAGRA FL H-1 ROSARIO PTA 36MM (CAJA X 12UNID)",
+      "FormulaCantidad": "3",
+      "Unidad": "CAJA X 12"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83150",
+      "DescripcionAccesorio": "FELPA 7*6 JN NEGRA ROLLO 400MTS",
+      "FormulaCantidad": "(A\u002B(H*2))/1000",
+      "Unidad": "ROLLO X 400"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "85650",
+      "DescripcionAccesorio": "BULONES HEXAGONALES 1/4 x 38MM",
+      "FormulaCantidad": "12",
+      "Unidad": "BOLSAX50"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaAncho": "A-230",
+      "FormulaAlto": "H-160",
+      "BurleteCodigo1": "82020",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 4,
+        "EspesorMax": 8,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": null,
+        "BurleteCodigo2": null
+      }
+    ]
+  }
+}

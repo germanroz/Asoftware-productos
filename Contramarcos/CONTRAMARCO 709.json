@@ -1,0 +1,45 @@
+﻿{
+  "Id": 1,
+  "Nombre": "CONTRAMARCO 709",
+  "LineaNombre": "TRADICIONAL",
+  "Perfiles": [
+    {
+      "Id": 1,
+      "CodigoPerfil": "7090",
+      "DescripcionPerfil": "",
+      "Cantidad": 2,
+      "FormulaMedida": "A+20",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H"
+    },
+    {
+      "Id": 2,
+      "CodigoPerfil": "7090",
+      "DescripcionPerfil": "Perfil Contramarco 40x20",
+      "Cantidad": 2,
+      "FormulaMedida": "H+20",
+      "AnguloCorte": 45,
+       "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "V"
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 1,
+      "CodigoAccesorio": "TORNILLO-001",
+      "DescripcionAccesorio": "Tornillo autorroscante 4.2x25",
+      "FormulaCantidad": "4",
+      "Unidad": "pza"
+    },
+    {
+      "Id": 2,
+      "CodigoAccesorio": "ESPUMA-001",
+      "DescripcionAccesorio": "Espuma expansiva",
+      "FormulaCantidad": "A/1000",
+      "Unidad": "ml"
+    }
+  ]
+}

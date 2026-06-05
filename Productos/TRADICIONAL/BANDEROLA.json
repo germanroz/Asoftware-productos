@@ -1,0 +1,164 @@
+﻿{
+  "Id": 0,
+  "Nombre": "BANDEROLA",
+  "LineaId": 1,
+  "LineaNombre": "TRADICIONAL",
+  "TipoAberturaId": 2,
+  "TipoAberturaNombre": "BANDEROLA",
+  "Descripcion": "BANDEROLA",
+  "EspesorMin": 4,
+  "EspesorMax": 8,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "9160",
+      "DescripcionPerfil": "MARCO V.BANDEROLA Y VENTILUZ",
+      "Cantidad": 2,
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "9160",
+      "DescripcionPerfil": "MARCO V.BANDEROLA Y VENTILUZ",
+      "Cantidad": 2,
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "9190",
+      "DescripcionPerfil": "Hoja Banderola",
+      "Cantidad": 2,
+      "FormulaMedida": "A-60",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "9190",
+      "DescripcionPerfil": "Hoja Banderola",
+      "Cantidad": 2,
+      "FormulaMedida": "H-60",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "9080",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO",
+      "Cantidad": 2,
+      "FormulaMedida": "A-123",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": -15
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "9080",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO",
+      "Cantidad": 2,
+      "FormulaMedida": "H-148",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": -15
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80070",
+      "DescripcionAccesorio": "ESC.PARTE A INTERM 70.5MM (055) (CAJA X 100UNID)",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJAX100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80220",
+      "DescripcionAccesorio": "ESC.PARTE C (BOLSA X 50 UNID)",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSAX50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "82430",
+      "DescripcionAccesorio": "FELPA POLIP.7X4.5 M/M (PTE H) (ROLLO X 300 MT)",
+      "FormulaCantidad": "(A\u002BH*4)/1000",
+      "Unidad": "ROLLO X 300"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "84625",
+      "DescripcionAccesorio": "TRABA BANDEROLA H-14 (GQ)",
+      "FormulaCantidad": "1",
+      "Unidad": "UNIDAD"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaAncho": "A-45",
+      "FormulaAlto": "H-45",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "ConContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 4,
+        "EspesorMax": 8,
+        "ContravidrioCodigo": "9080",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO",
+        "ContravidrioAjuste": -15,
+        "BurleteCodigo1": null,
+        "BurleteCodigo2": null
+      }
+    ]
+  }
+}

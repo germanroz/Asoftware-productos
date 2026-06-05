@@ -1,0 +1,16 @@
+{
+  "Id": 0,
+  "Nombre": "SPL V1",
+  "LineaId": 0,
+  "LineaNombre": "BARANDAS",
+  "TipoAberturaId": 7,
+  "TipoAberturaNombre": "BARANDA",
+  "Descripcion": "Baranda SPL - Forma 1",
+  "Modelo": "SPL",
+  "EspesorMin": 4,
+  "EspesorMax": 8,
+  "Perfiles": [],
+  "Accesorios": [],
+  "Vidrios": [],
+  "ConfiguracionVidrio": { "Tipo": "SinVidrio", "Reglas": [] }
+}

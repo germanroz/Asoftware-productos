@@ -1,0 +1,38 @@
+﻿{
+  "Id": 0,
+  "Nombre": "PREMARCO 648",
+  "LineaNombre": "TRADICIONAL",
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "6480",
+      "DescripcionPerfil": "PREMARCO DE 55 MM",
+      "Cantidad": 2,
+      "Formula": "A\u002B36",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "6480",
+      "DescripcionPerfil": "PREMARCO DE 55 MM",
+      "Cantidad": 2,
+      "Formula": "H\u002B36",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H"
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "CodigoAccesorio": "87220",
+      "DescripcionAccesorio": "GRAMPA DE AMURE PRE-MARCO (S-9 O S-09)",
+      "FormulaCantidad": "((A\u002BH)*2)/250",
+      "Unidad": "CAJAX100"
+    }
+  ]
+}

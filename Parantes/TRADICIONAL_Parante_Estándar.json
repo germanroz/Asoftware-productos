@@ -1,0 +1,28 @@
+﻿{
+  "Id": 1,
+  "Nombre": "Parante 994",
+  "LineaNombre": "TRADICIONAL",
+  "TipoProducto": "PAÑO FIJO",
+  "Posicion": 0,
+  "Espesor": 20,
+  "PerfilCodigo": "9940",
+  "PerfilDescripcion": "Perfil Parante 6mm",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "9940",
+      "DescripcionPerfil": "Perfil Parante 6mm",
+      "Cantidad": 1,
+      "FormulaMedida": "Alto-39",
+      "AnguloCorte": 90,
+      "Orientacion": "V"
+    }
+  ],
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "85540",
+      "DescripcionAccesorio": "",
+      "FormulaCantidad": "2",
+      "Unidad": "UNIDAD"
+    }
+  ]
+}

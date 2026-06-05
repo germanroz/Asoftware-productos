@@ -1,0 +1,110 @@
+﻿{
+  "Id": 0,
+  "Nombre": "PA\u00D1O FIJO 907/908",
+  "LineaId": 1,
+  "LineaNombre": "TRADICIONAL",
+  "TipoAberturaId": 1,
+  "TipoAberturaNombre": "PA\u00D1O FIJO",
+  "Descripcion": "PA\u00D1O FIJO 907/908",
+  "EspesorMin": 4,
+  "EspesorMax": 8,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "9070",
+      "DescripcionPerfil": "MARCO PA\u00D1O FIJO",
+      "Cantidad": 2,
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 20,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "9070",
+      "DescripcionPerfil": "MARCO PA\u00D1O FIJO",
+      "Cantidad": 2,
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 20,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "9080",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO",
+      "Cantidad": 2,
+      "FormulaMedida": "A-60",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": -15
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "9080",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO",
+      "Cantidad": 2,
+      "FormulaMedida": "H-80",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": -15
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80070",
+      "DescripcionAccesorio": "ESC.PARTE A INTERM 70.5MM (055) (CAJA X 100UNID)",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJAX100"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaAncho": "A-50",
+      "FormulaAlto": "H-50",
+      "BurleteCodigo1": "89130",
+      "BurleteCodigo2": "82200"
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "ConContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 4,
+        "EspesorMax": 8,
+        "ContravidrioCodigo": "9080",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO",
+        "ContravidrioAjuste": -15,
+        "BurleteCodigo1": null,
+        "BurleteCodigo2": null
+      }
+    ]
+  }
+}

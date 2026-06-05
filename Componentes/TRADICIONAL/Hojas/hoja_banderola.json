@@ -1,0 +1,64 @@
+﻿{
+  "Tipo": "Hoja",
+  "Nombre": "Hoja Banderola",
+  "Linea": "TRADICIONAL",
+  "Descripcion": "Hoja para ventana tipo banderola",
+
+  "Formulas": {
+    "AnchoLuzLibre": "A - 50",
+    "AltoLuzLibre": "H - 50",
+    "AnchoVidrio": "A - 80",
+    "AltoVidrio": "H - 80"
+  },
+
+  "Despiece": [
+    {
+      "CodigoPerfil": "1030",
+      "Descripcion": "PARANTE LATERAL",
+      "Cantidad": 2,
+      "FormulaMedida": "H - 66",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Estructural"
+    },
+    {
+      "CodigoPerfil": "1040",
+      "Descripcion": "PARANTE CENTRAL",
+      "Cantidad": 2,
+      "FormulaMedida": "H - 66",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Estructural"
+    },
+    {
+      "CodigoPerfil": "9020",
+      "Descripcion": "CABEZAL/ZOCALO",
+      "Cantidad": 2,
+      "FormulaMedida": "A/2 - 100",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco"
+    }
+  ],
+
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "84230",
+      "FormulaCantidad": "4",
+      "Descripcion": "ESCUADRA"
+    }
+  ],
+
+  "PuntosDeConexion": {
+    "seVinculaA": "Marco",
+    "usaLuzLibre": true
+  },
+
+  "Dibujo": {
+    "tieneVidrio": true,
+    "grosorHoja": 6
+  }
+}

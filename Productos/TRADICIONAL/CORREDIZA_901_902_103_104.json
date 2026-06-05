@@ -1,0 +1,165 @@
+﻿{
+  "Id": 94,
+  "Nombre": "CORREDIZA 901/902/103/104",
+  "LineaId": 1,
+  "LineaNombre": "TRADICIONAL",
+  "TipoAberturaId": 3,
+  "TipoAberturaNombre": "CORREDIZA",
+  "Descripcion": "",
+  "EspesorMin": 4,
+  "EspesorMax": 8,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "9010",
+      "DescripcionPerfil": "MARCO CORREDIZA",
+      "Cantidad": 2,
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Estructural",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "9010",
+      "DescripcionPerfil": "MARCO CORREDIZA",
+      "Cantidad": 2,
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Estructural",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "1030",
+      "DescripcionPerfil": "PARANTE LATERAL LIVIANO",
+      "Cantidad": 2,
+      "FormulaMedida": "H-66",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Estructural",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "1040",
+      "DescripcionPerfil": "PARANTE CENTRAL LIVIANO",
+      "Cantidad": 2,
+      "FormulaMedida": "H-66",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Estructural",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "9020",
+      "DescripcionPerfil": "CABEZAL/Z\u00D3CALO VENTANA CORREDIZA",
+      "Cantidad": 4,
+      "FormulaMedida": "A/2-100",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 10,
+      "AjusteGalce": 0
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80070",
+      "DescripcionAccesorio": "ESC.PARTE A INTERM 70.5MM (055) (CAJA X 100UNID)",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJAX100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83140",
+      "DescripcionAccesorio": "FELPA 7*4.5 JN NEGRA ROLLO 500MTS",
+      "FormulaCantidad": "((A*4)\u002B(H*5))/1000",
+      "Unidad": "ROLLO X 500"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83620",
+      "DescripcionAccesorio": "TORN. RANURADO 10 X 1 1/2 PTE I (BOLSA X 100 UNID)",
+      "FormulaCantidad": "8",
+      "Unidad": "BOLSAX100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83610",
+      "DescripcionAccesorio": "TOPE DE GOMA (PARTE J) (BOLSA X 200 UNID)",
+      "FormulaCantidad": "8",
+      "Unidad": "BOLSAX200"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83590",
+      "DescripcionAccesorio": "ANTIRRUIDOS LIVIANOS (103-104) (BOLSA X 100UNID)",
+      "FormulaCantidad": "8",
+      "Unidad": "BOLSAX100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83840",
+      "DescripcionAccesorio": "TAPON CRUCE AL. P/101/501 33.8MM(BOLSA X 20UNID)",
+      "FormulaCantidad": "2",
+      "Unidad": "BOLSAS X 20"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 2,
+      "FormulaAncho": "A/2-70",
+      "FormulaAlto": "H-100",
+      "BurleteCodigo1": "82040",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 4,
+        "EspesorMax": 8,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": null,
+        "BurleteCodigo2": null
+      }
+    ]
+  }
+}
