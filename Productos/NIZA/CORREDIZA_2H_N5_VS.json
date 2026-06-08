@@ -1,0 +1,149 @@
+{
+  "Id": 0,
+  "Nombre": "CORREDIZA 2H N5 VS",
+  "LineaId": 4,
+  "LineaNombre": "NIZA",
+  "TipoAberturaId": 3,
+  "TipoAberturaNombre": "CORREDIZA",
+  "Descripcion": "CORREDIZA 2H N5 VS",
+  "EspesorMin": 6,
+  "EspesorMax": 10,
+  "Orden": 0,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8650",
+      "DescripcionPerfil": "JAMBA MARCO CORREDIZA 2 GU\u00CDAS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8640",
+      "DescripcionPerfil": "UMBRAL / DINTEL MARCO CORREDIZA 2 GU\u00CDAS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-50",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "5610",
+      "DescripcionPerfil": "SOBRE GU\u00CDA MARCO CORREDIZA",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-50",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "4090",
+      "DescripcionPerfil": "Hoja Corrediza 45\u00BA VS",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/2\u002B4",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "4090",
+      "DescripcionPerfil": "Hoja Corrediza 45\u00BA VS",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-78",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "4080",
+      "DescripcionPerfil": "Solapa de cruce de hojas corredizas",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-78",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    }
+  ],
+  "Accesorios": [],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 2,
+      "FormulaAncho": "A/2-50",
+      "FormulaAlto": "H-100",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 6,
+        "EspesorMax": 7,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82110",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 8,
+        "EspesorMax": 10,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82100",
+        "BurleteCodigo2": "82100"
+      }
+    ]
+  }
+}

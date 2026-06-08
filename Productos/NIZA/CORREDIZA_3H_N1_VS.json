@@ -1,0 +1,144 @@
+{
+  "Id": 0,
+  "Nombre": "CORREDIZA 3H N1 VS",
+  "LineaId": 4,
+  "LineaNombre": "NIZA",
+  "TipoAberturaId": 3,
+  "TipoAberturaNombre": "CORREDIZA",
+  "Descripcion": "CORREDIZA 3H N1 VS",
+  "EspesorMin": 4,
+  "EspesorMax": 10,
+  "Orden": 0,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "7210",
+      "DescripcionPerfil": "Marco tres gu\u00EDas N-UNO",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "7210",
+      "DescripcionPerfil": "Marco tres gu\u00EDas N-UNO",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "4050",
+      "DescripcionPerfil": "HOJA CORREDIZA VS",
+      "Cantidad": 6,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/2\u002B16",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "4050",
+      "DescripcionPerfil": "HOJA CORREDIZA VS",
+      "Cantidad": 6,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-78",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "5610",
+      "DescripcionPerfil": "SOBRE GU\u00CDA MARCO CORREDIZA",
+      "Cantidad": 3,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-88",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0
+    }
+  ],
+  "Accesorios": [],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 3,
+      "FormulaAncho": "A/3-48",
+      "FormulaAlto": "H-128",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 4,
+        "EspesorMax": 5,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82110",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 6,
+        "EspesorMax": 7,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82100",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 8,
+        "EspesorMax": 10,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82090",
+        "BurleteCodigo2": "82090"
+      }
+    ]
+  }
+}
