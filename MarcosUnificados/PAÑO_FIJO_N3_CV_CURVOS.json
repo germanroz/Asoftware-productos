@@ -1,0 +1,70 @@
+{
+  "Id": 1,
+  "Nombre": "PAÑO FIJO N3 CV CURVOS",
+  "LineaNombre": "NIZA",
+  "TipoProducto": "PAÑO FIJO",
+  "ParanteFormulaMedida": "H-58",
+  "TravesañoFormulaMedida": "A-58",
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "2680",
+      "DescripcionPerfil": "MARCO PAÑO FIJO / VENTANA DE ABRIR",
+      "Cantidad": 2,
+      "FormulaMedida": "A",
+      "AnguloCorte": 45,
+      "Orientacion": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "2680",
+      "DescripcionPerfil": "MARCO PAÑO FIJO / VENTANA DE ABRIR",
+      "Cantidad": 2,
+      "FormulaMedida": "H",
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "1950",
+      "DescripcionPerfil": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+      "Cantidad": 4,
+      "FormulaMedida": "(A-58)/2",
+      "AnguloCorte": 45,
+      "Orientacion": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "1950",
+      "DescripcionPerfil": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+      "Cantidad": 2,
+      "FormulaMedida": "H-58",
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "CodigoAccesorio": "80470",
+      "DescripcionAccesorio": "ESCUADRA A30/ALFA E-83 MONTICELLI",
+      "FormulaCantidad": "4",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "89160",
+      "DescripcionAccesorio": "CLIP P/CONTRAVIDRIO T-96 O 5096(BOLSA X 100 U)",
+      "FormulaCantidad": "((A+H)*2)/250",
+      "Unidad": "BOLSA X 100"
+    }
+  ]
+}

@@ -1,19 +1,19 @@
 ﻿{
   "Id": 1,
-  "Nombre": "Parante 994",
-  "LineaNombre": "TRADICIONAL",
+  "Nombre": "Parante 353",
+  "LineaNombre": "NIZA",
   "TipoProducto": "PAÑO FIJO",
   "Posicion": 0,
-  "Espesor": 20,
+  "Espesor": 34,
   "ContravidrioLadoDivisor": "espesor/2",
-  "PerfilCodigo": "9940",
-  "PerfilDescripcion": "Perfil Parante 6mm",
+  "PerfilCodigo": "3530",
+  "PerfilDescripcion": "",
   "Perfiles": [
     {
-      "CodigoPerfil": "9940",
-      "DescripcionPerfil": "Perfil Parante 6mm",
+      "CodigoPerfil": "3530",
+      "DescripcionPerfil": "",
       "Cantidad": 1,
-      "FormulaMedida": "Alto-39",
+      "FormulaMedida": "",
       "AnguloCorte": 90,
       "Orientacion": "V"
     }

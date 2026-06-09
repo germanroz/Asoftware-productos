@@ -1,0 +1,41 @@
+{
+  "Id": 0,
+  "Nombre": "PREMARCO PARA PUERTA 648",
+  "LineaNombre": "TRADICIONAL",
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "6480",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "Formula": "A\u002B36",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "6480",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "Formula": "H\u002B18",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 90,
+      "Orientacion": "V"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "6480",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "Formula": "H\u002B18",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 45,
+      "Orientacion": "V"
+    }
+  ],
+  "Accesorios": []
+}

@@ -1,0 +1,41 @@
+{
+  "Id": 0,
+  "Nombre": "CONTRAMARCO PARA PUERTA 709",
+  "LineaNombre": "TRADICIONAL",
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "7090",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "A\u002B50",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "7090",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "H\u002B25",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 90,
+      "Orientacion": "V"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "7090",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "H\u002B25",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 45,
+      "Orientacion": "V"
+    }
+  ],
+  "Accesorios": []
+}

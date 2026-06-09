@@ -1,0 +1,25 @@
+{
+  "Id": 0,
+  "Nombre": "TRAVESA\u00D1O PUERTA 272",
+  "LineaNombre": "TRADICIONAL",
+  "TipoProducto": "PUERTA",
+  "Posicion": 0,
+  "Espesor": 50,
+  "ContravidrioLadoDivisor": "espesor/2",
+  "PerfilCodigo": "2720",
+  "PerfilDescripcion": null,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "2720",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "A",
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": []
+}
