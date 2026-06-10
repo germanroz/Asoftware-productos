@@ -1,0 +1,43 @@
+{
+  "Id": 2,
+  "Nombre": "BANDEROLA NIZA",
+  "LineaNombre": "NIZA",
+  "TipoProducto": "BANDEROLA",
+  "ParanteFormulaMedida": "H-58",
+  "TravesañoFormulaMedida": "A-58",
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "2680",
+      "DescripcionPerfil": "MARCO PAÑO FIJO / VENTANA DE ABRIR",
+      "Cantidad": 2,
+      "FormulaMedida": "A",
+      "AnguloCorte": 45,
+      "Orientacion": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "TipoPerfil": "Marco"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "2680",
+      "DescripcionPerfil": "MARCO PAÑO FIJO / VENTANA DE ABRIR",
+      "Cantidad": 2,
+      "FormulaMedida": "H",
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "TipoPerfil": "Marco"
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "CodigoAccesorio": "80470",
+      "DescripcionAccesorio": "ESCUADRA A30/ALFA E-83 MONTICELLI",
+      "FormulaCantidad": "4",
+      "Unidad": "UNIDAD"
+    }
+  ]
+}

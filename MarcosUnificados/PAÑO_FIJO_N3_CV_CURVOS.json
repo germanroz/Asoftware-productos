@@ -1,6 +1,6 @@
 {
   "Id": 1,
-  "Nombre": "PAÑO FIJO N3 CV CURVOS",
+  "Nombre": "PAÑO FIJO NIZA",
   "LineaNombre": "NIZA",
   "TipoProducto": "PAÑO FIJO",
   "ParanteFormulaMedida": "H-58",
@@ -15,7 +15,8 @@
       "AnguloCorte": 45,
       "Orientacion": "H",
       "AnguloCorte1": 45,
-      "AnguloCorte2": 45
+      "AnguloCorte2": 45,
+      "TipoPerfil": "Marco"
     },
     {
       "Id": 0,
@@ -26,18 +27,20 @@
       "AnguloCorte": 45,
       "Orientacion": "V",
       "AnguloCorte1": 45,
-      "AnguloCorte2": 45
+      "AnguloCorte2": 45,
+      "TipoPerfil": "Marco"
     },
     {
       "Id": 0,
       "CodigoPerfil": "1950",
       "DescripcionPerfil": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
-      "Cantidad": 4,
-      "FormulaMedida": "(A-58)/2",
+      "Cantidad": 2,
+      "FormulaMedida": "A-58",
       "AnguloCorte": 45,
       "Orientacion": "H",
       "AnguloCorte1": 45,
-      "AnguloCorte2": 45
+      "AnguloCorte2": 45,
+      "TipoPerfil": "Contravidrio"
     },
     {
       "Id": 0,
@@ -48,7 +51,8 @@
       "AnguloCorte": 45,
       "Orientacion": "V",
       "AnguloCorte1": 45,
-      "AnguloCorte2": 45
+      "AnguloCorte2": 45,
+      "TipoPerfil": "Contravidrio"
     }
   ],
   "Accesorios": [
