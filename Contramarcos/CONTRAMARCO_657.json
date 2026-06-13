@@ -1,0 +1,38 @@
+{
+  "Id": 0,
+  "Nombre": "CONTRAMARCO 657",
+  "LineaNombre": "DELTA",
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "6570",
+      "DescripcionPerfil": "CONTRAMARCO DE 28 MM",
+      "Cantidad": 2,
+      "FormulaMedida": "A\u002B54",
+      "AnguloCorte": 45,
+      "Orientacion": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "6570",
+      "DescripcionPerfil": "CONTRAMARCO DE 28 MM",
+      "Cantidad": 2,
+      "FormulaMedida": "H\u002B54",
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "CodigoAccesorio": "89190",
+      "DescripcionAccesorio": "ESC. P/CONTRAMARCO (E-66 \u0026 5066) (BOLSA X 100U)",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSAX100"
+    }
+  ]
+}
