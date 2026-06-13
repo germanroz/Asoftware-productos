@@ -5,14 +5,135 @@
   "LineaNombre": "BARANDAS",
   "TipoAberturaId": 9,
   "TipoAberturaNombre": "BARANDA",
-  "Descripcion": "Baranda BBA - Forma 2",
-  "EspesorMin": 4,
+  "Descripcion": "BBA 032",
+  "EspesorMin": 6,
   "EspesorMax": 8,
-  "Perfiles": [],
-  "Accesorios": [],
-  "Vidrios": [],
+  "Orden": 0,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "320",
+      "DescripcionPerfil": "PASAMANOS RECTO 35.5 MM",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "290",
+      "DescripcionPerfil": "TAPA CURVA INFERIOR PASAMANO BARANDA BBA",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "310",
+      "DescripcionPerfil": "PORTA VIDRIO INFERIOR BARANDA BBA",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "300",
+      "DescripcionPerfil": "PARANTE DE BARANDA BBA",
+      "Cantidad": 1,
+      "FormulaCantidad": "(A/1000)\u002B1",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "95425",
+      "DescripcionAccesorio": "KIT PARA BARANDA BBA ALCEMAR SIN ANCLAJE",
+      "FormulaCantidad": "(A/1000)\u002B1",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "95410",
+      "DescripcionAccesorio": "ANCLAJE BARANDA BBA CHU853",
+      "FormulaCantidad": "(A/1000)\u002B1",
+      "Unidad": "UNIDAD"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "A/1000",
+      "FormulaAncho": "((A/A)*1000)-5",
+      "FormulaAlto": "H-60",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
   "ConfiguracionVidrio": {
-    "Tipo": "ConContravidrio",
-    "Reglas": []
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 6,
+        "EspesorMax": 6,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": null,
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "95460",
+        "BurleteCodigo2": null
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 8,
+        "EspesorMax": 8,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": null,
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "95470",
+        "BurleteCodigo2": null
+      }
+    ]
   }
 }

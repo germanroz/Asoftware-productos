@@ -9,6 +9,7 @@
   "EspesorMin": 6,
   "EspesorMax": 10,
   "Orden": 0,
+  "FormaCorrediza": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -24,7 +25,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -40,7 +42,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -56,7 +59,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -72,7 +76,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -88,7 +93,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -104,7 +110,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -120,7 +127,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -136,7 +144,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -152,7 +161,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -168,7 +178,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -184,7 +195,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -200,7 +212,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -216,7 +229,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -232,7 +246,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     }
   ],
   "Accesorios": [
@@ -266,6 +281,7 @@
       "Id": 0,
       "ProductoId": 0,
       "Cantidad": 1,
+      "FormulaCantidad": "",
       "FormulaAncho": "A-E-97",
       "FormulaAlto": "H-190",
       "BurleteCodigo1": "",
@@ -275,6 +291,7 @@
       "Id": 0,
       "ProductoId": 0,
       "Cantidad": 1,
+      "FormulaCantidad": "",
       "FormulaAncho": "E-5-66",
       "FormulaAlto": "H-85",
       "BurleteCodigo1": "",

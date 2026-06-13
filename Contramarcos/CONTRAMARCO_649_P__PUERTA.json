@@ -1,0 +1,41 @@
+{
+  "Id": 0,
+  "Nombre": "CONTRAMARCO 649 P/ PUERTA",
+  "LineaNombre": "NIZA",
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "6490",
+      "DescripcionPerfil": "contramarco recto",
+      "Cantidad": 1,
+      "FormulaMedida": "A",
+      "AnguloCorte": 45,
+      "Orientacion": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "6490",
+      "DescripcionPerfil": "contramarco recto",
+      "Cantidad": 1,
+      "FormulaMedida": "H",
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 90
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "6490",
+      "DescripcionPerfil": "contramarco recto",
+      "Cantidad": 1,
+      "FormulaMedida": "H",
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 45
+    }
+  ],
+  "Accesorios": []
+}

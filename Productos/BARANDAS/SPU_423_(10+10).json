@@ -1,0 +1,93 @@
+{
+  "Id": 0,
+  "Nombre": "SPU 423 (10\u002B10)",
+  "LineaId": 5,
+  "LineaNombre": "BARANDAS",
+  "TipoAberturaId": 9,
+  "TipoAberturaNombre": "BARANDA",
+  "Descripcion": "Copia de SPU 423 (10\u002B10)",
+  "EspesorMin": 20,
+  "EspesorMax": 20,
+  "Orden": 0,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "4230",
+      "DescripcionPerfil": "BARANDA U SP",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "91650",
+      "DescripcionAccesorio": "BURLETE APOYO VIDRIO BARANDA SPL (12556)",
+      "FormulaCantidad": "A/1000",
+      "Unidad": "BARRA X 3 MT"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "91600",
+      "DescripcionAccesorio": "BURLETE JUNTA EXTERIOR BARANDA SPL (12536) EPDM",
+      "FormulaCantidad": "A/1000",
+      "Unidad": "ROLLO X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "91640",
+      "DescripcionAccesorio": "CU\uFFFDA PLASTICA BARANDA SPL VIDRIO 10\u002B10",
+      "FormulaCantidad": "(A/250)\u002B1",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "82020",
+      "DescripcionAccesorio": "BURLETE CU\uFFFDA PARAG. GRANDE (12069) X 100MT EPDM",
+      "FormulaCantidad": "A/1000",
+      "Unidad": "ROLLOX100"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "A/1000",
+      "FormulaAncho": "((A/A)*1000)-10",
+      "FormulaAlto": "H",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 20,
+        "EspesorMax": 20,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": null,
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": null,
+        "BurleteCodigo2": null
+      }
+    ]
+  }
+}

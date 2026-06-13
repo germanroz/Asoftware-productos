@@ -1,13 +1,15 @@
-﻿{
+{
   "Id": 94,
   "Nombre": "CORREDIZA 901/902/103/104",
   "LineaId": 1,
   "LineaNombre": "TRADICIONAL",
   "TipoAberturaId": 3,
   "TipoAberturaNombre": "CORREDIZA",
-  "Descripcion": "",
+  "Descripcion": "CORREDIZA 901/902/103/104",
   "EspesorMin": 4,
   "EspesorMax": 8,
+  "Orden": 0,
+  "FormaCorrediza": 3,
   "Perfiles": [
     {
       "Id": 0,
@@ -15,14 +17,16 @@
       "CodigoPerfil": "9010",
       "DescripcionPerfil": "MARCO CORREDIZA",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "A",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Estructural",
+      "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -30,14 +34,16 @@
       "CodigoPerfil": "9010",
       "DescripcionPerfil": "MARCO CORREDIZA",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "H",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Estructural",
+      "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -45,14 +51,16 @@
       "CodigoPerfil": "1030",
       "DescripcionPerfil": "PARANTE LATERAL LIVIANO",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "H-66",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Estructural",
+      "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -60,14 +68,16 @@
       "CodigoPerfil": "1040",
       "DescripcionPerfil": "PARANTE CENTRAL LIVIANO",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "H-66",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Estructural",
+      "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -75,14 +85,16 @@
       "CodigoPerfil": "9020",
       "DescripcionPerfil": "CABEZAL/Z\u00D3CALO VENTANA CORREDIZA",
       "Cantidad": 4,
-      "FormulaMedida": "A/2-100",
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/2-99",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
       "TipoPerfil": "Marco",
-      "GalceBase": 10,
-      "AjusteGalce": 0
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     }
   ],
   "Accesorios": [
@@ -140,8 +152,9 @@
       "Id": 0,
       "ProductoId": 0,
       "Cantidad": 2,
-      "FormulaAncho": "A/2-70",
-      "FormulaAlto": "H-100",
+      "FormulaCantidad": "",
+      "FormulaAncho": "A/2-84",
+      "FormulaAlto": "H-149",
       "BurleteCodigo1": "82040",
       "BurleteCodigo2": ""
     }

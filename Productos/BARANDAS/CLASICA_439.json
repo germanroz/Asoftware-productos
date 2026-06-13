@@ -6,13 +6,115 @@
   "TipoAberturaId": 9,
   "TipoAberturaNombre": "BARANDA",
   "Descripcion": "Baranda Cl\u00E1sica - Forma 1",
-  "EspesorMin": 4,
+  "EspesorMin": 6,
   "EspesorMax": 8,
-  "Perfiles": [],
-  "Accesorios": [],
-  "Vidrios": [],
+  "Orden": 0,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "4390",
+      "DescripcionPerfil": "PASAMANOS RECTO BARANDA CL\u00C1SICA",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "4680",
+      "DescripcionPerfil": "PORTA VIDRIO BARANDA CL\u00C1SICA",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "4770",
+      "DescripcionPerfil": "BASE PASAMANO BARANDA CL\u00C1SICA",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "4760",
+      "DescripcionPerfil": "PARANTE BARANDA CL\u00C1SICA",
+      "Cantidad": 1,
+      "FormulaCantidad": "(A/1000)\u002B1",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83055",
+      "DescripcionAccesorio": "SOPORTE PORTA BLISAN S-02",
+      "FormulaCantidad": "((A/1000)\u002B1)*2",
+      "Unidad": "UNIDAD"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "A/1000",
+      "FormulaAncho": "(A/1000)-5",
+      "FormulaAlto": "H",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
   "ConfiguracionVidrio": {
-    "Tipo": "ConContravidrio",
-    "Reglas": []
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 6,
+        "EspesorMax": 8,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": null,
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "83040",
+        "BurleteCodigo2": null
+      }
+    ]
   }
 }

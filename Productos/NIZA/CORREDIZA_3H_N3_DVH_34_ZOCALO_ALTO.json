@@ -8,7 +8,8 @@
   "Descripcion": "CORREDIZA 3H N3 DVH 34 ZOCALO ALTO",
   "EspesorMin": 27,
   "EspesorMax": 32,
-  "Orden": 13,
+  "Orden": 0,
+  "FormaCorrediza": 2,
   "Perfiles": [
     {
       "Id": 0,
@@ -24,7 +25,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -40,7 +42,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -56,7 +59,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -72,7 +76,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -88,7 +93,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -104,7 +110,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -120,7 +127,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     }
   ],
   "Accesorios": [
@@ -202,6 +210,7 @@
       "Id": 0,
       "ProductoId": 0,
       "Cantidad": 3,
+      "FormulaCantidad": "",
       "FormulaAncho": "A/3-83",
       "FormulaAlto": "H-182",
       "BurleteCodigo1": "",

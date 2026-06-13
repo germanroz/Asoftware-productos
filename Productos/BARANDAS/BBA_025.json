@@ -24,7 +24,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -40,7 +41,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -56,7 +58,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -72,13 +75,65 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
     }
   ],
-  "Accesorios": [],
-  "Vidrios": [],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "95425",
+      "DescripcionAccesorio": "KIT PARA BARANDA BBA ALCEMAR SIN ANCLAJE",
+      "FormulaCantidad": "(A/1000)\u002B1",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "95410",
+      "DescripcionAccesorio": "ANCLAJE BARANDA BBA CHU853",
+      "FormulaCantidad": "(A/1000)\u002B1",
+      "Unidad": "UNIDAD"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "A/1000",
+      "FormulaAncho": "((A/A)*1000)-5",
+      "FormulaAlto": "H-60",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
   "ConfiguracionVidrio": {
-    "Tipo": "ConContravidrio",
-    "Reglas": []
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 6,
+        "EspesorMax": 6,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": null,
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "95460",
+        "BurleteCodigo2": null
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 8,
+        "EspesorMax": 8,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": null,
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "95470",
+        "BurleteCodigo2": null
+      }
+    ]
   }
 }
