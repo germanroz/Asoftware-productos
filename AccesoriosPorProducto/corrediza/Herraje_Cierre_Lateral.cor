@@ -1,0 +1,20 @@
+{
+  "Nombre": "Cierre Lateral",
+  "Descripcion": "Configuración de prueba con dos accesorios por código",
+  "PesoMaximoKg": 100,
+  "PesoMinimoKg": 0,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "81675",
+      "Cantidad": 2,
+      "Modelo": "",
+      "Obligatorio": true
+    },
+    {
+      "CodigoAccesorio": "81210",
+      "Cantidad": 4,
+      "Modelo": "",
+      "Obligatorio": true
+    }
+  ]
+}

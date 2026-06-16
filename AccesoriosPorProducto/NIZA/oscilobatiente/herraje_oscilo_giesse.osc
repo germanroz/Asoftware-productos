@@ -1,0 +1,26 @@
+{
+  "Nombre": "HERRAJE OSCILO GIESSE",
+  "Descripcion": "Variante personalizada por el usuario",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "92055",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true
+    },
+    {
+      "CodigoAccesorio": "92065",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true
+    },
+    {
+      "CodigoAccesorio": "92080",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true
+    }
+  ]
+}

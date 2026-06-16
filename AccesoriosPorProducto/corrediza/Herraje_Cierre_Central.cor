@@ -1,0 +1,20 @@
+{
+  "Nombre": "Cierre Central",
+  "Descripcion": "Configuración de prueba con dos accesorios por código",
+  "PesoMaximoKg": 50,
+  "PesoMinimoKg": 0,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "81555",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true
+    },
+    {
+      "CodigoAccesorio": "81210",
+      "Cantidad": 4,
+      "Modelo": "",
+      "Obligatorio": true
+    }
+  ]
+}

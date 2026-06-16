@@ -1,0 +1,26 @@
+{
+  "Nombre": "Bi punto JN",
+  "Descripcion": "Variante personalizada por el usuario",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "96150",
+      "Cantidad": 2,
+      "Modelo": "",
+      "Obligatorio": true
+    },
+    {
+      "CodigoAccesorio": "94405",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true
+    },
+    {
+      "CodigoAccesorio": "96180",
+      "Cantidad": 8,
+      "Modelo": "",
+      "Obligatorio": true
+    }
+  ]
+}

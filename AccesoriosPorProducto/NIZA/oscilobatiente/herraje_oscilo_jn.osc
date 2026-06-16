@@ -1,0 +1,14 @@
+{
+  "Nombre": "HERRAJE OSCILO JN",
+  "Descripcion": "Variante personalizada por el usuario",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "96265",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true
+    }
+  ]
+}
