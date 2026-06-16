@@ -1,17 +1,17 @@
 {
   "Id": 0,
-  "Nombre": "TRAVESA\u00D1O PUERTA 272",
-  "LineaNombre": "TRADICIONAL",
+  "Nombre": "TRAVESA\u00D1O PUERTA 353",
+  "LineaNombre": "NIZA",
   "TipoProducto": "PUERTA",
   "Posicion": 0,
-  "Espesor": 25,
+  "Espesor": 17,
   "ContravidrioLadoDivisor": "espesor/2",
-  "PerfilCodigo": "2720",
+  "PerfilCodigo": "3530",
   "PerfilDescripcion": null,
   "Perfiles": [
     {
       "Id": 0,
-      "CodigoPerfil": "2720",
+      "CodigoPerfil": "3530",
       "DescripcionPerfil": "",
       "Cantidad": 1,
       "FormulaMedida": "A",

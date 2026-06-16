@@ -1,13 +1,13 @@
 {
   "Id": 0,
-  "Nombre": "CONTRAMARCO 657",
+  "Nombre": "CONTRAMARCO 657 P/ PUERTA",
   "LineaNombre": "DELTA",
   "Perfiles": [
     {
       "Id": 0,
       "CodigoPerfil": "6570",
       "DescripcionPerfil": "CONTRAMARCO DE 28 MM",
-      "Cantidad": 2,
+      "Cantidad": 1,
       "FormulaMedida": "A\u002B54",
       "AnguloCorte": 45,
       "Orientacion": "H",
@@ -18,11 +18,22 @@
       "Id": 0,
       "CodigoPerfil": "6570",
       "DescripcionPerfil": "CONTRAMARCO DE 28 MM",
-      "Cantidad": 2,
-      "FormulaMedida": "H\u002B54",
+      "Cantidad": 1,
+      "FormulaMedida": "H\u002B27",
       "AnguloCorte": 45,
       "Orientacion": "V",
       "AnguloCorte1": 45,
+      "AnguloCorte2": 90
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "6570",
+      "DescripcionPerfil": "CONTRAMARCO DE 28 MM",
+      "Cantidad": 1,
+      "FormulaMedida": "H\u002B27",
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "AnguloCorte1": 90,
       "AnguloCorte2": 45
     }
   ],
@@ -31,14 +42,14 @@
       "Id": 0,
       "CodigoAccesorio": "89190",
       "DescripcionAccesorio": "ESC. P/CONTRAMARCO (E-66 \u0026 5066) (BOLSA X 100U)",
-      "FormulaCantidad": "4",
+      "FormulaCantidad": "2",
       "Unidad": "BOLSAX100"
     },
     {
       "Id": 0,
       "CodigoAccesorio": "84260",
       "DescripcionAccesorio": "CLIP CONTRAMARCO T-87",
-      "FormulaCantidad": "((A\u002BH)/350)*2",
+      "FormulaCantidad": "(A\u002B(H*2))/350",
       "Unidad": "CAJAX100"
     }
   ]
