@@ -1,0 +1,251 @@
+{
+  "Id": 0,
+  "Nombre": "OSCILOBATIENTE HOJA RECTA CV RECTOS",
+  "LineaId": 2,
+  "LineaNombre": "DELTA",
+  "TipoAberturaId": 4,
+  "TipoAberturaNombre": "OSCILOBATIENTE",
+  "Descripcion": "OSCILOBATIENTE 1H RECTA CV RECTOS",
+  "EspesorMin": 4,
+  "EspesorMax": 23,
+  "Orden": 3,
+  "FormaCorrediza": 0,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6680",
+      "DescripcionPerfil": "MARCO PF/VR/VB/VOB/PR DOBLE CONTACTO",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6680",
+      "DescripcionPerfil": "MARCO PF/VR/VB/VOB/PR DOBLE CONTACTO",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6460",
+      "DescripcionPerfil": "Contravidrio Recto de 29 mm",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-123",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6460",
+      "DescripcionPerfil": "Contravidrio Recto de 29 mm",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-157",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6950",
+      "DescripcionPerfil": "Hoja Recta VB/VR/VOB Doble Contacto",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-39",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6950",
+      "DescripcionPerfil": "Hoja Recta VB/VR/VOB Doble Contacto",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-39",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "84230",
+      "DescripcionAccesorio": "ESCUADRA REGULABLE MARCO/HOJA E-69 MONTICELLI",
+      "FormulaCantidad": "8",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89160",
+      "DescripcionAccesorio": "CLIP P/CONTRAVIDRIO T-96 O 5096(BOLSA X 100 U)",
+      "FormulaCantidad": "((A\u002BH)/200)*2",
+      "Unidad": "BOLSA X 100"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A-135",
+      "FormulaAlto": "H-135",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "ConContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 4,
+        "EspesorMax": 5,
+        "ContravidrioCodigo": "6460",
+        "ContravidrioDescripcion": "Contravidrio Recto de 29 mm",
+        "ContravidrioAjuste": -29,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82020"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 6,
+        "EspesorMax": 7,
+        "ContravidrioCodigo": "6460",
+        "ContravidrioDescripcion": "Contravidrio Recto de 29 mm",
+        "ContravidrioAjuste": -29,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 10,
+        "EspesorMax": 11,
+        "ContravidrioCodigo": "6330",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 22 MM",
+        "ContravidrioAjuste": -22,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82020"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 12,
+        "EspesorMax": 13,
+        "ContravidrioCodigo": "6330",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 22 MM",
+        "ContravidrioAjuste": -22,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 14,
+        "EspesorMax": 15,
+        "ContravidrioCodigo": "6330",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 22 MM",
+        "ContravidrioAjuste": -22,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 16,
+        "EspesorMax": 17,
+        "ContravidrioCodigo": "6450",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 15 MM",
+        "ContravidrioAjuste": -15,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82020"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 18,
+        "EspesorMax": 19,
+        "ContravidrioCodigo": "6450",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 15 MM",
+        "ContravidrioAjuste": -15,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 20,
+        "EspesorMax": 21,
+        "ContravidrioCodigo": "6450",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 15 MM",
+        "ContravidrioAjuste": -15,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 22,
+        "EspesorMax": 23,
+        "ContravidrioCodigo": "6450",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 15 MM",
+        "ContravidrioAjuste": -15,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82090"
+      }
+    ]
+  }
+}

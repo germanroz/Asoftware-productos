@@ -1,6 +1,6 @@
 {
   "Id": 0,
-  "Nombre": "MOSQUITERO CORREDIZO 441",
+  "Nombre": "MOSQ CORREDIZO 441 GUIA 442 PERIMETRAL",
   "LineaNombre": "NIZA",
   "Perfiles": [
     {
@@ -8,7 +8,7 @@
       "CodigoPerfil": "4410",
       "DescripcionPerfil": "Mosquitero corredizo",
       "Cantidad": 2,
-      "Formula": "A-50",
+      "Formula": "AH-50",
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
@@ -23,7 +23,29 @@
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
+      "Orientacion": "v"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "4420",
+      "DescripcionPerfil": "GUIA MOSQUITERO CORREDIZO",
+      "Cantidad": 2,
+      "Formula": "A",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
       "Orientacion": "H"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "4420",
+      "DescripcionPerfil": "GUIA MOSQUITERO CORREDIZO",
+      "Cantidad": 2,
+      "Formula": "H",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "V"
     }
   ],
   "Accesorios": [
