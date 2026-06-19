@@ -1,13 +1,13 @@
 {
   "Id": 0,
-  "Nombre": "PUERTA 1H CV CURVOS",
+  "Nombre": "PUERTA 1H CV RECTOS",
   "LineaId": 2,
   "LineaNombre": "DELTA",
   "TipoAberturaId": 6,
   "TipoAberturaNombre": "PUERTA",
-  "Descripcion": "PUERTA 1H CV CURVOS",
+  "Descripcion": "PUERTA 1H CV RECTOS",
   "EspesorMin": 4,
-  "EspesorMax": 28,
+  "EspesorMax": 26,
   "Orden": 0,
   "FormaCorrediza": 0,
   "Perfiles": [
@@ -133,8 +133,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "6720",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO EXTERIOR P/PUERTA",
+      "CodigoPerfil": "6440",
+      "DescripcionPerfil": "CONTRAVIDRIO EXTERIOR PUERTA",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A-191",
@@ -150,8 +150,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "6720",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO EXTERIOR P/PUERTA",
+      "CodigoPerfil": "6440",
+      "DescripcionPerfil": "CONTRAVIDRIO EXTERIOR PUERTA",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H-223",
@@ -167,8 +167,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "6670",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO DE 29 MM",
+      "CodigoPerfil": "6460",
+      "DescripcionPerfil": "Contravidrio Recto de 29 mm",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A-191",
@@ -184,11 +184,11 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "6670",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO DE 29 MM",
+      "CodigoPerfil": "6460",
+      "DescripcionPerfil": "Contravidrio Recto de 29 mm",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-223",
+      "FormulaMedida": "H-257",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -293,8 +293,8 @@
         "ProductoId": 0,
         "EspesorMin": 4,
         "EspesorMax": 5,
-        "ContravidrioCodigo": "6670",
-        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 29 MM",
+        "ContravidrioCodigo": "6460",
+        "ContravidrioDescripcion": "Contravidrio Recto de 29 mm",
         "ContravidrioAjuste": -29,
         "BurleteCodigo1": "89130",
         "BurleteCodigo2": "82110"
@@ -304,8 +304,8 @@
         "ProductoId": 0,
         "EspesorMin": 5,
         "EspesorMax": 6,
-        "ContravidrioCodigo": "6670",
-        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 29 MM",
+        "ContravidrioCodigo": "6460",
+        "ContravidrioDescripcion": "Contravidrio Recto de 29 mm",
         "ContravidrioAjuste": -29,
         "BurleteCodigo1": "89130",
         "BurleteCodigo2": "82100"
@@ -313,21 +313,10 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 7,
-        "EspesorMax": 8,
-        "ContravidrioCodigo": "6670",
-        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 29 MM",
-        "ContravidrioAjuste": -29,
-        "BurleteCodigo1": "89130",
-        "BurleteCodigo2": "82090"
-      },
-      {
-        "Id": 0,
-        "ProductoId": 0,
         "EspesorMin": 9,
         "EspesorMax": 10,
-        "ContravidrioCodigo": "6800",
-        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 22 MM",
+        "ContravidrioCodigo": "6330",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 22 MM",
         "ContravidrioAjuste": -22,
         "BurleteCodigo1": "89130",
         "BurleteCodigo2": "82200"
@@ -337,8 +326,8 @@
         "ProductoId": 0,
         "EspesorMin": 11,
         "EspesorMax": 12,
-        "ContravidrioCodigo": "6800",
-        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 22 MM",
+        "ContravidrioCodigo": "6330",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 22 MM",
         "ContravidrioAjuste": -22,
         "BurleteCodigo1": "89130",
         "BurleteCodigo2": "82110"
@@ -348,8 +337,8 @@
         "ProductoId": 0,
         "EspesorMin": 17,
         "EspesorMax": 18,
-        "ContravidrioCodigo": "6660",
-        "ContravidrioDescripcion": "Contravidrio Curvo de 15 mm",
+        "ContravidrioCodigo": "6330",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 22 MM",
         "ContravidrioAjuste": -15,
         "BurleteCodigo1": "89130",
         "BurleteCodigo2": "82200"
@@ -359,8 +348,8 @@
         "ProductoId": 0,
         "EspesorMin": 19,
         "EspesorMax": 20,
-        "ContravidrioCodigo": "6660",
-        "ContravidrioDescripcion": "Contravidrio Curvo de 15 mm",
+        "ContravidrioCodigo": "6450",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 15 MM",
         "ContravidrioAjuste": -15,
         "BurleteCodigo1": "89130",
         "BurleteCodigo2": "82110"
@@ -370,8 +359,8 @@
         "ProductoId": 0,
         "EspesorMin": 21,
         "EspesorMax": 22,
-        "ContravidrioCodigo": "6660",
-        "ContravidrioDescripcion": "Contravidrio Curvo de 15 mm",
+        "ContravidrioCodigo": "6450",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 15 MM",
         "ContravidrioAjuste": -15,
         "BurleteCodigo1": "89130",
         "BurleteCodigo2": "82100"
@@ -381,8 +370,8 @@
         "ProductoId": 0,
         "EspesorMin": 23,
         "EspesorMax": 24,
-        "ContravidrioCodigo": "6660",
-        "ContravidrioDescripcion": "Contravidrio Curvo de 15 mm",
+        "ContravidrioCodigo": "6450",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 15 MM",
         "ContravidrioAjuste": -15,
         "BurleteCodigo1": "89130",
         "BurleteCodigo2": "82090"
@@ -392,8 +381,8 @@
         "ProductoId": 0,
         "EspesorMin": 25,
         "EspesorMax": 26,
-        "ContravidrioCodigo": "6900",
-        "ContravidrioDescripcion": "Contravidrio Curvo de 8mm",
+        "ContravidrioCodigo": "6450",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 15 MM",
         "ContravidrioAjuste": -8,
         "BurleteCodigo1": "89130",
         "BurleteCodigo2": "82200"
@@ -401,13 +390,13 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 27,
-        "EspesorMax": 28,
-        "ContravidrioCodigo": "6900",
-        "ContravidrioDescripcion": "Contravidrio Curvo de 8mm",
-        "ContravidrioAjuste": -8,
-        "BurleteCodigo1": "89130",
-        "BurleteCodigo2": "82110"
+        "EspesorMin": 0,
+        "EspesorMax": 10,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": null,
+        "BurleteCodigo2": null
       }
     ]
   }

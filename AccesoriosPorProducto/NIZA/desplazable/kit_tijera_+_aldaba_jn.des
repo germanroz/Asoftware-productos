@@ -1,15 +1,22 @@
 {
-  "Nombre": "HERRAJE OSCILO GIESSE",
+  "Nombre": "KIT TIJERA \u002B ALDABA JN",
   "Descripcion": "Variante personalizada por el usuario",
   "PesoMaximoKg": null,
   "PesoMinimoKg": null,
   "Accesorios": [
     {
+      "CodigoAccesorio": "82815",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
       "CodigoAccesorio": "",
       "Cantidad": 0,
       "Modelo": "",
       "Obligatorio": true,
-      "FamiliaPorMedida": "O/B GIESSE"
+      "FamiliaPorMedida": "TIJERAS JN"
     }
   ]
 }

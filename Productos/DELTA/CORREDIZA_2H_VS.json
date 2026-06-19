@@ -1,0 +1,200 @@
+{
+  "Id": 0,
+  "Nombre": "CORREDIZA 2H VS",
+  "LineaId": 2,
+  "LineaNombre": "DELTA",
+  "TipoAberturaId": 3,
+  "TipoAberturaNombre": "CORREDIZA",
+  "Descripcion": "CORREDIZA 2H VS",
+  "EspesorMin": 4,
+  "EspesorMax": 10,
+  "Orden": 0,
+  "FormaCorrediza": 2,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6510",
+      "DescripcionPerfil": "UMBRAL/DINTEL MARCO CORREDIZA",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-42",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6550",
+      "DescripcionPerfil": "JAMBA DE MARCO CORREDIZA",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6530",
+      "DescripcionPerfil": "PARANTE LATERAL HOJA CORREDIZA VS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-79",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6540",
+      "DescripcionPerfil": "PARANTE CENTRAL HOJA CORREDIZA VS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-79",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6520",
+      "DescripcionPerfil": "CABEZAL/Z\u00D3CALO HOJA CORREDIZA VS",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/2-24",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83620",
+      "DescripcionAccesorio": "TORN. RANURADO 10 X 1 1/2 PTE I (BOLSA X 100 UNID)",
+      "FormulaCantidad": "16",
+      "Unidad": "BOLSAX100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "84280",
+      "DescripcionAccesorio": "TOPE PARANTE LATERAL T-89",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJAX100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "84295",
+      "DescripcionAccesorio": "TOPE PARANTE CENTRAL T-90",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJA X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "84360",
+      "DescripcionAccesorio": "CRUCE DE HOJA MODENA T-93(28.8MM)",
+      "FormulaCantidad": "2",
+      "Unidad": "BOLSA X 16"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83665",
+      "DescripcionAccesorio": "TAPA DESAGUE CON CLAP T-69 (BOLSA X 50UNID)",
+      "FormulaCantidad": "2",
+      "Unidad": "BOLSA X 50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "84340",
+      "DescripcionAccesorio": "JUNTA DE ESTANQUEDAD MARCO T-92",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJAX100"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A/2",
+      "FormulaAlto": "H",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 4,
+        "EspesorMax": 5,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "84530",
+        "BurleteCodigo2": null
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 6,
+        "EspesorMax": 7,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "84530",
+        "BurleteCodigo2": null
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 8,
+        "EspesorMax": 10,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "84530",
+        "BurleteCodigo2": null
+      }
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-﻿{
+{
   "Id": 0,
   "Nombre": "DESPLAZABLE CV RECTOS",
   "LineaId": 4,
@@ -8,6 +8,8 @@
   "Descripcion": "DESPLAZABLE CV RECTOS",
   "EspesorMin": 6,
   "EspesorMax": 30,
+  "Orden": 0,
+  "FormaCorrediza": 0,
   "Perfiles": [
     {
       "Id": 0,
@@ -15,6 +17,7 @@
       "CodigoPerfil": "7340",
       "DescripcionPerfil": "MARCO VENTANA DESPLAZABLE",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "A",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
@@ -22,7 +25,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -30,6 +34,7 @@
       "CodigoPerfil": "7340",
       "DescripcionPerfil": "MARCO VENTANA DESPLAZABLE",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "H",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
@@ -37,7 +42,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -45,6 +51,7 @@
       "CodigoPerfil": "7350",
       "DescripcionPerfil": "HOJA RECTA VENTANA DESPLAZABLE",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "A-43",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
@@ -52,7 +59,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -60,6 +68,7 @@
       "CodigoPerfil": "7350",
       "DescripcionPerfil": "HOJA RECTA VENTANA DESPLAZABLE",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "H-43",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
@@ -67,7 +76,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -75,6 +85,7 @@
       "CodigoPerfil": "2050",
       "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 37 MM",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "A-166",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
@@ -82,7 +93,8 @@
       "Orientacion": "H",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -90,6 +102,7 @@
       "CodigoPerfil": "2050",
       "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 37 MM",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "H-210",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
@@ -97,7 +110,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
     }
   ],
   "Accesorios": [
@@ -140,22 +154,6 @@
       "DescripcionAccesorio": "ESCUADRA HOJA PUERTA E-70 MONTICELLI",
       "FormulaCantidad": "4",
       "Unidad": "UNIDAD"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "84640",
-      "DescripcionAccesorio": "TIJERA COTSWORD 259 MM 50 KG H-36/A (PAR)",
-      "FormulaCantidad": "1",
-      "Unidad": "_PAR_"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "82815",
-      "DescripcionAccesorio": "ALDABA CP25 JN",
-      "FormulaCantidad": "1",
-      "Unidad": "UNIDAD"
     }
   ],
   "Vidrios": [
@@ -163,6 +161,7 @@
       "Id": 0,
       "ProductoId": 0,
       "Cantidad": 1,
+      "FormulaCantidad": "",
       "FormulaAncho": "A-127",
       "FormulaAlto": "H-127",
       "BurleteCodigo1": "",

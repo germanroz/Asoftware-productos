@@ -1,0 +1,22 @@
+{
+  "Nombre": "KIT CORREDIZA R42 \u002B H56",
+  "Descripcion": "Variante personalizada por el usuario",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "87680",
+      "Cantidad": 4,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "82865",
+      "Cantidad": 2,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    }
+  ]
+}

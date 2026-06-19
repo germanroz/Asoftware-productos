@@ -5,10 +5,11 @@
   "PesoMinimoKg": null,
   "Accesorios": [
     {
-      "CodigoAccesorio": "96265",
-      "Cantidad": 1,
+      "CodigoAccesorio": "",
+      "Cantidad": 0,
       "Modelo": "",
-      "Obligatorio": true
+      "Obligatorio": true,
+      "FamiliaPorMedida": "O/B JN"
     }
   ]
 }
