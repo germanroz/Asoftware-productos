@@ -1,11 +1,11 @@
 {
   "Id": 0,
-  "Nombre": "CORREDIZA 2H VS",
+  "Nombre": "CORREDIZA 2H ZOCALO ALTO VS",
   "LineaId": 2,
   "LineaNombre": "DELTA",
   "TipoAberturaId": 3,
   "TipoAberturaNombre": "CORREDIZA",
-  "Descripcion": "CORREDIZA 2H VS",
+  "Descripcion": "CORREDIZA 2H ZOCALO ALTO VS",
   "EspesorMin": 4,
   "EspesorMax": 10,
   "Orden": 0,
@@ -84,7 +84,24 @@
       "ProductoId": 0,
       "CodigoPerfil": "6520",
       "DescripcionPerfil": "CABEZAL/Z\u00D3CALO HOJA CORREDIZA VS",
-      "Cantidad": 4,
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/2-24",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6600",
+      "DescripcionPerfil": "Z\u00D3CALO ALTO HOJA CORREDIZA VS",
+      "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A/2-24",
       "AnguloCorte1": 90,
@@ -103,7 +120,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "83620",
       "DescripcionAccesorio": "TORN. RANURADO 10 X 1 1/2 PTE I (BOLSA X 100 UNID)",
-      "FormulaCantidad": "16",
+      "FormulaCantidad": "20",
       "Unidad": "BOLSAX100"
     },
     {
@@ -154,7 +171,7 @@
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaAncho": "A/2-75",
-      "FormulaAlto": "H-169",
+      "FormulaAlto": "H-224",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
