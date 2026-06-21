@@ -1,0 +1,59 @@
+{
+  "Id": 0,
+  "Nombre": "PREMARCO 718 90\u00B0 C/GUIA COMUN",
+  "LineaNombre": "DELTA",
+  "Lineas": [
+    "DELTA"
+  ],
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "7180",
+      "DescripcionPerfil": "PREMARCO LIVIANO DELTA",
+      "Cantidad": 2,
+      "Formula": "A\u002B6",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "Orientacion": "H"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "7180",
+      "DescripcionPerfil": "PREMARCO LIVIANO DELTA",
+      "Cantidad": 2,
+      "Formula": "H\u002B6",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "Orientacion": "V"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "7220",
+      "DescripcionPerfil": "GU\u00CDA CORTINA COM\u00DAN",
+      "Cantidad": 2,
+      "Formula": "H\u002B30",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "Orientacion": "V"
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "CodigoAccesorio": "89250",
+      "DescripcionAccesorio": "ESC. NYLON PREM 719 CORTE RECTO NYLON E-68",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJA X 100"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "87220",
+      "DescripcionAccesorio": "GRAMPA DE AMURE PRE-MARCO (S-9 O S-09)",
+      "FormulaCantidad": "((A\u002BH)/250)*2",
+      "Unidad": "CAJAX100"
+    }
+  ]
+}

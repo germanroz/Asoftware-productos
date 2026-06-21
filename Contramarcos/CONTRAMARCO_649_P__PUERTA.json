@@ -1,7 +1,11 @@
 {
   "Id": 0,
   "Nombre": "CONTRAMARCO 649 P/ PUERTA",
-  "LineaNombre": "NIZA",
+  "LineaNombre": "DELTA",
+  "Lineas": [
+    "DELTA",
+    "NIZA"
+  ],
   "Perfiles": [
     {
       "Id": 0,

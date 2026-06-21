@@ -1,6 +1,6 @@
 {
   "Id": 0,
-  "Nombre": "CONTRAMARCO 657",
+  "Nombre": "CONTRAMARCO 657 C/TAPACINTA",
   "LineaNombre": "DELTA",
   "Lineas": [
     "DELTA",
@@ -15,19 +15,41 @@
       "FormulaMedida": "A\u002B54",
       "AnguloCorte": 45,
       "Orientacion": "H",
-      "AnguloCorte1": 45,
+      "AnguloCorte1": 90,
       "AnguloCorte2": 45
     },
     {
       "Id": 0,
       "CodigoPerfil": "6570",
       "DescripcionPerfil": "CONTRAMARCO DE 28 MM",
-      "Cantidad": 2,
+      "Cantidad": 1,
       "FormulaMedida": "H\u002B54",
       "AnguloCorte": 45,
       "Orientacion": "V",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "6820",
+      "DescripcionPerfil": "Bisagra Tapacinta",
+      "Cantidad": 1,
+      "FormulaMedida": "A",
+      "AnguloCorte": 45,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "6830",
+      "DescripcionPerfil": "TAPACINTA",
+      "Cantidad": 1,
+      "FormulaMedida": "A",
+      "AnguloCorte": 45,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
     }
   ],
   "Accesorios": [

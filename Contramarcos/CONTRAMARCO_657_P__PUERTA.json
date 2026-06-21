@@ -2,6 +2,10 @@
   "Id": 0,
   "Nombre": "CONTRAMARCO 657 P/ PUERTA",
   "LineaNombre": "DELTA",
+  "Lineas": [
+    "DELTA",
+    "NIZA"
+  ],
   "Perfiles": [
     {
       "Id": 0,
