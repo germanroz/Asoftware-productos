@@ -1,8 +1,9 @@
 {
   "Id": 0,
   "Nombre": "CONTRAMARCO 649 P/ PUERTA",
-  "LineaNombre": "DELTA",
+  "LineaNombre": "ALFA",
   "Lineas": [
+    "ALFA",
     "DELTA",
     "NIZA"
   ],
@@ -12,7 +13,7 @@
       "CodigoPerfil": "6490",
       "DescripcionPerfil": "contramarco recto",
       "Cantidad": 1,
-      "FormulaMedida": "A",
+      "FormulaMedida": "A\u002B53",
       "AnguloCorte": 45,
       "Orientacion": "H",
       "AnguloCorte1": 45,
@@ -23,7 +24,7 @@
       "CodigoPerfil": "6490",
       "DescripcionPerfil": "contramarco recto",
       "Cantidad": 1,
-      "FormulaMedida": "H",
+      "FormulaMedida": "H\u002B26",
       "AnguloCorte": 45,
       "Orientacion": "V",
       "AnguloCorte1": 45,
@@ -34,7 +35,7 @@
       "CodigoPerfil": "6490",
       "DescripcionPerfil": "contramarco recto",
       "Cantidad": 1,
-      "FormulaMedida": "H",
+      "FormulaMedida": "H\u002B26",
       "AnguloCorte": 45,
       "Orientacion": "V",
       "AnguloCorte1": 90,

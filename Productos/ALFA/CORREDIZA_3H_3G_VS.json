@@ -1,0 +1,259 @@
+{
+  "Id": 0,
+  "Nombre": "CORREDIZA 3H 3G VS",
+  "LineaId": 734,
+  "LineaNombre": "ALFA",
+  "TipoAberturaId": 3,
+  "TipoAberturaNombre": "CORREDIZA",
+  "Descripcion": "CORREDIZA 3H 3G VS",
+  "EspesorMin": 6,
+  "EspesorMax": 10,
+  "Orden": 0,
+  "FormaCorrediza": 2,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2650",
+      "DescripcionPerfil": "UMBRAL Y DINTEL CORREDIZA TRES GU\u00CDAS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-45",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2640",
+      "DescripcionPerfil": "Jamba de marco corrediza de tres gu\u00EDas",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2530",
+      "DescripcionPerfil": "Parante lateral corrediza VS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-86",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2540",
+      "DescripcionPerfil": "PARANTE CENTRAL CORREDIZA VS",
+      "Cantidad": 3,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-86",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2670",
+      "DescripcionPerfil": "PARANTE TERCER HOJA VS",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-86",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2580",
+      "DescripcionPerfil": "Z\u00D3CALO Y CABEZAL CORREDIZA VS",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/3\u002B7",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2580",
+      "DescripcionPerfil": "Z\u00D3CALO Y CABEZAL CORREDIZA VS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/3\u002B21",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2570",
+      "DescripcionPerfil": "Tope mosquitero",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-111",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83665",
+      "DescripcionAccesorio": "TAPA DESAGUE CON CLAP T-69 (BOLSA X 50UNID)",
+      "FormulaCantidad": "2",
+      "Unidad": "BOLSA X 50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83680",
+      "DescripcionAccesorio": "TORNILLO 10 X 38 (T-001) (CAJA X 1000 U.)",
+      "FormulaCantidad": "28",
+      "Unidad": "CAJA X 1000"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80455",
+      "DescripcionAccesorio": "TOPE PARANTE LATERAL T-117 ALFA",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSAX50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80465",
+      "DescripcionAccesorio": "TOPE CENTRAL T-118 ALFA",
+      "FormulaCantidad": "8",
+      "Unidad": "BOLSA X 50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80445",
+      "DescripcionAccesorio": "TAPA LATERAL T-116 ALFA",
+      "FormulaCantidad": "8",
+      "Unidad": "50PARES"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80400",
+      "DescripcionAccesorio": "TAPON CRUCE CENTRAL ALFA T-132",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSAX20"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83160",
+      "DescripcionAccesorio": "FELPA 7*6 CON FIN SEAL JN NEGRA ROLLO 400MTS",
+      "FormulaCantidad": "((A*4)\u002B(H*6))/1000",
+      "Unidad": "ROLLO X 400"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 3,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A/3-83",
+      "FormulaAlto": "H-192",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 6,
+        "EspesorMax": 7,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82200",
+        "BurleteCodigo2": null
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 8,
+        "EspesorMax": 9,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82100",
+        "BurleteCodigo2": null
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 10,
+        "EspesorMax": 11,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82090",
+        "BurleteCodigo2": null
+      }
+    ]
+  }
+}

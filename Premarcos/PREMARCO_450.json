@@ -1,7 +1,11 @@
 {
   "Id": 0,
   "Nombre": "PREMARCO 450",
-  "LineaNombre": "NIZA",
+  "LineaNombre": "ALFA",
+  "Lineas": [
+    "ALFA",
+    "NIZA"
+  ],
   "Perfiles": [
     {
       "Id": 0,

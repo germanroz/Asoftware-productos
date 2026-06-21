@@ -1,0 +1,330 @@
+{
+  "Id": 0,
+  "Nombre": "REBATIR 2 HOJAS CV CURVOS",
+  "LineaId": 734,
+  "LineaNombre": "ALFA",
+  "TipoAberturaId": 7,
+  "TipoAberturaNombre": "REBATIR",
+  "Descripcion": "REBATIR 2 HOJAS CV CURVOS",
+  "EspesorMin": 6,
+  "EspesorMax": 30,
+  "Orden": 0,
+  "FormaCorrediza": 0,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2680",
+      "DescripcionPerfil": "MARCO PA\u00D1O FIJO / VENTANA DE ABRIR",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 48,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2680",
+      "DescripcionPerfil": "MARCO PA\u00D1O FIJO / VENTANA DE ABRIR",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 48,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2080",
+      "DescripcionPerfil": "Hoja recta ventana de abrir",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "(A/2)-118",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2080",
+      "DescripcionPerfil": "Hoja recta ventana de abrir",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-47",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "1930",
+      "DescripcionPerfil": "CONTRAVIDRIO CURVO P/VIDRIO SIMPLE",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "(A/2)-118",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "1930",
+      "DescripcionPerfil": "CONTRAVIDRIO CURVO P/VIDRIO SIMPLE",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-139",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "1890",
+      "DescripcionPerfil": "ENCUENTRO CENTRAL VENTANA DE ABRIR",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-112",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80470",
+      "DescripcionAccesorio": "ESCUADRA A30/ALFA E-83 MONTICELLI",
+      "FormulaCantidad": "12",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89160",
+      "DescripcionAccesorio": "CLIP P/CONTRAVIDRIO T-96 O 5096(BOLSA X 100 U)",
+      "FormulaCantidad": "((A*2)\u002B(H*4))/250",
+      "Unidad": "BOLSA X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "93190",
+      "DescripcionAccesorio": "BURLETE DE HERMETICIDAD B-74 EPDM",
+      "FormulaCantidad": "((A*2)\u002B(H*4))/1000",
+      "Unidad": "ROLLO X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89060",
+      "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
+      "FormulaCantidad": "((A*2)\u002B(H*4))/1000",
+      "Unidad": "ROLLO X 150"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89095",
+      "DescripcionAccesorio": "FALLEBA PRIMA CON KIT H-47",
+      "FormulaCantidad": "1",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89085",
+      "DescripcionAccesorio": "BISAGRA H-61(CAJA X 12 UNID)",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJA X 12"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "91240",
+      "DescripcionAccesorio": "PASADOR PARA PUERTA H-42",
+      "FormulaCantidad": "2",
+      "Unidad": "UNIDAD"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaAncho": "(A/2)-102",
+      "FormulaAlto": "H-127",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "ConContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 3,
+        "EspesorMax": 4,
+        "ContravidrioCodigo": "1930",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/VIDRIO SIMPLE",
+        "ContravidrioAjuste": -37,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82090"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 5,
+        "EspesorMax": 6,
+        "ContravidrioCodigo": "1930",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/VIDRIO SIMPLE",
+        "ContravidrioAjuste": -37,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 7,
+        "EspesorMax": 8,
+        "ContravidrioCodigo": "1930",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/VIDRIO SIMPLE",
+        "ContravidrioAjuste": -37,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 16,
+        "EspesorMax": 17,
+        "ContravidrioCodigo": "1940",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/DVH",
+        "ContravidrioAjuste": -19,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82020"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 18,
+        "EspesorMax": 19,
+        "ContravidrioCodigo": "1940",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/DVH",
+        "ContravidrioAjuste": -19,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 20,
+        "EspesorMax": 21,
+        "ContravidrioCodigo": "1940",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/DVH",
+        "ContravidrioAjuste": -19,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 22,
+        "EspesorMax": 23,
+        "ContravidrioCodigo": "1940",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/DVH",
+        "ContravidrioAjuste": -19,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82090"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 24,
+        "EspesorMax": 25,
+        "ContravidrioCodigo": "1950",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+        "ContravidrioAjuste": -12,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82020"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 26,
+        "EspesorMax": 27,
+        "ContravidrioCodigo": "1950",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+        "ContravidrioAjuste": -12,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 28,
+        "EspesorMax": 29,
+        "ContravidrioCodigo": "1950",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+        "ContravidrioAjuste": -12,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 30,
+        "EspesorMax": 31,
+        "ContravidrioCodigo": "1950",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+        "ContravidrioAjuste": -12,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82090"
+      }
+    ]
+  }
+}
