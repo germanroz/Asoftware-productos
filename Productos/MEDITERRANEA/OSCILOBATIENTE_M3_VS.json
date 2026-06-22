@@ -1,0 +1,183 @@
+{
+  "Id": 0,
+  "Nombre": "OSCILOBATIENTE M3 VS",
+  "LineaId": 765,
+  "LineaNombre": "MEDITERRANEA",
+  "TipoAberturaId": 4,
+  "TipoAberturaNombre": "OSCILOBATIENTE",
+  "Descripcion": "OSCILOBATIENTE M3 VS",
+  "EspesorMin": 4,
+  "EspesorMax": 8,
+  "Orden": 0,
+  "FormaCorrediza": 0,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8930",
+      "DescripcionPerfil": "MARCO PF/VR/VB/VOB/PR NO COPLANAR S/ALOJ. EXT",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8930",
+      "DescripcionPerfil": "MARCO PF/VR/VB/VOB/PR NO COPLANAR S/ALOJ. EXT",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8270",
+      "DescripcionPerfil": "Hoja VR/VB/VOB/VPBDE s/Comtravidrio p/VS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-67",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8270",
+      "DescripcionPerfil": "Hoja VR/VB/VOB/VPBDE s/Comtravidrio p/VS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-67",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80170",
+      "DescripcionAccesorio": "ESC.P/LINEA MEDITERRANEA (TA-E-21-1) MONTICELLI",
+      "FormulaCantidad": "4",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80200",
+      "DescripcionAccesorio": "ESC. DE ALINEACION (AA107) (BOLSA X 100UNID)",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSA X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89070",
+      "DescripcionAccesorio": "ESCUADRA A-700 (TA-E06) MONTICELLI",
+      "FormulaCantidad": "4",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89060",
+      "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
+      "FormulaCantidad": "((A\u002BH)*2)/1000",
+      "Unidad": "ROLLO X 150"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "93170",
+      "DescripcionAccesorio": "BURLETE HERMET CAMARA ECUALIZ (ROLLO X 100MT) EPDM",
+      "FormulaCantidad": "((A\u002BH)*2)/1000",
+      "Unidad": "ROLLO X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "84330",
+      "DescripcionAccesorio": "SOSTEN DE HOJA H-44",
+      "FormulaCantidad": "1",
+      "Unidad": "UNIDAD"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A-169",
+      "FormulaAlto": "H-169",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 4,
+        "EspesorMax": 5,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82200"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 6,
+        "EspesorMax": 7,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 8,
+        "EspesorMax": 9,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82090"
+      }
+    ]
+  }
+}

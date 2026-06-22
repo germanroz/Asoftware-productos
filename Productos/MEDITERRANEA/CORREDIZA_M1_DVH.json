@@ -1,0 +1,217 @@
+{
+  "Id": 0,
+  "Nombre": "CORREDIZA M1 DVH",
+  "LineaId": 765,
+  "LineaNombre": "MEDITERRANEA",
+  "TipoAberturaId": 3,
+  "TipoAberturaNombre": "CORREDIZA",
+  "Descripcion": "CORREDIZA M1 DVH",
+  "EspesorMin": 17,
+  "EspesorMax": 22,
+  "Orden": 0,
+  "FormaCorrediza": 0,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8020",
+      "DescripcionPerfil": "Marco Corrediza M-Uno s/Alojam. exterior",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8020",
+      "DescripcionPerfil": "Marco Corrediza M-Uno s/Alojam. exterior",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "7420",
+      "DescripcionPerfil": "HOJA CORREDIZA D.V.H.",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/2-6",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "7420",
+      "DescripcionPerfil": "HOJA CORREDIZA D.V.H.",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-81",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "7430",
+      "DescripcionPerfil": "ENCUENTRO CENTRAL HOJAS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-81",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "5610",
+      "DescripcionPerfil": "SOBRE GU\u00CDA MARCO CORREDIZA",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-92",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Marco",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89070",
+      "DescripcionAccesorio": "ESCUADRA A-700 (TA-E06) MONTICELLI",
+      "FormulaCantidad": "4",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89640",
+      "DescripcionAccesorio": "ESCUADRA CON-359 / E-97 MONTICELLI",
+      "FormulaCantidad": "8",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89490",
+      "DescripcionAccesorio": "ESC.ALINEAC. HOJA  E-98 - BAJA - (BOLSA X 200U)",
+      "FormulaCantidad": "16",
+      "Unidad": "BOLSA X 200"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89410",
+      "DescripcionAccesorio": "TORNILLO FIJADOR ENC. CENTRAL PERFILES 713/743/556",
+      "FormulaCantidad": "(H*2)/250",
+      "Unidad": "BOLSAX200"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89650",
+      "DescripcionAccesorio": "TOPE LAT.INT.HOJA (BAT-937)",
+      "FormulaCantidad": "1",
+      "Unidad": "JUEGOS"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83830",
+      "DescripcionAccesorio": "TAPON CAJA DE AGUA M-1 P/ 802-3 (CAJA X 100UNID)",
+      "FormulaCantidad": "2",
+      "Unidad": "CAJA X 100"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A/2-111",
+      "FormulaAlto": "H-176",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 17,
+        "EspesorMax": 18,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82110",
+        "BurleteCodigo2": null
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 19,
+        "EspesorMax": 20,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82100",
+        "BurleteCodigo2": null
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 21,
+        "EspesorMax": 22,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82090",
+        "BurleteCodigo2": null
+      }
+    ]
+  }
+}

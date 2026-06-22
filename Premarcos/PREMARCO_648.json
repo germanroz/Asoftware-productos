@@ -1,7 +1,12 @@
-﻿{
+{
   "Id": 0,
   "Nombre": "PREMARCO 648",
-  "LineaNombre": "TRADICIONAL",
+  "LineaNombre": "MEDITERRANEA",
+  "Lineas": [
+    "MEDITERRANEA",
+    "MEDITERRANEA RPT",
+    "TRADICIONAL"
+  ],
   "Perfiles": [
     {
       "Id": 0,
