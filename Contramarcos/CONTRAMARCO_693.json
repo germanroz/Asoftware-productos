@@ -1,0 +1,49 @@
+{
+  "Id": 0,
+  "Nombre": "CONTRAMARCO 693",
+  "LineaNombre": "MEDITERRANEA",
+  "Lineas": [
+    "MEDITERRANEA",
+    "MEDITERRANEA RPT"
+  ],
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "6930",
+      "DescripcionPerfil": "Contramarco recto 30 mm",
+      "Cantidad": 2,
+      "FormulaMedida": "A\u002B46",
+      "AnguloCorte": 45,
+      "Orientacion": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "6930",
+      "DescripcionPerfil": "Contramarco recto 30 mm",
+      "Cantidad": 2,
+      "FormulaMedida": "H\u002B46",
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "CodigoAccesorio": "89190",
+      "DescripcionAccesorio": "ESC. P/CONTRAMARCO (E-66 \u0026 5066) (BOLSA X 100U)",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSAX100"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "83710",
+      "DescripcionAccesorio": "CLIP MEDITERRANEA (CE-T05) (BOLSA X 200UNID)",
+      "FormulaCantidad": "((A\u002BH)*2)/250",
+      "Unidad": "BOLSA X 200"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Id": 0,
+  "Nombre": "TRAVESA\u00D1O PUERTA 888",
+  "LineaNombre": "MEDITERRANEA",
+  "TipoProducto": "PUERTA",
+  "Posicion": 0,
+  "Espesor": 48,
+  "ContravidrioLadoDivisor": "espesor/2",
+  "DescuentoInferior": "101",
+  "DescuentoInferiorVidrio": "108",
+  "PerfilCodigo": "8880",
+  "PerfilDescripcion": null,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "8880",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "A-217",
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": []
+}

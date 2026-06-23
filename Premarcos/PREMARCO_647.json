@@ -1,6 +1,6 @@
 {
   "Id": 0,
-  "Nombre": "PREMARCO 648",
+  "Nombre": "PREMARCO 647",
   "LineaNombre": "MEDITERRANEA",
   "Lineas": [
     "MEDITERRANEA",
@@ -10,8 +10,8 @@
   "Perfiles": [
     {
       "Id": 0,
-      "CodigoPerfil": "6480",
-      "DescripcionPerfil": "PREMARCO DE 55 MM",
+      "CodigoPerfil": "6470",
+      "DescripcionPerfil": "PREMARCO DE 47 MM",
       "Cantidad": 2,
       "Formula": "A\u002B36",
       "AnguloCorte": 45,
@@ -21,8 +21,8 @@
     },
     {
       "Id": 0,
-      "CodigoPerfil": "6480",
-      "DescripcionPerfil": "PREMARCO DE 55 MM",
+      "CodigoPerfil": "6470",
+      "DescripcionPerfil": "PREMARCO DE 47 MM",
       "Cantidad": 2,
       "Formula": "H\u002B36",
       "AnguloCorte": 45,
@@ -41,10 +41,10 @@
     },
     {
       "Id": 0,
-      "CodigoAccesorio": "87210",
-      "DescripcionAccesorio": "ESCUADRA P/PREMA PERFIL 648 Y 450  (E-78) ALUMINIO",
+      "CodigoAccesorio": "87250",
+      "DescripcionAccesorio": "ESC.PARA PREMARCO 647",
       "FormulaCantidad": "4",
-      "Unidad": "CAJA X 40"
+      "Unidad": "CAJA X 100"
     }
   ]
 }
