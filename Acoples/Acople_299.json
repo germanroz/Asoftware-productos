@@ -1,8 +1,8 @@
 {
-  "Codigo": "2040",
+  "Codigo": "2990",
   "Descripcion": "",
-  "PesoKg": 1.2,
+  "PesoKg": 1.67,
   "PrecioKg": 5,
-  "Espesor": 4,
+  "Espesor": 30,
   "Lineas": ["NIZA", "ALFA"]
 }

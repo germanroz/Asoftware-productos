@@ -1,0 +1,153 @@
+{
+  "Id": 0,
+  "Nombre": "PUERTA 289/463",
+  "LineaId": 1,
+  "LineaNombre": "TRADICIONAL",
+  "TipoAberturaId": 6,
+  "TipoAberturaNombre": "PUERTA",
+  "Descripcion": "PUERTA 289/463",
+  "EspesorMin": 4,
+  "EspesorMax": 6,
+  "Orden": 0,
+  "FormaCorrediza": 0,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2890",
+      "DescripcionPerfil": "MARCO PUERTA DE 25 MM",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2890",
+      "DescripcionPerfil": "MARCO PUERTA DE 25 MM",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "4630",
+      "DescripcionPerfil": "PARANTE PUERTA DE 25 MM",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-35",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "4630",
+      "DescripcionPerfil": "PARANTE PUERTA DE 25 MM",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-57",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80070",
+      "DescripcionAccesorio": "ESC.PARTE A INTERM 70.5MM (055) (CAJA X 100UNID)",
+      "FormulaCantidad": "2",
+      "Unidad": "CAJAX100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89225",
+      "DescripcionAccesorio": "MANIJA PUERTA H-50 DOBLE BALANCIN ISTANA (NYLON)",
+      "FormulaCantidad": "1",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "85560",
+      "DescripcionAccesorio": "CERRADURA KALLAY 3002 P/463",
+      "FormulaCantidad": "1",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80625",
+      "DescripcionAccesorio": "BISAGRA H-33 (CAJA X 12 UNID)",
+      "FormulaCantidad": "3",
+      "Unidad": "CAJA X 12"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83150",
+      "DescripcionAccesorio": "FELPA 7*6 JN NEGRA ROLLO 400MTS",
+      "FormulaCantidad": "(A\u002B(H*2))/1000",
+      "Unidad": "ROLLO X 400"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A-160",
+      "FormulaAlto": "H-137",
+      "BurleteCodigo1": "82020",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 4,
+        "EspesorMax": 8,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": null,
+        "BurleteCodigo2": null
+      }
+    ]
+  }
+}
