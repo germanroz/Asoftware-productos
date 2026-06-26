@@ -14,8 +14,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "2680",
-      "DescripcionPerfil": "MARCO PA\u00D1O FIJO / VENTANA DE ABRIR",
+      "CodigoPerfil": "2220",
+      "DescripcionPerfil": "MARCO PA\u00D1O FIJO Y VENTANA DE ABRIR CURVO",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A",
@@ -23,16 +23,16 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
-      "GalceBase": 48,
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "2680",
-      "DescripcionPerfil": "MARCO PA\u00D1O FIJO / VENTANA DE ABRIR",
+      "CodigoPerfil": "2220",
+      "DescripcionPerfil": "MARCO PA\u00D1O FIJO Y VENTANA DE ABRIR CURVO",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H",
@@ -40,10 +40,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
-      "GalceBase": 48,
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,

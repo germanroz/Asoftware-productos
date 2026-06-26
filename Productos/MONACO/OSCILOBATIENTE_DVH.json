@@ -1,21 +1,21 @@
 {
   "Id": 0,
-  "Nombre": "BANDEROLA M3 DVH",
-  "LineaId": 765,
-  "LineaNombre": "MEDITERRANEA",
-  "TipoAberturaId": 2,
-  "TipoAberturaNombre": "BANDEROLA",
-  "Descripcion": "BANDEROLA M3 DVH",
+  "Nombre": "OSCILOBATIENTE DVH",
+  "LineaId": 916,
+  "LineaNombre": "MONACO",
+  "TipoAberturaId": 4,
+  "TipoAberturaNombre": "OSCILOBATIENTE",
+  "Descripcion": "OSCILOBATIENTE DVH",
   "EspesorMin": 17,
   "EspesorMax": 22,
-  "Orden": 1,
+  "Orden": 0,
   "FormaCorrediza": 0,
   "Perfiles": [
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8930",
-      "DescripcionPerfil": "MARCO PF/VR/VB/VOB/PR NO COPLANAR S/ALOJ. EXT",
+      "CodigoPerfil": "8290",
+      "DescripcionPerfil": "MARCO PF/VR/VB/VOB/PR",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A",
@@ -31,8 +31,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8930",
-      "DescripcionPerfil": "MARCO PF/VR/VB/VOB/PR NO COPLANAR S/ALOJ. EXT",
+      "CodigoPerfil": "8290",
+      "DescripcionPerfil": "MARCO PF/VR/VB/VOB/PR",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H",
@@ -84,17 +84,9 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoAccesorio": "80170",
-      "DescripcionAccesorio": "ESC.P/LINEA MEDITERRANEA (TA-E-21-1) MONTICELLI",
-      "FormulaCantidad": "4",
-      "Unidad": "UNIDAD"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
       "CodigoAccesorio": "80200",
       "DescripcionAccesorio": "ESC. DE ALINEACION (AA107) (BOLSA X 100UNID)",
-      "FormulaCantidad": "4",
+      "FormulaCantidad": "8",
       "Unidad": "BOLSA X 100"
     },
     {
@@ -136,8 +128,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-169",
-      "FormulaAlto": "H-169",
+      "FormulaAncho": "A-154",
+      "FormulaAlto": "H-154",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

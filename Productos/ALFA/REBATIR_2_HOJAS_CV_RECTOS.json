@@ -23,10 +23,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -40,10 +40,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -57,7 +57,7 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -74,7 +74,7 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -103,7 +103,7 @@
       "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 37 MM",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-183",
+      "FormulaMedida": "H-182",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -125,7 +125,7 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false

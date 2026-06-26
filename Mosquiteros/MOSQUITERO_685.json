@@ -1,14 +1,14 @@
 {
   "Id": 0,
-  "Nombre": "MOSQUITERO CORREDIZO 108",
+  "Nombre": "MOSQUITERO 685",
   "LineaNombre": "ALFA",
   "Perfiles": [
     {
       "Id": 0,
-      "CodigoPerfil": "1080",
-      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA",
+      "CodigoPerfil": "6850",
+      "DescripcionPerfil": "HOJA MOSQUITERO",
       "Cantidad": 2,
-      "Formula": "AH-20",
+      "Formula": "A-15",
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
@@ -16,10 +16,10 @@
     },
     {
       "Id": 0,
-      "CodigoPerfil": "1080",
-      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA",
+      "CodigoPerfil": "6850",
+      "DescripcionPerfil": "HOJA MOSQUITERO",
       "Cantidad": 2,
-      "Formula": "H-90",
+      "Formula": "H-15",
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
@@ -29,10 +29,10 @@
   "Accesorios": [
     {
       "Id": 0,
-      "CodigoAccesorio": "80380",
-      "DescripcionAccesorio": "ESCUADRA MOSQUITERO 108",
+      "CodigoAccesorio": "84380",
+      "DescripcionAccesorio": "ESCUADRA ARMADO MOSQUITERO MODENA E-73 DE NYLON",
       "FormulaCantidad": "4",
-      "Unidad": "CAJA X 50"
+      "Unidad": "CAJAX100"
     },
     {
       "Id": 0,
@@ -40,13 +40,6 @@
       "DescripcionAccesorio": "CORDON MOSQ. 5 M/M PVC (ROLLO X 100MT)",
       "FormulaCantidad": "((H*2)\u002B((A/2)*2))/1000",
       "Unidad": "ROLLOX100"
-    },
-    {
-      "Id": 0,
-      "CodigoAccesorio": "81220",
-      "DescripcionAccesorio": "KIT PARA MOSQUITERO 109 (RUEDA PATIN EJE)",
-      "FormulaCantidad": "1",
-      "Unidad": "_PAR_"
     }
   ],
   "Telas": [

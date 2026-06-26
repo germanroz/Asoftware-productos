@@ -1,13 +1,13 @@
 {
   "Id": 0,
-  "Nombre": "REBATIR 2 HOJAS CV RECTOS CLIP",
+  "Nombre": "PA\u00D1O FIJO RECTO CV RECTOS CLIP",
   "LineaId": 734,
   "LineaNombre": "ALFA",
-  "TipoAberturaId": 7,
-  "TipoAberturaNombre": "REBATIR",
-  "Descripcion": "REBATIR 2 HOJAS CV RECTOS CLIP",
-  "EspesorMin": 6,
-  "EspesorMax": 30,
+  "TipoAberturaId": 1,
+  "TipoAberturaNombre": "PA\u00D1O FIJO",
+  "Descripcion": "PA\u00D1O FIJO RECTO CV RECTOS CLIP",
+  "EspesorMin": 4,
+  "EspesorMax": 32,
   "Orden": 0,
   "FormaCorrediza": 0,
   "Perfiles": [
@@ -39,7 +39,7 @@
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
-      "Orientacion": "V",
+      "Orientacion": "H",
       "TipoPerfil": "Perfil",
       "GalceBase": 48,
       "AjusteGalce": 0,
@@ -48,45 +48,11 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "2080",
-      "DescripcionPerfil": "Hoja recta ventana de abrir",
-      "Cantidad": 4,
+      "CodigoPerfil": "1950",
+      "DescripcionPerfil": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+      "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "(A/2)-118",
-      "AnguloCorte1": 45,
-      "AnguloCorte2": 45,
-      "AnguloCorte": 90,
-      "Orientacion": "H",
-      "TipoPerfil": "Perfil",
-      "GalceBase": 0,
-      "AjusteGalce": 0,
-      "EsMarcoPerimetral": false
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoPerfil": "2080",
-      "DescripcionPerfil": "Hoja recta ventana de abrir",
-      "Cantidad": 4,
-      "FormulaCantidad": "",
-      "FormulaMedida": "H-47",
-      "AnguloCorte1": 45,
-      "AnguloCorte2": 45,
-      "AnguloCorte": 90,
-      "Orientacion": "V",
-      "TipoPerfil": "Perfil",
-      "GalceBase": 0,
-      "AjusteGalce": 0,
-      "EsMarcoPerimetral": false
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoPerfil": "0510",
-      "DescripcionPerfil": "CONTRAVIDRIO RECTO 37 MM",
-      "Cantidad": 4,
-      "FormulaCantidad": "",
-      "FormulaMedida": "(A/2)-118",
+      "FormulaMedida": "A-58",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -99,33 +65,16 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "0510",
-      "DescripcionPerfil": "CONTRAVIDRIO RECTO 37 MM",
-      "Cantidad": 4,
+      "CodigoPerfil": "1950",
+      "DescripcionPerfil": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+      "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-138",
+      "FormulaMedida": "H-58",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
       "TipoPerfil": "Contravidrio",
-      "GalceBase": 0,
-      "AjusteGalce": 0,
-      "EsMarcoPerimetral": false
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoPerfil": "1890",
-      "DescripcionPerfil": "ENCUENTRO CENTRAL VENTANA DE ABRIR",
-      "Cantidad": 1,
-      "FormulaCantidad": "",
-      "FormulaMedida": "H-112",
-      "AnguloCorte1": 90,
-      "AnguloCorte2": 90,
-      "AnguloCorte": 90,
-      "Orientacion": "V",
-      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -137,7 +86,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "80470",
       "DescripcionAccesorio": "ESCUADRA A30/ALFA E-83 MONTICELLI",
-      "FormulaCantidad": "12",
+      "FormulaCantidad": "4",
       "Unidad": "UNIDAD"
     },
     {
@@ -145,58 +94,18 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89160",
       "DescripcionAccesorio": "CLIP P/CONTRAVIDRIO T-96 O 5096(BOLSA X 100 U)",
-      "FormulaCantidad": "((A*2)\u002B(H*4))/250",
+      "FormulaCantidad": "((A\u002BH)*2)/250",
       "Unidad": "BOLSA X 100"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "93190",
-      "DescripcionAccesorio": "BURLETE DE HERMETICIDAD B-74 EPDM",
-      "FormulaCantidad": "((A*2)\u002B(H*4))/1000",
-      "Unidad": "ROLLO X 100"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "89060",
-      "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
-      "FormulaCantidad": "((A*2)\u002B(H*4))/1000",
-      "Unidad": "ROLLO X 150"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "89095",
-      "DescripcionAccesorio": "FALLEBA PRIMA CON KIT H-47",
-      "FormulaCantidad": "1",
-      "Unidad": "UNIDAD"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "89085",
-      "DescripcionAccesorio": "BISAGRA H-61(CAJA X 12 UNID)",
-      "FormulaCantidad": "4",
-      "Unidad": "CAJA X 12"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "91240",
-      "DescripcionAccesorio": "PASADOR PARA PUERTA H-42",
-      "FormulaCantidad": "2",
-      "Unidad": "UNIDAD"
     }
   ],
   "Vidrios": [
     {
       "Id": 0,
       "ProductoId": 0,
-      "Cantidad": 2,
+      "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "(A/2)-102",
-      "FormulaAlto": "H-127",
+      "FormulaAncho": "A-77",
+      "FormulaAlto": "H-77",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
@@ -213,7 +122,7 @@
         "ContravidrioDescripcion": "CONTRAVIDRIO RECTO 37 MM",
         "ContravidrioAjuste": -37,
         "BurleteCodigo1": "89130",
-        "BurleteCodigo2": "82090"
+        "BurleteCodigo2": "82110"
       },
       {
         "Id": 0,
@@ -235,7 +144,7 @@
         "ContravidrioDescripcion": "CONTRAVIDRIO RECTO 37 MM",
         "ContravidrioAjuste": -37,
         "BurleteCodigo1": "89130",
-        "BurleteCodigo2": "82110"
+        "BurleteCodigo2": "82090"
       },
       {
         "Id": 0,
@@ -268,7 +177,7 @@
         "ContravidrioDescripcion": "CONTRAVIDRIO RECTO 19 MM",
         "ContravidrioAjuste": -19,
         "BurleteCodigo1": "89130",
-        "BurleteCodigo2": "82100"
+        "BurleteCodigo2": "82110"
       },
       {
         "Id": 0,

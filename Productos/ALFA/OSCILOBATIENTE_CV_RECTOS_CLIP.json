@@ -1,11 +1,11 @@
 {
   "Id": 0,
-  "Nombre": "REBATIR 2 HOJAS CV RECTOS CLIP",
+  "Nombre": "OSCILOBATIENTE CV RECTOS CLIP",
   "LineaId": 734,
   "LineaNombre": "ALFA",
-  "TipoAberturaId": 7,
-  "TipoAberturaNombre": "REBATIR",
-  "Descripcion": "REBATIR 2 HOJAS CV RECTOS CLIP",
+  "TipoAberturaId": 4,
+  "TipoAberturaNombre": "OSCILOBATIENTE",
+  "Descripcion": "OSCILOBATIENTE CV RECTOS CLIP",
   "EspesorMin": 6,
   "EspesorMax": 30,
   "Orden": 0,
@@ -50,9 +50,9 @@
       "ProductoId": 0,
       "CodigoPerfil": "2080",
       "DescripcionPerfil": "Hoja recta ventana de abrir",
-      "Cantidad": 4,
+      "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "(A/2)-118",
+      "FormulaMedida": "A-47",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -67,7 +67,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "2080",
       "DescripcionPerfil": "Hoja recta ventana de abrir",
-      "Cantidad": 4,
+      "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H-47",
       "AnguloCorte1": 45,
@@ -84,9 +84,9 @@
       "ProductoId": 0,
       "CodigoPerfil": "0510",
       "DescripcionPerfil": "CONTRAVIDRIO RECTO 37 MM",
-      "Cantidad": 4,
+      "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "(A/2)-118",
+      "FormulaMedida": "A-138",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -101,7 +101,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "0510",
       "DescripcionPerfil": "CONTRAVIDRIO RECTO 37 MM",
-      "Cantidad": 4,
+      "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H-138",
       "AnguloCorte1": 45,
@@ -109,23 +109,6 @@
       "AnguloCorte": 90,
       "Orientacion": "V",
       "TipoPerfil": "Contravidrio",
-      "GalceBase": 0,
-      "AjusteGalce": 0,
-      "EsMarcoPerimetral": false
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoPerfil": "1890",
-      "DescripcionPerfil": "ENCUENTRO CENTRAL VENTANA DE ABRIR",
-      "Cantidad": 1,
-      "FormulaCantidad": "",
-      "FormulaMedida": "H-112",
-      "AnguloCorte1": 90,
-      "AnguloCorte2": 90,
-      "AnguloCorte": 90,
-      "Orientacion": "V",
-      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -137,7 +120,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "80470",
       "DescripcionAccesorio": "ESCUADRA A30/ALFA E-83 MONTICELLI",
-      "FormulaCantidad": "12",
+      "FormulaCantidad": "4",
       "Unidad": "UNIDAD"
     },
     {
@@ -145,7 +128,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89160",
       "DescripcionAccesorio": "CLIP P/CONTRAVIDRIO T-96 O 5096(BOLSA X 100 U)",
-      "FormulaCantidad": "((A*2)\u002B(H*4))/250",
+      "FormulaCantidad": "((A\u002BH)*2)/250",
       "Unidad": "BOLSA X 100"
     },
     {
@@ -153,7 +136,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "93190",
       "DescripcionAccesorio": "BURLETE DE HERMETICIDAD B-74 EPDM",
-      "FormulaCantidad": "((A*2)\u002B(H*4))/1000",
+      "FormulaCantidad": "((A\u002BH)*2)/1000",
       "Unidad": "ROLLO X 100"
     },
     {
@@ -161,41 +144,17 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89060",
       "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
-      "FormulaCantidad": "((A*2)\u002B(H*4))/1000",
+      "FormulaCantidad": "((A\u002BH)*2)/1000",
       "Unidad": "ROLLO X 150"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "89095",
-      "DescripcionAccesorio": "FALLEBA PRIMA CON KIT H-47",
-      "FormulaCantidad": "1",
-      "Unidad": "UNIDAD"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "89085",
-      "DescripcionAccesorio": "BISAGRA H-61(CAJA X 12 UNID)",
-      "FormulaCantidad": "4",
-      "Unidad": "CAJA X 12"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "91240",
-      "DescripcionAccesorio": "PASADOR PARA PUERTA H-42",
-      "FormulaCantidad": "2",
-      "Unidad": "UNIDAD"
     }
   ],
   "Vidrios": [
     {
       "Id": 0,
       "ProductoId": 0,
-      "Cantidad": 2,
+      "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "(A/2)-102",
+      "FormulaAncho": "A-127",
       "FormulaAlto": "H-127",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
