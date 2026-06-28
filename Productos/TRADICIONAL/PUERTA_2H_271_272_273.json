@@ -1,11 +1,11 @@
 {
   "Id": 976,
-  "Nombre": "PUERTA 271/272/273",
+  "Nombre": "PUERTA 2H 271/272/273",
   "LineaId": 1,
   "LineaNombre": "TRADICIONAL",
   "TipoAberturaId": 6,
   "TipoAberturaNombre": "PUERTA",
-  "Descripcion": "PUERTA 271/272/273",
+  "Descripcion": "PUERTA 2H 271/272/273",
   "EspesorMin": 4,
   "EspesorMax": 8,
   "Orden": 0,
@@ -50,7 +50,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "2730",
       "DescripcionPerfil": "PARANTE DE HOJA PUERTA RECTA DE 36 MM",
-      "Cantidad": 2,
+      "Cantidad": 4,
       "FormulaCantidad": "",
       "FormulaMedida": "H-32",
       "AnguloCorte1": 90,
@@ -67,9 +67,9 @@
       "ProductoId": 0,
       "CodigoPerfil": "2720",
       "DescripcionPerfil": "TRAVESA\u00D1O HOJA PUERTA RECTA DE 36 MM",
-      "Cantidad": 2,
+      "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "A-220",
+      "FormulaMedida": "A/2-196",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -160,17 +160,33 @@
       "ProductoId": 0,
       "CodigoAccesorio": "85650",
       "DescripcionAccesorio": "BULONES HEXAGONALES 1/4 x 38MM",
-      "FormulaCantidad": "12",
+      "FormulaCantidad": "24",
       "Unidad": "BOLSAX50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80945",
+      "DescripcionAccesorio": "BISAGRA FL H-1 ROSARIO PTA 36MM (CAJA X 12UNID)",
+      "FormulaCantidad": "6",
+      "Unidad": "CAJA X 12"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "85580",
+      "DescripcionAccesorio": "PASADOR A PALANCA 4090 (CHAMICAL)",
+      "FormulaCantidad": "2",
+      "Unidad": "UNIDAD"
     }
   ],
   "Vidrios": [
     {
       "Id": 0,
       "ProductoId": 0,
-      "Cantidad": 1,
+      "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-200",
+      "FormulaAncho": "A/2-176",
       "FormulaAlto": "H-158",
       "BurleteCodigo1": "82020",
       "BurleteCodigo2": ""

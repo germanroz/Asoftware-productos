@@ -5,7 +5,7 @@
   "TipoProducto": "PAÑO FIJO",
   "Posicion": 0,
   "Espesor": 20,
-  "ContravidrioLadoDivisor": "espesor/2",
+  "ContravidrioLadoDivisor": "33",
   "PerfilCodigo": "9940",
   "PerfilDescripcion": "Perfil Travesaño 6mm",
   "Perfiles": [

@@ -1,0 +1,35 @@
+{
+  "Id": 0,
+  "Nombre": "TRAVESA\u00D1O CORREDIZA 902",
+  "LineaNombre": "TRADICIONAL",
+  "TipoProducto": "CORREDIZA",
+  "Posicion": 0,
+  "Espesor": -58,
+  "ContravidrioLadoDivisor": "espesor",
+  "PerfilCodigo": "9020",
+  "PerfilDescripcion": null,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "9020",
+      "DescripcionPerfil": "",
+      "Cantidad": 2,
+      "FormulaMedida": "A/2-100",
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": [  
+
+ {
+      "Id": 0,
+      "CodigoAccesorio": "83620",
+      "DescripcionAccesorio": "TORN. RANURADO 10 X 1 1/2 PTE I (BOLSA X 100 UNID)",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSAX100"
+    }
+
+  ]
+}

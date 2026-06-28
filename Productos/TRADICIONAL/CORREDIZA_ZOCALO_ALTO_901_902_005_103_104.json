@@ -1,11 +1,11 @@
 {
-  "Id": 0,
+  "Id": 94,
   "Nombre": "CORREDIZA ZOCALO ALTO 901/902/005/103/104",
   "LineaId": 1,
   "LineaNombre": "TRADICIONAL",
   "TipoAberturaId": 3,
   "TipoAberturaNombre": "CORREDIZA",
-  "Descripcion": "CORREDIZA ZOCALO ALTO 901/902/005/103/104",
+  "Descripcion": "CORREDIZA ZOCAL ALTO 901/902/005/103/104",
   "EspesorMin": 4,
   "EspesorMax": 8,
   "Orden": 0,
@@ -23,10 +23,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -40,10 +40,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -57,7 +57,7 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -74,7 +74,7 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -86,12 +86,12 @@
       "DescripcionPerfil": "CABEZAL/Z\u00D3CALO VENTANA CORREDIZA",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2-99",
+      "FormulaMedida": "A/2-100",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -103,12 +103,12 @@
       "DescripcionPerfil": "Z\u00F3calo Alto Corrediza",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2-99",
+      "FormulaMedida": "A/2-100",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -136,7 +136,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "83620",
       "DescripcionAccesorio": "TORN. RANURADO 10 X 1 1/2 PTE I (BOLSA X 100 UNID)",
-      "FormulaCantidad": "20",
+      "FormulaCantidad": "12",
       "Unidad": "BOLSAX100"
     },
     {
@@ -144,7 +144,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "83610",
       "DescripcionAccesorio": "TOPE DE GOMA (PARTE J) (BOLSA X 200 UNID)",
-      "FormulaCantidad": "16",
+      "FormulaCantidad": "8",
       "Unidad": "BOLSAX200"
     },
     {
@@ -162,6 +162,14 @@
       "DescripcionAccesorio": "TAPON CRUCE AL. P/101/501 33.8MM(BOLSA X 20UNID)",
       "FormulaCantidad": "2",
       "Unidad": "BOLSAS X 20"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "82040",
+      "DescripcionAccesorio": "BURLETE B-7 UNIVERSAL LIVIANO (ROLLO X 100MT) EPDM",
+      "FormulaCantidad": "((A*2)\u002B(H*4))/1000",
+      "Unidad": "ROLLOX100"
     }
   ],
   "Vidrios": [
@@ -170,9 +178,9 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2-84",
-      "FormulaAlto": "H-166",
-      "BurleteCodigo1": "82040",
+      "FormulaAncho": "A/2-79",
+      "FormulaAlto": "H-170",
+      "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
   ],

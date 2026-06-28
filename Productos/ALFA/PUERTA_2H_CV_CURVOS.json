@@ -23,10 +23,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -40,10 +40,10 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -57,10 +57,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -74,7 +74,7 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -86,12 +86,12 @@
       "DescripcionPerfil": "HOJA PUERTA DE REBATIR",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-28",
+      "FormulaMedida": "H-29",
       "AnguloCorte1": 45,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -103,12 +103,12 @@
       "DescripcionPerfil": "HOJA PUERTA DE REBATIR",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-28",
+      "FormulaMedida": "H-29",
       "AnguloCorte1": 90,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -137,7 +137,7 @@
       "DescripcionPerfil": "CONTRAVIDRIO CURVO P/VIDRIO SIMPLE",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-236",
+      "FormulaMedida": "H-237",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -159,7 +159,7 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -237,8 +237,8 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2-190",
-      "FormulaAlto": "H-185",
+      "FormulaAncho": "A/2-199",
+      "FormulaAlto": "H-256",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

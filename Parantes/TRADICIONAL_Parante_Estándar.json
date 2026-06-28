@@ -5,7 +5,7 @@
   "TipoProducto": "PAÑO FIJO",
   "Posicion": 0,
   "Espesor": 20,
-  "ContravidrioLadoDivisor": "espesor/2",
+  "ContravidrioLadoDivisor": "23",
   "PerfilCodigo": "9940",
   "PerfilDescripcion": "Perfil Parante 6mm",
   "Perfiles": [

@@ -5,7 +5,8 @@
   "TipoProducto": "PUERTA",
   "Posicion": 0,
   "Espesor": 25,
-  "ContravidrioLadoDivisor": "espesor/2",
+  "ContravidrioLadoDivisor": "-29",
+  "DescuentoInferiorVidrio": "113",
   "PerfilCodigo": "2720",
   "PerfilDescripcion": null,
   "Perfiles": [

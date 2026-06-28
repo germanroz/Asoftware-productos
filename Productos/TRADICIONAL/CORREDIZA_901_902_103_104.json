@@ -23,10 +23,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -40,10 +40,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -57,7 +57,7 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -74,7 +74,7 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -86,12 +86,12 @@
       "DescripcionPerfil": "CABEZAL/Z\u00D3CALO VENTANA CORREDIZA",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2-99",
+      "FormulaMedida": "A/2-100",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "EsMarcoPerimetral": false
@@ -145,6 +145,14 @@
       "DescripcionAccesorio": "TAPON CRUCE AL. P/101/501 33.8MM(BOLSA X 20UNID)",
       "FormulaCantidad": "2",
       "Unidad": "BOLSAS X 20"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "82040",
+      "DescripcionAccesorio": "BURLETE B-7 UNIVERSAL LIVIANO (ROLLO X 100MT) EPDM",
+      "FormulaCantidad": "((A*2)\u002B(H*4))/1000",
+      "Unidad": "ROLLOX100"
     }
   ],
   "Vidrios": [
@@ -153,9 +161,9 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2-84",
-      "FormulaAlto": "H-149",
-      "BurleteCodigo1": "82040",
+      "FormulaAncho": "A/2-79",
+      "FormulaAlto": "H-145",
+      "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
   ],

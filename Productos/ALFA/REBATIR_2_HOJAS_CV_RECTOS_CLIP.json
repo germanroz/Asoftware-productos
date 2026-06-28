@@ -52,7 +52,7 @@
       "DescripcionPerfil": "Hoja recta ventana de abrir",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "(A/2)-118",
+      "FormulaMedida": "(A/2)-26",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -195,8 +195,8 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "(A/2)-102",
-      "FormulaAlto": "H-127",
+      "FormulaAncho": "(A/2)-137",
+      "FormulaAlto": "H-157",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
