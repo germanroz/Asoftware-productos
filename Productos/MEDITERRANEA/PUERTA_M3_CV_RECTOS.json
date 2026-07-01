@@ -16,7 +16,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "8930",
       "DescripcionPerfil": "MARCO PF/VR/VB/VOB/PR NO COPLANAR S/ALOJ. EXT",
-      "Cantidad": 2,
+      "Cantidad": 1,
       "FormulaCantidad": "",
       "FormulaMedida": "A",
       "AnguloCorte1": 45,
@@ -26,6 +26,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -37,12 +38,13 @@
       "FormulaCantidad": "",
       "FormulaMedida": "H",
       "AnguloCorte1": 45,
-      "AnguloCorte2": 45,
+      "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -60,6 +62,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -77,6 +80,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -94,6 +98,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -111,6 +116,7 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -128,6 +134,7 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -145,6 +152,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],

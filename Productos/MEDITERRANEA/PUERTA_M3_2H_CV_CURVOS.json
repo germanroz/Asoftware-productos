@@ -1,11 +1,11 @@
 {
   "Id": 0,
-  "Nombre": "PUERTA M3 CV CURVOS",
+  "Nombre": "PUERTA M3 2H CV CURVOS",
   "LineaId": 765,
   "LineaNombre": "MEDITERRANEA",
   "TipoAberturaId": 6,
   "TipoAberturaNombre": "PUERTA",
-  "Descripcion": "PUERTA M3 CV CURVOS",
+  "Descripcion": "PUERTA M3 2H CV CURVOS",
   "EspesorMin": 4,
   "EspesorMax": 30,
   "Orden": 0,
@@ -52,9 +52,9 @@
       "ProductoId": 0,
       "CodigoPerfil": "8610",
       "DescripcionPerfil": "Hoja puerta M-Tres",
-      "Cantidad": 1,
+      "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A-67",
+      "FormulaMedida": "A/2-37",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -70,7 +70,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "8610",
       "DescripcionPerfil": "Hoja puerta M-Tres",
-      "Cantidad": 1,
+      "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H-40",
       "AnguloCorte1": 90,
@@ -88,7 +88,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "8610",
       "DescripcionPerfil": "Hoja puerta M-Tres",
-      "Cantidad": 1,
+      "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H-40",
       "AnguloCorte1": 45,
@@ -106,9 +106,9 @@
       "ProductoId": 0,
       "CodigoPerfil": "3800",
       "DescripcionPerfil": "Contravidrio Curvo de 28mm",
-      "Cantidad": 2,
+      "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "A-217",
+      "FormulaMedida": "A/2-185",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -124,7 +124,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "3800",
       "DescripcionPerfil": "Contravidrio Curvo de 28mm",
-      "Cantidad": 2,
+      "Cantidad": 4,
       "FormulaCantidad": "",
       "FormulaMedida": "H-209",
       "AnguloCorte1": 45,
@@ -142,9 +142,9 @@
       "ProductoId": 0,
       "CodigoPerfil": "8490",
       "DescripcionPerfil": "Z\u00F3calo Hoja Puerta",
-      "Cantidad": 1,
+      "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A-217",
+      "FormulaMedida": "A/2-185",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -162,7 +162,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "80170",
       "DescripcionAccesorio": "ESC.P/LINEA MEDITERRANEA (TA-E-21-1) MONTICELLI",
-      "FormulaCantidad": "4",
+      "FormulaCantidad": "2",
       "Unidad": "UNIDAD"
     },
     {
@@ -170,7 +170,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "80200",
       "DescripcionAccesorio": "ESC. DE ALINEACION (AA107) (BOLSA X 100UNID)",
-      "FormulaCantidad": "4",
+      "FormulaCantidad": "2",
       "Unidad": "BOLSA X 100"
     },
     {
@@ -186,7 +186,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "84150",
       "DescripcionAccesorio": "ESCUADRA E-62",
-      "FormulaCantidad": "2",
+      "FormulaCantidad": "4",
       "Unidad": "BOLSA X 100"
     },
     {
@@ -194,7 +194,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "80190",
       "DescripcionAccesorio": "ESC.P/LINEA MEDITERRANEA (TA-E-22-1) MONTICELLI",
-      "FormulaCantidad": "2",
+      "FormulaCantidad": "4",
       "Unidad": "UNIDAD"
     },
     {
@@ -202,7 +202,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "80330",
       "DescripcionAccesorio": "ESC. SUPLEM. PTA M-3 (45MM) (CAJA X 40 UNID)",
-      "FormulaCantidad": "2",
+      "FormulaCantidad": "4",
       "Unidad": "CAJA X 40"
     },
     {
@@ -210,7 +210,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89140",
       "DescripcionAccesorio": "BURLETE GABI III (B-67) (ROLLO X 100 MT) EPDM",
-      "FormulaCantidad": "(A\u002B(H*2))/1000",
+      "FormulaCantidad": "((A\u002BH)*2))/1000",
       "Unidad": "ROLLOX100"
     },
     {
@@ -218,7 +218,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89060",
       "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
-      "FormulaCantidad": "(A\u002B(H*2))/1000",
+      "FormulaCantidad": "((A\u002BH)*2))/1000",
       "Unidad": "ROLLO X 150"
     }
   ],
@@ -226,9 +226,9 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "Cantidad": 1,
+      "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-232",
+      "FormulaAncho": "A/2-199",
       "FormulaAlto": "H-226",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
