@@ -1,16 +1,9 @@
 {
-  "Nombre": "KIT 2H PUERTA",
+  "Nombre": "KIT M5 H103\u002BH50\u002BH51",
   "Descripcion": "Variante personalizada por el usuario",
   "PesoMaximoKg": null,
   "PesoMinimoKg": null,
   "Accesorios": [
-    {
-      "CodigoAccesorio": "87740",
-      "Cantidad": 1,
-      "Modelo": "",
-      "Obligatorio": true,
-      "FamiliaPorMedida": ""
-    },
     {
       "CodigoAccesorio": "82375",
       "Cantidad": 1,
@@ -19,8 +12,15 @@
       "FamiliaPorMedida": ""
     },
     {
-      "CodigoAccesorio": "91240",
-      "Cantidad": 2,
+      "CodigoAccesorio": "87740",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "88835",
+      "Cantidad": 3,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""
