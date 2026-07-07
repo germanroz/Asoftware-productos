@@ -1,13 +1,13 @@
 {
   "Id": 0,
-  "Nombre": "CORREDIZA 3H E/2G N3 VS ZOCALO ALTO",
+  "Nombre": "CORREDIZA 3H E/2G N3 DVH 28 ZOCALO ALTO",
   "LineaId": 4,
   "LineaNombre": "NIZA",
   "TipoAberturaId": 3,
   "TipoAberturaNombre": "CORREDIZA",
-  "Descripcion": "CORREDIZA 3H E/2G N3 VS ZOCALO ALTO",
-  "EspesorMin": 6,
-  "EspesorMax": 10,
+  "Descripcion": "CORREDIZA 3H E/2G N3 DVH 28 ZOCALO ALTO",
+  "EspesorMin": 21,
+  "EspesorMax": 26,
   "Orden": 0,
   "FormaCorrediza": 2,
   "HojaCentralDoble": true,
@@ -69,8 +69,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "7400",
-      "DescripcionPerfil": "Parante lateral hoja corte 90\u00BA VS",
+      "CodigoPerfil": "7160",
+      "DescripcionPerfil": "Parante lat hoja 90\u00B0 DVH 28 mm",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H-78",
@@ -87,8 +87,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "7440",
-      "DescripcionPerfil": "Parante Central hoja corte 90\u00B0 VS",
+      "CodigoPerfil": "7170",
+      "DescripcionPerfil": "Parante cent hoja 90\u00B0 DVH 28 mm",
       "Cantidad": 4,
       "FormulaCantidad": "",
       "FormulaMedida": "H-78",
@@ -105,8 +105,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "7450",
-      "DescripcionPerfil": "Z\u00F3calo cabezal hoja corte 90\u00BA VS",
+      "CodigoPerfil": "7240",
+      "DescripcionPerfil": "Z\u00F3calo /cabezal hoja 90\u00B0 DVH 28 mm",
       "Cantidad": 3,
       "FormulaCantidad": "",
       "FormulaMedida": "A/3-9",
@@ -123,8 +123,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "7480",
-      "DescripcionPerfil": "z\u00F3calo Alto corte a 90\u00BA VS",
+      "CodigoPerfil": "7280",
+      "DescripcionPerfil": "Z\u00F3calo alto hoja 90\u00B0 DVH 28 mm",
       "Cantidad": 3,
       "FormulaCantidad": "",
       "FormulaMedida": "A/3-9",
@@ -217,20 +217,10 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "Cantidad": 2,
+      "Cantidad": 3,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/4-63",
-      "FormulaAlto": "H-227",
-      "BurleteCodigo1": "",
-      "BurleteCodigo2": ""
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "Cantidad": 1,
-      "FormulaCantidad": "",
-      "FormulaAncho": "A/2-60",
-      "FormulaAlto": "H-227",
+      "FormulaAncho": "A/3-83",
+      "FormulaAlto": "H-182",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
@@ -241,24 +231,35 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 6,
-        "EspesorMax": 7,
+        "EspesorMin": 21,
+        "EspesorMax": 22,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
-        "BurleteCodigo1": "82100",
-        "BurleteCodigo2": "82100"
+        "BurleteCodigo1": "8211",
+        "BurleteCodigo2": "8211"
       },
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 8,
-        "EspesorMax": 10,
+        "EspesorMin": 23,
+        "EspesorMax": 24,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
         "BurleteCodigo1": "82110",
         "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 25,
+        "EspesorMax": 26,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82090",
+        "BurleteCodigo2": "82090"
       }
     ]
   }
