@@ -1,0 +1,223 @@
+{
+  "Id": 0,
+  "Nombre": "CORREDIZA 3H M3 VS",
+  "LineaId": 765,
+  "LineaNombre": "MEDITERRANEA",
+  "TipoAberturaId": 3,
+  "TipoAberturaNombre": "CORREDIZA",
+  "Descripcion": "Copia de CORREDIZA 2H M3 VS",
+  "EspesorMin": 4,
+  "EspesorMax": 8,
+  "Orden": 0,
+  "FormaCorrediza": 0,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8730",
+      "DescripcionPerfil": "MARCO CORREDIZA M-TRES 3 GU\u00CDAS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8730",
+      "DescripcionPerfil": "MARCO CORREDIZA M-TRES 3 GU\u00CDAS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8810",
+      "DescripcionPerfil": "HOJA V.CORREDIZA S/CV M-TRES P/VS",
+      "Cantidad": 6,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/3\u002B24",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8810",
+      "DescripcionPerfil": "HOJA V.CORREDIZA S/CV M-TRES P/VS",
+      "Cantidad": 6,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-82",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "7130",
+      "DescripcionPerfil": "ENCUENTRO CENTRAL HOJA CORREDIZA M-TRES",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-82",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "5610",
+      "DescripcionPerfil": "SOBRE GU\u00CDA MARCO CORREDIZA",
+      "Cantidad": 3,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-91",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89070",
+      "DescripcionAccesorio": "ESCUADRA A-700 (TA-E06) MONTICELLI",
+      "FormulaCantidad": "20",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89410",
+      "DescripcionAccesorio": "TORNILLO FIJADOR ENC. CENTRAL PERFILES 713/743/556",
+      "FormulaCantidad": "(H*4)/250",
+      "Unidad": "BOLSAX200"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89440",
+      "DescripcionAccesorio": "CRUCE DE HOJA MEDITERRANEA (38 MM)",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSAS X 20"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83665",
+      "DescripcionAccesorio": "TAPA DESAGUE CON CLAP T-69 (BOLSA X 50UNID)",
+      "FormulaCantidad": "2",
+      "Unidad": "BOLSA X 50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89465",
+      "DescripcionAccesorio": "BOCA DE DESAGUE T-94/T-130 (CAJA X 100U)",
+      "FormulaCantidad": "2",
+      "Unidad": "CAJA X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83150",
+      "DescripcionAccesorio": "FELPA 7*6 JN NEGRA ROLLO 400MTS",
+      "FormulaCantidad": "((A*4)\u002B(H*8))/1000",
+      "Unidad": "ROLLO X 400"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 3,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A/3-105",
+      "FormulaAlto": "H-212",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 4,
+        "EspesorMax": 5,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82110",
+        "BurleteCodigo2": null
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 6,
+        "EspesorMax": 7,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82100",
+        "BurleteCodigo2": null
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 8,
+        "EspesorMax": 9,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82090",
+        "BurleteCodigo2": null
+      }
+    ]
+  }
+}

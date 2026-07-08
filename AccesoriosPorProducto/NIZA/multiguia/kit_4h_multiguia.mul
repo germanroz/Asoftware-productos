@@ -27,7 +27,7 @@
     },
     {
       "CodigoAccesorio": "96000",
-      "Cantidad": 2,
+      "Cantidad": 4,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""
