@@ -1,0 +1,15 @@
+{
+  "Nombre": "KIT OSCILO COPLANAR RPT",
+  "Descripcion": "Variante personalizada por el usuario",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "",
+      "Cantidad": 0,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": "O/B GIESSE COPLANAR"
+    }
+  ]
+}

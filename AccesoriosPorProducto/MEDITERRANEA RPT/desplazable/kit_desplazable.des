@@ -1,0 +1,22 @@
+{
+  "Nombre": "KIT DESPLAZABLE",
+  "Descripcion": "Variante personalizada por el usuario",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "",
+      "Cantidad": 0,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": "TIJERAS JN"
+    },
+    {
+      "CodigoAccesorio": "84785",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    }
+  ]
+}

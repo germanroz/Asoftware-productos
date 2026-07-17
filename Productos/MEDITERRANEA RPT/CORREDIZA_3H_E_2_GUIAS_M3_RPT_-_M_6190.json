@@ -1,0 +1,303 @@
+{
+  "Id": 0,
+  "Nombre": "CORREDIZA 3H E/2 GUIAS M3 RPT - M/6190",
+  "LineaId": 164,
+  "LineaNombre": "MEDITERRANEA RPT",
+  "TipoAberturaId": 3,
+  "TipoAberturaNombre": "CORREDIZA",
+  "Descripcion": "CORREDIZA 3H E/2 GUIAS M3 RPT - M/6190",
+  "EspesorMin": 20,
+  "EspesorMax": 26,
+  "Orden": 4,
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": true,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "61900",
+      "DescripcionPerfil": "Marco de 2 guias M-Tres RPT",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "RPT",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "61900",
+      "DescripcionPerfil": "Marco de 2 guias M-Tres RPT",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "RPT",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "63300",
+      "DescripcionPerfil": "Hoja Corrediza M-III RPT 28 MM",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/4\u002B36",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "RPT",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "63300",
+      "DescripcionPerfil": "Hoja Corrediza M-III RPT 28 MM",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/2\u002B73",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "RPT",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "63300",
+      "DescripcionPerfil": "Hoja Corrediza M-III RPT 28 MM",
+      "Cantidad": 6,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-88",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "RPT",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "3420",
+      "DescripcionPerfil": "Encuentro Hoja Corrediza M-III RPT",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-88",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "5610",
+      "DescripcionPerfil": "SOBRE GU\u00CDA MARCO CORREDIZA",
+      "Cantidad": 3,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-98",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "94130",
+      "DescripcionAccesorio": "ESC.MEDITERRANEA RPT E-25 MONTICELLI",
+      "FormulaCantidad": "4",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "94020",
+      "DescripcionAccesorio": "ESCUADRA HOJA CORREDIZA (0427) 3 MONTICELLI",
+      "FormulaCantidad": "12",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83920",
+      "DescripcionAccesorio": "CRUCE DE HOJA DE 42 MM (BOLSA X 20UNID)",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSAS X 20"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "94125",
+      "DescripcionAccesorio": "TOPE GUIA PTE CENTRAL MT-ME-ME RPT (CAJA X 50 U)",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJA X 50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89465",
+      "DescripcionAccesorio": "BOCA DE DESAGUE T-94/T-130 (CAJA X 100U)",
+      "FormulaCantidad": "2",
+      "Unidad": "CAJA X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83665",
+      "DescripcionAccesorio": "TAPA DESAGUE CON CLAP T-69 (BOLSA X 50UNID)",
+      "FormulaCantidad": "2",
+      "Unidad": "BOLSA X 50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89410",
+      "DescripcionAccesorio": "TORNILLO FIJADOR ENC. CENTRAL PERFILES 713/743/556",
+      "FormulaCantidad": "(H*2)/250",
+      "Unidad": "BOLSAX200"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89390",
+      "DescripcionAccesorio": "TOPE LATERAL INT. HOJA 886 M3 (CAJA X 40)",
+      "FormulaCantidad": "2",
+      "Unidad": "CAJA X 40"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89490",
+      "DescripcionAccesorio": "ESC.ALINEAC. HOJA  E-98 - BAJA - (BOLSA X 200U)",
+      "FormulaCantidad": "24",
+      "Unidad": "BOLSA X 200"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "94160",
+      "DescripcionAccesorio": "PERFIL AISLADOR \u0022U\u0022  M-III RPT (BARRA DE 6 MTS)",
+      "FormulaCantidad": "((A\u002BH)*2)/1000",
+      "Unidad": "BARRA X 6 MT"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "94150",
+      "DescripcionAccesorio": "PERF AISL ENCUENTRO \u0022J\u0022  M-III (BARRA DE 6 MTS)",
+      "FormulaCantidad": "(H*4)/1000",
+      "Unidad": "BARRA X 6 MT"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A/4-89",
+      "FormulaAlto": "H-210",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A/2-53",
+      "FormulaAlto": "H-210",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 20,
+        "EspesorMax": 21,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82200",
+        "BurleteCodigo2": null
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 22,
+        "EspesorMax": 23,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82110",
+        "BurleteCodigo2": null
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 24,
+        "EspesorMax": 25,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82100",
+        "BurleteCodigo2": null
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 26,
+        "EspesorMax": 27,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82090",
+        "BurleteCodigo2": null
+      }
+    ]
+  }
+}

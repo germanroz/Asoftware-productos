@@ -1,8 +1,9 @@
-﻿{
+{
   "Codigo": "4530",
   "Descripcion": "",
   "PesoKg": 1.2,
   "PrecioKg": 5,
   "Espesor": 4,
-   "Linea": "TRADICIONAL"
+   "Linea": "TRADICIONAL",
+  "Lineas": ["TRADICIONAL"]
 }
