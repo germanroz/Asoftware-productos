@@ -1,12 +1,12 @@
 {
-  "Nombre": "Bi punto JN",
+  "Nombre": "KIT 6H",
   "Descripcion": "Variante personalizada por el usuario",
   "PesoMaximoKg": null,
   "PesoMinimoKg": null,
   "Accesorios": [
     {
       "CodigoAccesorio": "96150",
-      "Cantidad": 2,
+      "Cantidad": 3,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""
@@ -20,14 +20,21 @@
     },
     {
       "CodigoAccesorio": "96180",
-      "Cantidad": 8,
+      "Cantidad": 24,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""
     },
     {
-      "CodigoAccesorio": "99750",
-      "Cantidad": 4,
+      "CodigoAccesorio": "94525",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "83720",
+      "Cantidad": 12,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""
