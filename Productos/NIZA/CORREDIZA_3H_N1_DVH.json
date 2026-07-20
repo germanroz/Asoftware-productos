@@ -8,7 +8,11 @@
   "Descripcion": "CORREDIZA 3H N1 DVH",
   "EspesorMin": 17,
   "EspesorMax": 20,
-  "Orden": 0,
+  "Orden": 2,
+  "VarianteAccesorios": "",
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -24,7 +28,9 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -40,7 +46,9 @@
       "Orientacion": "V",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -56,7 +64,9 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -72,7 +82,9 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -88,7 +100,9 @@
       "Orientacion": "H",
       "TipoPerfil": "Marco",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     }
   ],
   "Accesorios": [],
@@ -97,6 +111,7 @@
       "Id": 0,
       "ProductoId": 0,
       "Cantidad": 3,
+      "FormulaCantidad": "",
       "FormulaAncho": "A/3-48",
       "FormulaAlto": "H-128",
       "BurleteCodigo1": "",

@@ -8,9 +8,11 @@
   "Descripcion": "CORREDIZA 3H E/2G N3 DVH 28 ZOCALO ALTO",
   "EspesorMin": 21,
   "EspesorMax": 26,
-  "Orden": 0,
+  "Orden": 10,
+  "VarianteAccesorios": "",
   "FormaCorrediza": 2,
   "HojaCentralDoble": true,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,

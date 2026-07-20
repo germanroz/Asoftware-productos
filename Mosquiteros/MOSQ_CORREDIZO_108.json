@@ -1,40 +1,57 @@
 {
   "Id": 0,
-  "Nombre": "MOSQUITERO CORREDIZO 441",
-  "LineaNombre": "NIZA",
+  "Nombre": "MOSQ CORREDIZO 108",
+  "LineaNombre": "ALUPAL",
   "Perfiles": [
     {
       "Id": 0,
-      "CodigoPerfil": "4410",
-      "DescripcionPerfil": "Mosquitero corredizo",
+      "CodigoPerfil": "1080",
+      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA",
       "Cantidad": 2,
-      "Formula": "AH\u002B40",
+      "Formula": "AH-6",
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "Orientacion": "H",
+      "Productos": [
+        "CORREDIZA 2H LIGHT DVH"
+      ]
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "1080",
+      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA",
+      "Cantidad": 2,
+      "Formula": "H-58",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "v",
       "Productos": []
     },
     {
       "Id": 0,
-      "CodigoPerfil": "4410",
-      "DescripcionPerfil": "Mosquitero corredizo",
+      "CodigoPerfil": "1080",
+      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA",
       "Cantidad": 2,
-      "Formula": "H-78",
+      "Formula": "AH\u002B3",
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
-      "Orientacion": "V",
-      "Productos": []
+      "Orientacion": "H",
+      "Productos": [
+        "CORREDIZA 2H MAX DVH",
+        "CORREDIZA 2H MAX VS"
+      ]
     }
   ],
   "Accesorios": [
     {
       "Id": 0,
-      "CodigoAccesorio": "87750",
-      "DescripcionAccesorio": "ESCUADRA MARCO/HOJA E-69 JA",
+      "CodigoAccesorio": "80380",
+      "DescripcionAccesorio": "ESCUADRA MOSQUITERO 108",
       "FormulaCantidad": "4",
-      "Unidad": "UNIDAD"
+      "Unidad": "CAJA X 50"
     },
     {
       "Id": 0,
@@ -45,9 +62,9 @@
     },
     {
       "Id": 0,
-      "CodigoAccesorio": "89320",
-      "DescripcionAccesorio": "RUEDAS SIMPL TORINO R-48 (40 KG HOJA) (712)",
-      "FormulaCantidad": "2",
+      "CodigoAccesorio": "81340",
+      "DescripcionAccesorio": "KIT P/MOSQUITERO 108 CORREDIZO",
+      "FormulaCantidad": "1",
       "Unidad": "UNIDAD"
     }
   ],
