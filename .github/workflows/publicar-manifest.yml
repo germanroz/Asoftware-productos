@@ -1,0 +1,57 @@
+name: Publicar manifest del catalogo
+
+# Regenera manifest.json y lo publica como asset del release "catalogo" en
+# cada push a master. La app lo lee al arrancar por
+# releases/latest/download/manifest.json para avisar si hay productos nuevos.
+#
+# Sin esto habria que acordarse de correr el script a mano cada vez que se
+# suben productos; si el manifest queda viejo, los clientes no se enteran.
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "Productos/**"
+      - "Mosquiteros/**"
+      - "Travesaños/**"
+      - "Parantes/**"
+      - "MarcosUnificados/**"
+      - "Acoples/**"
+      - "Contramarcos/**"
+      - "Premarcos/**"
+      - "Tableros/**"
+      - "AccesoriosPorProducto/**"
+      - ".github/scripts/generar_manifest.py"
+      - ".github/workflows/publicar-manifest.yml"
+  # Permite regenerarlo a mano desde la pestaña Actions sin tocar el catalogo.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Si entran varios pushes seguidos, que gane el ultimo en vez de pisarse entre si.
+concurrency:
+  group: manifest-catalogo
+  cancel-in-progress: true
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generar manifest.json
+        run: python3 .github/scripts/generar_manifest.py
+
+      - name: Publicar como asset del release "catalogo"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # El release tiene que existir y ser el ULTIMO del repo para que
+          # /releases/latest/ lo resuelva. Se reusa siempre el mismo tag.
+          if ! gh release view catalogo >/dev/null 2>&1; then
+            gh release create catalogo \
+              --title "Catalogo" \
+              --notes "Indice de productos que consulta la app para avisar novedades."
+          fi
+          gh release upload catalogo manifest.json --clobber
