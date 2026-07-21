@@ -1,4 +1,4 @@
-﻿{
+{
   "Id": 0,
   "Nombre": "REBATIR N3 2 HOJAS CV RECTOS",
   "LineaId": 4,
@@ -8,6 +8,11 @@
   "Descripcion": "REBATIR N3 2 HOJAS CV RECTOS",
   "EspesorMin": 6,
   "EspesorMax": 30,
+  "Orden": 0,
+  "VarianteAccesorios": "",
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -15,14 +20,17 @@
       "CodigoPerfil": "2680",
       "DescripcionPerfil": "MARCO PA\u00D1O FIJO / VENTANA DE ABRIR",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "A",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -30,14 +38,17 @@
       "CodigoPerfil": "2680",
       "DescripcionPerfil": "MARCO PA\u00D1O FIJO / VENTANA DE ABRIR",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "H",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -45,14 +56,17 @@
       "CodigoPerfil": "2080",
       "DescripcionPerfil": "Hoja recta ventana de abrir",
       "Cantidad": 4,
+      "FormulaCantidad": "",
       "FormulaMedida": "(A/2)-118",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -60,14 +74,17 @@
       "CodigoPerfil": "2080",
       "DescripcionPerfil": "Hoja recta ventana de abrir",
       "Cantidad": 4,
+      "FormulaCantidad": "",
       "FormulaMedida": "H-47",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -75,6 +92,7 @@
       "CodigoPerfil": "2050",
       "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 37 MM",
       "Cantidad": 4,
+      "FormulaCantidad": "",
       "FormulaMedida": "(A/2)-118",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
@@ -82,7 +100,9 @@
       "Orientacion": "H",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -90,6 +110,7 @@
       "CodigoPerfil": "2050",
       "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 37 MM",
       "Cantidad": 4,
+      "FormulaCantidad": "",
       "FormulaMedida": "H-183",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
@@ -97,7 +118,9 @@
       "Orientacion": "V",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -105,14 +128,17 @@
       "CodigoPerfil": "1890",
       "DescripcionPerfil": "ENCUENTRO CENTRAL VENTANA DE ABRIR",
       "Cantidad": 1,
+      "FormulaCantidad": "",
       "FormulaMedida": "H-112",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     }
   ],
   "Accesorios": [
@@ -170,8 +196,9 @@
       "Id": 0,
       "ProductoId": 0,
       "Cantidad": 2,
-      "FormulaAncho": "(A/2)-102",
-      "FormulaAlto": "H-127",
+      "FormulaCantidad": "",
+      "FormulaAncho": "(A/2)-137",
+      "FormulaAlto": "H-157",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

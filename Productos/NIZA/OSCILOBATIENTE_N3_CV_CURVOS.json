@@ -9,7 +9,10 @@
   "EspesorMin": 6,
   "EspesorMax": 30,
   "Orden": 0,
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -23,10 +26,11 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -40,10 +44,11 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -57,9 +62,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -74,9 +80,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -94,6 +101,7 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -111,6 +119,7 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],
@@ -154,8 +163,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-127",
-      "FormulaAlto": "H-127",
+      "FormulaAncho": "A-157",
+      "FormulaAlto": "H-157",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
