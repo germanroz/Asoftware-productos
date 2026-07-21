@@ -2,7 +2,7 @@
   "Id": 3,
   "Nombre": "TABLERO VERTICAL 398",
   "LineaNombre": "NIZA",
-  "Lineas": ["NIZA"],
+  "Lineas": ["NIZA", "ALUPAL"],
   "CodigoPerfil": "3980",
   "DescripcionPerfil": "",
   "AnchoUtil": 100,

@@ -5,5 +5,5 @@
   "PrecioKg": 5,
   "Espesor": 4,
    "Linea": "TRADICIONAL",
-  "Lineas": ["TRADICIONAL"]
+  "Lineas": ["TRADICIONAL", "ALUPAL"]
 }
