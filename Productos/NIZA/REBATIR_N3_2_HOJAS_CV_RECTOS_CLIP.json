@@ -9,7 +9,7 @@
   "EspesorMin": 6,
   "EspesorMax": 30,
   "Orden": 0,
-  "VarianteAccesorios": "",
+  "VarianteAccesorios": "kit_rebatir.default",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "EntreEjes": 1000,
@@ -57,7 +57,7 @@
       "DescripcionPerfil": "Hoja recta ventana de abrir",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "(A/2)-118",
+      "FormulaMedida": "(A/2)-26",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -173,30 +173,6 @@
       "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
       "FormulaCantidad": "((A*2)\u002B(H*4))/1000",
       "Unidad": "ROLLO X 150"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "89095",
-      "DescripcionAccesorio": "FALLEBA PRIMA CON KIT H-47",
-      "FormulaCantidad": "1",
-      "Unidad": "UNIDAD"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "89085",
-      "DescripcionAccesorio": "BISAGRA H-61(CAJA X 12 UNID)",
-      "FormulaCantidad": "4",
-      "Unidad": "CAJA X 12"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "91240",
-      "DescripcionAccesorio": "PASADOR PARA PUERTA H-42",
-      "FormulaCantidad": "2",
-      "Unidad": "UNIDAD"
     }
   ],
   "Vidrios": [

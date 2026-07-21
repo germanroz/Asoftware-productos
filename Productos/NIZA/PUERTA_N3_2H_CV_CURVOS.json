@@ -8,8 +8,11 @@
   "Descripcion": "PUERTA N3 2H CV CURVOS",
   "EspesorMin": 6,
   "EspesorMax": 31,
-  "Orden": 0,
+  "Orden": 1,
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -23,10 +26,11 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -40,10 +44,11 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -57,10 +62,11 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": true
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -74,9 +80,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -86,14 +93,15 @@
       "DescripcionPerfil": "HOJA PUERTA DE REBATIR",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-28",
+      "FormulaMedida": "H-29",
       "AnguloCorte1": 45,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -103,14 +111,15 @@
       "DescripcionPerfil": "HOJA PUERTA DE REBATIR",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-28",
+      "FormulaMedida": "H-29",
       "AnguloCorte1": 90,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -128,6 +137,7 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -137,7 +147,7 @@
       "DescripcionPerfil": "CONTRAVIDRIO CURVO P/VIDRIO SIMPLE",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-236",
+      "FormulaMedida": "H-237",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -145,6 +155,7 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -159,9 +170,28 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2230",
+      "DescripcionPerfil": "ENCUENTRO CENTRAL PUERTA DE REBATIR",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-66",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],
@@ -237,8 +267,8 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2-190",
-      "FormulaAlto": "H-185",
+      "FormulaAncho": "A/2-200",
+      "FormulaAlto": "H-257",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
