@@ -1,9 +1,16 @@
 {
-  "Nombre": "M3-M5 CORREDIZA 2H",
-  "Descripcion": "R47 - BI PUNTO",
+  "Nombre": "N5 - BI PUNTO JN",
+  "Descripcion": "Variante personalizada por el usuario",
   "PesoMaximoKg": null,
   "PesoMinimoKg": null,
   "Accesorios": [
+    {
+      "CodigoAccesorio": "99750",
+      "Cantidad": 4,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
     {
       "CodigoAccesorio": "96150",
       "Cantidad": 2,
@@ -13,14 +20,7 @@
     },
     {
       "CodigoAccesorio": "96180",
-      "Cantidad": 8,
-      "Modelo": "",
-      "Obligatorio": true,
-      "FamiliaPorMedida": ""
-    },
-    {
-      "CodigoAccesorio": "99750",
-      "Cantidad": 4,
+      "Cantidad": 12,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""

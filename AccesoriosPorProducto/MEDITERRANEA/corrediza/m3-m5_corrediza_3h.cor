@@ -1,6 +1,6 @@
 {
-  "Nombre": "M3-M5 CORREDIZA 2H",
-  "Descripcion": "R47 - BI PUNTO",
+  "Nombre": "M3-M5 CORREDIZA 3H",
+  "Descripcion": "Variante personalizada por el usuario",
   "PesoMaximoKg": null,
   "PesoMinimoKg": null,
   "Accesorios": [
@@ -20,7 +20,7 @@
     },
     {
       "CodigoAccesorio": "99750",
-      "Cantidad": 4,
+      "Cantidad": 6,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""

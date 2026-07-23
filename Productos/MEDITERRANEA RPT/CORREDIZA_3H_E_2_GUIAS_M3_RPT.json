@@ -9,8 +9,10 @@
   "EspesorMin": 20,
   "EspesorMax": 26,
   "Orden": 3,
+  "VarianteAccesorios": "kit_3h_m3_rpt.cor",
   "FormaCorrediza": 0,
   "HojaCentralDoble": true,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -28,7 +30,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -46,7 +48,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,

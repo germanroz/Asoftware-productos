@@ -1,26 +1,12 @@
 {
-  "Nombre": "M3-M5 CORREDIZA 2H",
-  "Descripcion": "R47 - BI PUNTO",
+  "Nombre": "M3 RPT CORREDIZA 2H",
+  "Descripcion": "Variante personalizada por el usuario",
   "PesoMaximoKg": null,
   "PesoMinimoKg": null,
   "Accesorios": [
     {
-      "CodigoAccesorio": "96150",
+      "CodigoAccesorio": "96230",
       "Cantidad": 2,
-      "Modelo": "",
-      "Obligatorio": true,
-      "FamiliaPorMedida": ""
-    },
-    {
-      "CodigoAccesorio": "96180",
-      "Cantidad": 8,
-      "Modelo": "",
-      "Obligatorio": true,
-      "FamiliaPorMedida": ""
-    },
-    {
-      "CodigoAccesorio": "99750",
-      "Cantidad": 4,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""
@@ -28,6 +14,20 @@
     {
       "CodigoAccesorio": "94405",
       "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "96170",
+      "Cantidad": 12,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "92190",
+      "Cantidad": 4,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""

@@ -9,7 +9,10 @@
   "EspesorMin": 17,
   "EspesorMax": 19,
   "Orden": 0,
+  "VarianteAccesorios": "kit_corrediza_r42_\u002B_h56.cor",
   "FormaCorrediza": 2,
+  "HojaCentralDoble": false,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -26,6 +29,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -43,6 +47,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     },
     {
@@ -60,6 +65,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -77,6 +83,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -94,6 +101,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -111,6 +119,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],

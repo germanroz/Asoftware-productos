@@ -1,19 +1,19 @@
 {
-  "Nombre": "N3 - CIERRE LATERAL",
-  "Descripcion": "NIZA N3 - CIERRE LATERAL",
-  "PesoMaximoKg": 100,
-  "PesoMinimoKg": 0,
+  "Nombre": "ALFA - CORREDIZA 4H",
+  "Descripcion": "Variante personalizada por el usuario",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
   "Accesorios": [
     {
-      "CodigoAccesorio": "81765",
-      "Cantidad": 2,
+      "CodigoAccesorio": "99025",
+      "Cantidad": 3,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""
     },
     {
       "CodigoAccesorio": "99750",
-      "Cantidad": 4,
+      "Cantidad": 8,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""

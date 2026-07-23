@@ -1,26 +1,26 @@
 {
-  "Nombre": "N3 - BI PUNTO JN",
-  "Descripcion": "NIZA N3 - BI PUNTO JN",
+  "Nombre": "MON - PUERTA 1H",
+  "Descripcion": "Variante personalizada por el usuario",
   "PesoMaximoKg": null,
   "PesoMinimoKg": null,
   "Accesorios": [
     {
-      "CodigoAccesorio": "99750",
-      "Cantidad": 4,
+      "CodigoAccesorio": "82375",
+      "Cantidad": 1,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""
     },
     {
-      "CodigoAccesorio": "80003",
-      "Cantidad": 2,
+      "CodigoAccesorio": "87740",
+      "Cantidad": 1,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""
     },
     {
-      "CodigoAccesorio": "80020",
-      "Cantidad": 2,
+      "CodigoAccesorio": "82355",
+      "Cantidad": 3,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""

@@ -9,8 +9,10 @@
   "EspesorMin": 21,
   "EspesorMax": 26,
   "Orden": 0,
+  "VarianteAccesorios": "delta_-_corrediza_4h.cor",
   "FormaCorrediza": 2,
   "HojaCentralDoble": false,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -46,7 +48,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
