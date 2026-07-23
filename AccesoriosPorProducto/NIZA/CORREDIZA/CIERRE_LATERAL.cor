@@ -1,6 +1,6 @@
 {
-  "Nombre": "Cierre Lateral",
-  "Descripcion": "Configuración línea NIZA - Cierre Lateral",
+  "Nombre": "N3 - CIERRE LATERAL",
+  "Descripcion": "NIZA N3 - CIERRE LATERAL",
   "PesoMaximoKg": 100,
   "PesoMinimoKg": 0,
   "Accesorios": [

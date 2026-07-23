@@ -1,0 +1,22 @@
+{
+  "Nombre": "N1 - KIT CIERRE LAT",
+  "Descripcion": "N1 - CIERRE LATERAL",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "81675",
+      "Cantidad": 2,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "91530",
+      "Cantidad": 4,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    }
+  ]
+}

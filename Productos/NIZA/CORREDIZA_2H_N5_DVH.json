@@ -1,14 +1,14 @@
 {
   "Id": 0,
-  "Nombre": "CORREDIZA 6H E/CENTRAL N5 DVH",
+  "Nombre": "CORREDIZA 2H N5 DVH",
   "LineaId": 4,
   "LineaNombre": "NIZA",
   "TipoAberturaId": 3,
   "TipoAberturaNombre": "CORREDIZA",
-  "Descripcion": "CORREDIZA 6H E/CENTRAL N5 DVH",
+  "Descripcion": "Copia de CORREDIZA 2H N5 VS",
   "EspesorMin": 20,
   "EspesorMax": 26,
-  "Orden": 20,
+  "Orden": 19,
   "VarianteAccesorios": "",
   "FormaCorrediza": 1,
   "HojaCentralDoble": false,
@@ -17,8 +17,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "7940",
-      "DescripcionPerfil": "Jamba tres gu\u00EDas",
+      "CodigoPerfil": "8650",
+      "DescripcionPerfil": "JAMBA MARCO CORREDIZA 2 GU\u00CDAS",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H",
@@ -35,8 +35,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "7930",
-      "DescripcionPerfil": "Umbral Dintel tres gu\u00EDas",
+      "CodigoPerfil": "8640",
+      "DescripcionPerfil": "UMBRAL / DINTEL MARCO CORREDIZA 2 GU\u00CDAS",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A-50",
@@ -55,7 +55,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "5610",
       "DescripcionPerfil": "SOBRE GU\u00CDA MARCO CORREDIZA",
-      "Cantidad": 3,
+      "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A-50",
       "AnguloCorte1": 90,
@@ -73,9 +73,9 @@
       "ProductoId": 0,
       "CodigoPerfil": "4670",
       "DescripcionPerfil": "Hoja Corrediza 45\u00BA DVH 28 mm",
-      "Cantidad": 12,
+      "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/6\u002B38",
+      "FormulaMedida": "A/2\u002B4",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -91,7 +91,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "4670",
       "DescripcionPerfil": "Hoja Corrediza 45\u00BA DVH 28 mm",
-      "Cantidad": 12,
+      "Cantidad": 4,
       "FormulaCantidad": "",
       "FormulaMedida": "H-78",
       "AnguloCorte1": 45,
@@ -109,7 +109,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "4080",
       "DescripcionPerfil": "Solapa de cruce de hojas corredizas",
-      "Cantidad": 8,
+      "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H-78",
       "AnguloCorte1": 90,
@@ -129,7 +129,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "84230",
       "DescripcionAccesorio": "ESCUADRA REGULABLE MARCO/HOJA E-69 MONTICELLI",
-      "FormulaCantidad": "24",
+      "FormulaCantidad": "8",
       "Unidad": "UNIDAD"
     },
     {
@@ -137,7 +137,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "83680",
       "DescripcionAccesorio": "TORNILLO 10 X 38 (T-001) (CAJA X 1000 U.)",
-      "FormulaCantidad": "12",
+      "FormulaCantidad": "4",
       "Unidad": "CAJA X 1000"
     },
     {
@@ -145,7 +145,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89060",
       "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
-      "FormulaCantidad": "(H*10)/1000",
+      "FormulaCantidad": "(H*2)/1000",
       "Unidad": "ROLLO X 150"
     },
     {
@@ -153,7 +153,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "83160",
       "DescripcionAccesorio": "FELPA 7*6 CON FIN SEAL JN NEGRA ROLLO 400MTS",
-      "FormulaCantidad": "((A*4)\u002B(H*12))/1000",
+      "FormulaCantidad": "((A*4)\u002B(H*8))/1000",
       "Unidad": "ROLLO X 400"
     },
     {
@@ -161,7 +161,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "97360",
       "DescripcionAccesorio": "T-156 TAPON PTE CENTRAL NIZA /50",
-      "FormulaCantidad": "16",
+      "FormulaCantidad": "4",
       "Unidad": "BOLSA X 50"
     },
     {
@@ -169,7 +169,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "97350",
       "DescripcionAccesorio": "T-165 TOPE PTE LATERAL NIZA / 25",
-      "FormulaCantidad": "6",
+      "FormulaCantidad": "4",
       "Unidad": "BOLSAS X 25"
     },
     {
@@ -178,14 +178,6 @@
       "CodigoAccesorio": "97300",
       "DescripcionAccesorio": "T-160 MARCO 2 GUIAS NIZA / 8",
       "FormulaCantidad": "2",
-      "Unidad": "JUEGO X 8"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "97310",
-      "DescripcionAccesorio": "T-161 MARCO NIZA 3G / 8",
-      "FormulaCantidad": "4",
       "Unidad": "JUEGO X 8"
     },
     {
@@ -207,26 +199,26 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoAccesorio": "97330",
-      "DescripcionAccesorio": "T-163 JUNTA 3 GUIAS NIZA / 25PARES",
+      "CodigoAccesorio": "97320",
+      "DescripcionAccesorio": "T-162 JUNTA NIZA / 25",
       "FormulaCantidad": "2",
-      "Unidad": "BOLSA X 25 PARES"
+      "Unidad": "BOLSA X 25"
     }
   ],
   "Vidrios": [
     {
       "Id": 0,
       "ProductoId": 0,
-      "Cantidad": 6,
+      "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/6-93",
+      "FormulaAncho": "A/2-129",
       "FormulaAlto": "H-208",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
   ],
   "ConfiguracionVidrio": {
-    "Tipo": "SinContravidrio",
+    "Tipo": "SIN",
     "Reglas": [
       {
         "Id": 0,
@@ -237,7 +229,7 @@
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
         "BurleteCodigo1": "82200",
-        "BurleteCodigo2": null
+        "BurleteCodigo2": "82200"
       },
       {
         "Id": 0,
@@ -248,7 +240,7 @@
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
         "BurleteCodigo1": "82110",
-        "BurleteCodigo2": null
+        "BurleteCodigo2": "82110"
       },
       {
         "Id": 0,
@@ -259,7 +251,7 @@
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
         "BurleteCodigo1": "82100",
-        "BurleteCodigo2": null
+        "BurleteCodigo2": "82100"
       },
       {
         "Id": 0,
@@ -270,7 +262,7 @@
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
         "BurleteCodigo1": "82090",
-        "BurleteCodigo2": null
+        "BurleteCodigo2": "82090"
       }
     ]
   }

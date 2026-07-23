@@ -1,6 +1,6 @@
 {
-  "Nombre": "KIT 6H",
-  "Descripcion": "Variante personalizada por el usuario",
+  "Nombre": "N3-N5 KIT 6H",
+  "Descripcion": "N3-N5 - KIT 6 HOJAS",
   "PesoMaximoKg": null,
   "PesoMinimoKg": null,
   "Accesorios": [
@@ -33,7 +33,7 @@
       "FamiliaPorMedida": ""
     },
     {
-      "CodigoAccesorio": "83720",
+      "CodigoAccesorio": "81410",
       "Cantidad": 12,
       "Modelo": "",
       "Obligatorio": true,

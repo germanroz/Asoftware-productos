@@ -8,8 +8,11 @@
   "Descripcion": "REBATIR 2 HOJAS CV RECTOS CLIP",
   "EspesorMin": 6,
   "EspesorMax": 30,
-  "Orden": 0,
+  "Orden": 5,
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -26,6 +29,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 48,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -43,6 +47,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 48,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -60,6 +65,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -77,6 +83,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -94,6 +101,7 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -111,6 +119,7 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -128,6 +137,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],
