@@ -9,6 +9,7 @@
   "EspesorMin": 17,
   "EspesorMax": 34,
   "Orden": 0,
+  "VarianteAccesorios": "kit_puerta_rpt.pue",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "Perfiles": [

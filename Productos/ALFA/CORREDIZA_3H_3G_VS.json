@@ -9,6 +9,7 @@
   "EspesorMin": 6,
   "EspesorMax": 10,
   "Orden": 0,
+  "VarianteAccesorios": "kit_corr_3h_cierre_lat_+_r47.cor",
   "FormaCorrediza": 2,
   "Perfiles": [
     {

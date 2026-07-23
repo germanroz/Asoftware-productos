@@ -9,6 +9,7 @@
   "EspesorMin": 4,
   "EspesorMax": 30,
   "Orden": 0,
+  "VarianteAccesorios": "kit_2h_puerta.pue",
   "FormaCorrediza": 0,
   "Perfiles": [
     {
