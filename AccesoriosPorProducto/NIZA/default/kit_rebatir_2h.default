@@ -1,5 +1,5 @@
 {
-  "Nombre": "KIT REBATIR",
+  "Nombre": "KIT REBATIR 2H",
   "Descripcion": "Variante personalizada por el usuario",
   "PesoMaximoKg": null,
   "PesoMinimoKg": null,
@@ -14,6 +14,13 @@
     {
       "CodigoAccesorio": "82365",
       "Cantidad": 4,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "91240",
+      "Cantidad": 1,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""
