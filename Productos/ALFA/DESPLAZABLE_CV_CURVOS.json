@@ -9,8 +9,10 @@
   "EspesorMin": 6,
   "EspesorMax": 30,
   "Orden": 0,
-  "VarianteAccesorios": "kit_tijeras+h91.des",
+  "VarianteAccesorios": "kit_tijeras\u002Bh91.des",
   "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -27,7 +29,8 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": false
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -44,7 +47,8 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": false
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -61,6 +65,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -78,6 +83,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -95,6 +101,7 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -112,6 +119,7 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],

@@ -1,0 +1,29 @@
+{
+  "Nombre": "KIT OB 2H",
+  "Descripcion": "Variante personalizada por el usuario",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "",
+      "Cantidad": 0,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": "O/B JN"
+    },
+    {
+      "CodigoAccesorio": "82365",
+      "Cantidad": 2,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "92120",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    }
+  ]
+}
