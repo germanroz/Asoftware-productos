@@ -30,7 +30,7 @@
       "GalceBase": 48,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -48,7 +48,7 @@
       "GalceBase": 48,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -147,22 +147,6 @@
       "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
       "FormulaCantidad": "((A\u002BH)*2)/1000",
       "Unidad": "ROLLO X 150"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "89085",
-      "DescripcionAccesorio": "BISAGRA H-61(CAJA X 12 UNID)",
-      "FormulaCantidad": "2",
-      "Unidad": "CAJA X 12"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "89045",
-      "DescripcionAccesorio": "TRABA BANDEROLA H-52",
-      "FormulaCantidad": "1",
-      "Unidad": "UNIDAD"
     }
   ],
   "Vidrios": [
