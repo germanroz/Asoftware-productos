@@ -9,7 +9,10 @@
   "EspesorMin": 4,
   "EspesorMax": 23,
   "Orden": 1,
+  "VarianteAccesorios": "kit_ob_jn_1_hoja.osc",
   "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -26,6 +29,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     },
     {
@@ -43,6 +47,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     },
     {
@@ -60,6 +65,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -77,6 +83,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -94,6 +101,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -111,6 +119,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],
