@@ -67,7 +67,7 @@
       "CodigoPerfil": "300",
       "DescripcionPerfil": "PARANTE DE BARANDA BBA",
       "Cantidad": 1,
-      "FormulaCantidad": "(A/1000)\u002B1",
+      "FormulaCantidad": "NT\u002B1",
       "FormulaMedida": "H",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
@@ -85,7 +85,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "95425",
       "DescripcionAccesorio": "KIT PARA BARANDA BBA ALCEMAR SIN ANCLAJE",
-      "FormulaCantidad": "(A/1000)\u002B1",
+      "FormulaCantidad": "NT\u002B1",
       "Unidad": "UNIDAD"
     },
     {
@@ -93,7 +93,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "95410",
       "DescripcionAccesorio": "ANCLAJE BARANDA BBA CHU853",
-      "FormulaCantidad": "(A/1000)\u002B1",
+      "FormulaCantidad": "NT\u002B1",
       "Unidad": "UNIDAD"
     }
   ],
@@ -102,8 +102,8 @@
       "Id": 0,
       "ProductoId": 0,
       "Cantidad": 1,
-      "FormulaCantidad": "A/1000",
-      "FormulaAncho": "((A/A)*1000)-5",
+      "FormulaCantidad": "NT",
+      "FormulaAncho": "EE-5",
       "FormulaAlto": "H-60",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
