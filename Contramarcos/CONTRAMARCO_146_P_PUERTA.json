@@ -1,0 +1,48 @@
+{
+  "Id": 0,
+  "Nombre": "CONTRAMARCO 146 P/PUERTA",
+  "LineaNombre": "ATLANTICA",
+  "Lineas": [
+    "ATLANTICA"
+  ],
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "1460",
+      "DescripcionPerfil": "Contramarco de 37mm simil 862",
+      "Cantidad": 1,
+      "FormulaMedida": "A\u002B74",
+      "AnguloCorte": 45,
+      "Orientacion": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "1460",
+      "DescripcionPerfil": "Contramarco de 37mm simil 862",
+      "Cantidad": 2,
+      "FormulaMedida": "H\u002B37",
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "CodigoAccesorio": "89190",
+      "DescripcionAccesorio": "ESC. P/CONTRAMARCO (E-66 \u0026 5066) (BOLSA X 100U)",
+      "FormulaCantidad": "2",
+      "Unidad": "BOLSAX100"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "91100",
+      "DescripcionAccesorio": "CLIP TAPAJUNTAS ATLANTICA",
+      "FormulaCantidad": "((A*1)\u002B(H*2))/200",
+      "Unidad": "BOLSA X 100"
+    }
+  ]
+}
