@@ -1,0 +1,22 @@
+{
+  "Nombre": "KIT CORREDIZA 2H CIERRE LAT",
+  "Descripcion": "Variante personalizada por el usuario",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "99750",
+      "Cantidad": 4,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "81765",
+      "Cantidad": 2,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    }
+  ]
+}

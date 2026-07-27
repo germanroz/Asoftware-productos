@@ -9,7 +9,7 @@
   "EspesorMin": 4,
   "EspesorMax": 26,
   "Orden": 0,
-  "VarianteAccesorios": "kit_puerta_h62_\u002B_h50_\u002B_h51.pue",
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "EntreEjes": 1000,
@@ -300,7 +300,7 @@
     }
   ],
   "ConfiguracionVidrio": {
-    "Tipo": "SinContravidrio",
+    "Tipo": "ConContravidrio",
     "Reglas": [
       {
         "Id": 0,
@@ -400,17 +400,6 @@
         "ContravidrioAjuste": -8,
         "BurleteCodigo1": "89130",
         "BurleteCodigo2": "82200"
-      },
-      {
-        "Id": 0,
-        "ProductoId": 0,
-        "EspesorMin": 0,
-        "EspesorMax": 10,
-        "ContravidrioCodigo": null,
-        "ContravidrioDescripcion": "",
-        "ContravidrioAjuste": 0,
-        "BurleteCodigo1": null,
-        "BurleteCodigo2": null
       }
     ]
   }
