@@ -1,0 +1,43 @@
+{
+  "Nombre": "KIT CORREDIZA 4H BI PUNTO",
+  "Descripcion": "Variante personalizada por el usuario",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "99750",
+      "Cantidad": 8,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "96120",
+      "Cantidad": 2,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "94480",
+      "Cantidad": 2,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "94405",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "94525",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    }
+  ]
+}
