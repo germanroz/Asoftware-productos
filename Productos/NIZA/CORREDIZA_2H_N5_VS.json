@@ -8,7 +8,7 @@
   "Descripcion": "CORREDIZA 2H N5 VS",
   "EspesorMin": 6,
   "EspesorMax": 10,
-  "Orden": 18,
+  "Orden": 19,
   "VarianteAccesorios": "bi_punto_jn.cor",
   "FormaCorrediza": 1,
   "HojaCentralDoble": false,
@@ -30,7 +30,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
