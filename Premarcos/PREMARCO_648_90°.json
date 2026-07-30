@@ -45,6 +45,13 @@
       "DescripcionAccesorio": "ESCUADRA P/PREM 648 Y 450 CORTE RECTO (E-78) NYLON",
       "FormulaCantidad": "4",
       "Unidad": "CAJA x 50"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "87240",
+      "DescripcionAccesorio": "ESQUINERO PARA PREMARCO NYLON BATT",
+      "FormulaCantidad": "2",
+      "Unidad": "UNIDAD"
     }
   ]
 }

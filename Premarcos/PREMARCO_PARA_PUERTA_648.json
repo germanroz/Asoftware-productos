@@ -2,11 +2,14 @@
   "Id": 0,
   "Nombre": "PREMARCO PARA PUERTA 648",
   "LineaNombre": "TRADICIONAL",
+  "Lineas": [
+    "TRADICIONAL"
+  ],
   "Perfiles": [
     {
       "Id": 0,
       "CodigoPerfil": "6480",
-      "DescripcionPerfil": "",
+      "DescripcionPerfil": "PREMARCO DE 55 MM",
       "Cantidad": 1,
       "Formula": "A\u002B36",
       "AnguloCorte": 45,
@@ -17,7 +20,7 @@
     {
       "Id": 0,
       "CodigoPerfil": "6480",
-      "DescripcionPerfil": "",
+      "DescripcionPerfil": "PREMARCO DE 55 MM",
       "Cantidad": 1,
       "Formula": "H\u002B18",
       "AnguloCorte": 45,
@@ -28,7 +31,7 @@
     {
       "Id": 0,
       "CodigoPerfil": "6480",
-      "DescripcionPerfil": "",
+      "DescripcionPerfil": "PREMARCO DE 55 MM",
       "Cantidad": 1,
       "Formula": "H\u002B18",
       "AnguloCorte": 45,
@@ -37,5 +40,27 @@
       "Orientacion": "V"
     }
   ],
-  "Accesorios": []
+  "Accesorios": [
+    {
+      "Id": 0,
+      "CodigoAccesorio": "87210",
+      "DescripcionAccesorio": "ESCUADRA P/PREMA PERFIL 648 Y 450  (E-78) ALUMINIO",
+      "FormulaCantidad": "2",
+      "Unidad": "CAJA X 40"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "87220",
+      "DescripcionAccesorio": "GRAMPA DE AMURE PRE-MARCO (S-9 O S-09)",
+      "FormulaCantidad": "((A\u002BH)/250)*2",
+      "Unidad": "CAJAX100"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "87240",
+      "DescripcionAccesorio": "ESQUINERO PARA PREMARCO NYLON BATT",
+      "FormulaCantidad": "2",
+      "Unidad": "UNIDAD"
+    }
+  ]
 }

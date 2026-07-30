@@ -46,6 +46,13 @@
       "DescripcionAccesorio": "ESC.PARA PREMARCO 647",
       "FormulaCantidad": "4",
       "Unidad": "CAJA X 100"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "87240",
+      "DescripcionAccesorio": "ESQUINERO PARA PREMARCO NYLON BATT",
+      "FormulaCantidad": "1",
+      "Unidad": "UNIDAD"
     }
   ]
 }

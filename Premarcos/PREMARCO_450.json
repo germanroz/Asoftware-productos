@@ -37,6 +37,20 @@
       "DescripcionAccesorio": "GRAMPA DE AMURE PRE-MARCO (S-9 O S-09)",
       "FormulaCantidad": "((A\u002BH)/250)*2",
       "Unidad": "CAJAX100"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "87210",
+      "DescripcionAccesorio": "ESCUADRA P/PREMA PERFIL 648 Y 450  (E-78) ALUMINIO",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJA X 40"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "87240",
+      "DescripcionAccesorio": "ESQUINERO PARA PREMARCO NYLON BATT",
+      "FormulaCantidad": "4",
+      "Unidad": "UNIDAD"
     }
   ]
 }

@@ -55,6 +55,13 @@
       "DescripcionAccesorio": "GRAMPA DE AMURE PRE-MARCO (S-9 O S-09)",
       "FormulaCantidad": "(A\u002B(H*2)/250",
       "Unidad": "CAJAX100"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "87240",
+      "DescripcionAccesorio": "ESQUINERO PARA PREMARCO NYLON BATT",
+      "FormulaCantidad": "2",
+      "Unidad": "UNIDAD"
     }
   ]
 }
