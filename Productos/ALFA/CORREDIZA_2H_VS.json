@@ -8,9 +8,11 @@
   "Descripcion": "CORREDIZA 2H VS",
   "EspesorMin": 6,
   "EspesorMax": 10,
-  "Orden": 0,
-  "VarianteAccesorios": "kit_2h_cierre_lat_+_r47_+_felpa.cor",
+  "Orden": 1,
+  "VarianteAccesorios": "kit_2h_cierre_lat_\u002B_r47_\u002B_felpa.cor",
   "FormaCorrediza": 2,
+  "HojaCentralDoble": false,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -27,6 +29,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -44,6 +47,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     },
     {
@@ -61,6 +65,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -78,6 +83,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -95,6 +101,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -112,6 +119,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],

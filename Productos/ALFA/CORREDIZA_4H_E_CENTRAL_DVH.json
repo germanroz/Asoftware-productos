@@ -8,7 +8,7 @@
   "Descripcion": "CORREDIZA 4H E/CENTRAL DVH",
   "EspesorMin": 21,
   "EspesorMax": 26,
-  "Orden": 0,
+  "Orden": 7,
   "VarianteAccesorios": "delta_-_corrediza_4h.cor",
   "FormaCorrediza": 2,
   "HojaCentralDoble": false,
