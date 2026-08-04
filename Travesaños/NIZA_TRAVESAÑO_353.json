@@ -1,6 +1,6 @@
 {
   "Id": 0,
-  "Nombre": "PARANTE 353",
+  "Nombre": "TRAVESA\u00D1O 353",
   "LineaNombre": "NIZA",
   "TipoProducto": "PA\u00D1O FIJO",
   "Posicion": 0,
@@ -13,9 +13,9 @@
       "CodigoPerfil": "3530",
       "DescripcionPerfil": "",
       "Cantidad": 1,
-      "FormulaMedida": "Alto-58",
+      "FormulaMedida": "A-58",
       "AnguloCorte": 90,
-      "Orientacion": "V",
+      "Orientacion": "H",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90
     }
