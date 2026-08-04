@@ -2,7 +2,8 @@ name: Publicar manifest del catalogo
 
 # Regenera manifest.json y lo publica como asset del release "catalogo" en
 # cada push a master. La app lo lee al arrancar por
-# releases/latest/download/manifest.json para avisar si hay productos nuevos.
+# releases/latest/download/manifest.json para avisar si hay productos nuevos
+# o una lista de precios de accesorios nueva.
 #
 # Sin esto habria que acordarse de correr el script a mano cada vez que se
 # suben productos; si el manifest queda viejo, los clientes no se enteran.
@@ -21,6 +22,9 @@ on:
       - "Premarcos/**"
       - "Tableros/**"
       - "AccesoriosPorProducto/**"
+      # Sin esta linea, subir una lista de precios nueva no regenera el
+      # manifest y el aviso del cliente nunca se entera de que cambio.
+      - "Precios/**"
       - ".github/scripts/generar_manifest.py"
       - ".github/workflows/publicar-manifest.yml"
   # Permite regenerarlo a mano desde la pestaña Actions sin tocar el catalogo.
