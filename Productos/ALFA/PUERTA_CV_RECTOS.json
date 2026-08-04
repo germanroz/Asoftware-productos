@@ -8,7 +8,7 @@
   "Descripcion": "PUERTA CV RECTOS",
   "EspesorMin": 6,
   "EspesorMax": 31,
-  "Orden": 0,
+  "Orden": 1,
   "VarianteAccesorios": "kit_puerta_h62_\u002B_h50_\u002B_h51.pue",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
