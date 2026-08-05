@@ -1,0 +1,26 @@
+{
+  "Id": 0,
+  "Nombre": "TRAVESA\u00D1O PUERTA 353",
+  "LineaNombre": "ALFA",
+  "TipoProducto": "PUERTA",
+  "Posicion": 0,
+  "Espesor": 34,
+  "ContravidrioLadoDivisor": "espesor/2 - 18.5",
+  "DescuentoInferior": "(cv + 37)/2",
+  "DescuentoInferiorVidrio": "146.5",
+  "PerfilCodigo": "353",
+  "PerfilDescripcion": "",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "353",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "A-200",
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": []
+}
