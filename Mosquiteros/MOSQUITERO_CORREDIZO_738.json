@@ -1,7 +1,7 @@
 {
   "Id": 0,
   "Nombre": "MOSQUITERO CORREDIZO 738",
-  "LineaNombre": "NIZA RPT",
+  "LineaNombre": "",
   "Perfiles": [
     {
       "Id": 0,
@@ -56,6 +56,18 @@
       "Productos": [
         "CORREDIZA 3H N3 RPT"
       ]
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "7390",
+      "DescripcionPerfil": "Tapa Hoja Mosquitero Reforzada (738)",
+      "Cantidad": 1,
+      "Formula": "H-88",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "V",
+      "Productos": []
     }
   ],
   "Accesorios": [
@@ -86,6 +98,13 @@
       "DescripcionAccesorio": "FELPA 7*6 CON FIN SEAL JN NEGRA ROLLO 400MTS",
       "FormulaCantidad": "((A*4)\u002B(H*2))/1000",
       "Unidad": "ROLLO X 400"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "94125",
+      "DescripcionAccesorio": "TOPE GUIA PTE CENTRAL MT-ME-ME RPT (CAJA X 50 U)",
+      "FormulaCantidad": "2",
+      "Unidad": "CAJA X 50"
     }
   ],
   "Telas": [
