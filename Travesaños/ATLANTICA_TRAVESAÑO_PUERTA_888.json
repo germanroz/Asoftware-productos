@@ -1,0 +1,26 @@
+{
+  "Id": 0,
+  "Nombre": "TRAVESA\u00D1O PUERTA 888",
+  "LineaNombre": "ATLANTICA",
+  "TipoProducto": "PUERTA",
+  "Posicion": 0,
+  "Espesor": 48,
+  "ContravidrioLadoDivisor": "espesor/2 - 2",
+  "DescuentoInferior": "(cv + 4)/2",
+  "DescuentoInferiorVidrio": "108.5",
+  "PerfilCodigo": "888",
+  "PerfilDescripcion": "",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "888",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "A-194",
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": []
+}
