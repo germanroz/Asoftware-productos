@@ -8,7 +8,7 @@
   "Descripcion": "REBATIR N3 CV RECTOS",
   "EspesorMin": 6,
   "EspesorMax": 30,
-  "Orden": 0,
+  "Orden": 1,
   "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
@@ -129,7 +129,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "80470",
       "DescripcionAccesorio": "ESCUADRA A30/ALFA E-83 MONTICELLI",
-      "FormulaCantidad": "4",
+      "FormulaCantidad": "8",
       "Unidad": "UNIDAD"
     },
     {

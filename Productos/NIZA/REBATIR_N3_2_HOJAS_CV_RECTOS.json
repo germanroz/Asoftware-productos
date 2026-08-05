@@ -8,7 +8,7 @@
   "Descripcion": "REBATIR N3 2 HOJAS CV RECTOS",
   "EspesorMin": 6,
   "EspesorMax": 30,
-  "Orden": 0,
+  "Orden": 4,
   "VarianteAccesorios": "kit_rebatir_2h.default",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
