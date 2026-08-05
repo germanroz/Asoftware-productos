@@ -9,7 +9,7 @@
   "EspesorMin": 20,
   "EspesorMax": 26,
   "Orden": 11,
-  "VarianteAccesorios": "kit_n3.cor",
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "EntreEjes": 1000,
@@ -211,6 +211,14 @@
       "DescripcionAccesorio": "PERF AISL ENCUENTRO \u0022J\u0022  M-III (BARRA DE 6 MTS)",
       "FormulaCantidad": "(H*2)/1000",
       "Unidad": "BARRA X 6 MT"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83160",
+      "DescripcionAccesorio": "FELPA 7*6 CON FIN SEAL JN NEGRA ROLLO 400MTS",
+      "FormulaCantidad": "((A*4)\u002B(H*6))/1000",
+      "Unidad": "ROLLO X 400"
     }
   ],
   "Vidrios": [
