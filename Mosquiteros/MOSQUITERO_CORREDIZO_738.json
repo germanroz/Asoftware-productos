@@ -13,7 +13,9 @@
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "Orientacion": "H",
-      "Productos": []
+      "Productos": [
+        "CORREDIZA 4H E/ CENTRAL N3 RPT"
+      ]
     },
     {
       "Id": 0,
@@ -25,6 +27,32 @@
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "Orientacion": "V",
+      "Productos": []
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "7380",
+      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA M-V Y M-VII",
+      "Cantidad": 2,
+      "Formula": "AH-5",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H",
+      "Productos": [
+        "CORREDIZA 2H N3 RPT"
+      ]
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "7380",
+      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA M-V Y M-VII",
+      "Cantidad": 2,
+      "Formula": "AH\u002B19",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H",
       "Productos": []
     }
   ],
