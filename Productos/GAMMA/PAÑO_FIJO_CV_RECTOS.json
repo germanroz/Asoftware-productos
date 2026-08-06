@@ -1,0 +1,227 @@
+{
+  "Id": 0,
+  "Nombre": "PA\u00D1O FIJO CV RECTOS",
+  "LineaId": 1795,
+  "LineaNombre": "GAMMA",
+  "TipoAberturaId": 1,
+  "TipoAberturaNombre": "PA\u00D1O FIJO",
+  "Descripcion": "PA\u00D1O FIJO CV RECTOS",
+  "EspesorMin": 4,
+  "EspesorMax": 28,
+  "Orden": 1,
+  "VarianteAccesorios": "",
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "EntreEjes": 1000,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "1740",
+      "DescripcionPerfil": "MARCO PA\u00D1O FIJO",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "1740",
+      "DescripcionPerfil": "MARCO PA\u00D1O FIJO",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8770",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 22MM",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-60",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8770",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 22MM",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-101",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89070",
+      "DescripcionAccesorio": "ESCUADRA A-700 (TA-E06) MONTICELLI",
+      "FormulaCantidad": "4",
+      "Unidad": "UNIDAD"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A-76",
+      "FormulaAlto": "H-76",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "ConContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 4,
+        "EspesorMax": 5,
+        "ContravidrioCodigo": "8770",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 22MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82200"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 6,
+        "EspesorMax": 7,
+        "ContravidrioCodigo": "8770",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 22MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 8,
+        "EspesorMax": 9,
+        "ContravidrioCodigo": "8770",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 22MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 10,
+        "EspesorMax": 11,
+        "ContravidrioCodigo": "8780",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 15.2 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82200"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 17,
+        "EspesorMax": 18,
+        "ContravidrioCodigo": "8780",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 15.2 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82200"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 19,
+        "EspesorMax": 20,
+        "ContravidrioCodigo": "8850",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 9 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 21,
+        "EspesorMax": 22,
+        "ContravidrioCodigo": "8850",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 9 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 23,
+        "EspesorMax": 24,
+        "ContravidrioCodigo": "8870",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 6 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82200"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 25,
+        "EspesorMax": 26,
+        "ContravidrioCodigo": "8870",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 6 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 27,
+        "EspesorMax": 28,
+        "ContravidrioCodigo": "8870",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 6 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      }
+    ]
+  }
+}
