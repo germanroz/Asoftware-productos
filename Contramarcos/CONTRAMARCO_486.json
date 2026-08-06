@@ -1,0 +1,33 @@
+{
+  "Id": 0,
+  "Nombre": "CONTRAMARCO 486",
+  "LineaNombre": "GAMMA",
+  "Lineas": [
+    "GAMMA"
+  ],
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "4860",
+      "DescripcionPerfil": "CONTRAMARCO DE 25 MM",
+      "Cantidad": 2,
+      "FormulaMedida": "A\u002B50",
+      "AnguloCorte": 45,
+      "Orientacion": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "4860",
+      "DescripcionPerfil": "CONTRAMARCO DE 25 MM",
+      "Cantidad": 2,
+      "FormulaMedida": "H\u002B50",
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45
+    }
+  ],
+  "Accesorios": []
+}
