@@ -1,0 +1,25 @@
+{
+  "Id": 0,
+  "Nombre": "PARANTE 179",
+  "LineaNombre": "GAMMA",
+  "TipoProducto": "PA\u00D1O FIJO",
+  "Posicion": 0,
+  "Espesor": 24,
+  "ContravidrioLadoDivisor": "",
+  "HojaLadoDivisor": "6",
+  "PerfilCodigo": "1790",
+  "PerfilDescripcion": "",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "1790",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "Alto-60",
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": []
+}
