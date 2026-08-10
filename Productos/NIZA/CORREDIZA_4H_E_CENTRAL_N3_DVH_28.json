@@ -1,25 +1,25 @@
 {
   "Id": 0,
-  "Nombre": "CORREDIZA 3H E/2G N3 DVH 28 ZOCALO ALTO",
+  "Nombre": "CORREDIZA 4H E/CENTRAL N3 DVH 28",
   "LineaId": 4,
   "LineaNombre": "NIZA",
   "TipoAberturaId": 3,
   "TipoAberturaNombre": "CORREDIZA",
-  "Descripcion": "CORREDIZA 3H E/2G N3 DVH 28 ZOCALO ALTO",
+  "Descripcion": "CORREDIZA 4H E/CENTRAL N3 DVH 28",
   "EspesorMin": 21,
   "EspesorMax": 26,
-  "Orden": 11,
-  "VarianteAccesorios": "",
+  "Orden": 19,
+  "VarianteAccesorios": "n3_kit_4h.cor",
   "FormaCorrediza": 2,
-  "HojaCentralDoble": true,
+  "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8650",
-      "DescripcionPerfil": "JAMBA MARCO CORREDIZA 2 GU\u00CDAS",
+      "CodigoPerfil": "8640",
+      "DescripcionPerfil": "UMBRAL / DINTEL MARCO CORREDIZA 2 GU\u00CDAS",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H",
@@ -36,8 +36,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8640",
-      "DescripcionPerfil": "UMBRAL / DINTEL MARCO CORREDIZA 2 GU\u00CDAS",
+      "CodigoPerfil": "8650",
+      "DescripcionPerfil": "JAMBA MARCO CORREDIZA 2 GU\u00CDAS",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A-50",
@@ -74,7 +74,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "7160",
       "DescripcionPerfil": "Parante lat hoja 90\u00B0 DVH 28 mm",
-      "Cantidad": 2,
+      "Cantidad": 4,
       "FormulaCantidad": "",
       "FormulaMedida": "H-78",
       "AnguloCorte1": 90,
@@ -110,9 +110,9 @@
       "ProductoId": 0,
       "CodigoPerfil": "7240",
       "DescripcionPerfil": "Z\u00F3calo /cabezal hoja 90\u00B0 DVH 28 mm",
-      "Cantidad": 3,
+      "Cantidad": 8,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/3-9",
+      "FormulaMedida": "A/4-16",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -126,15 +126,15 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "7280",
-      "DescripcionPerfil": "Z\u00F3calo alto hoja 90\u00B0 DVH 28 mm",
-      "Cantidad": 3,
+      "CodigoPerfil": "4460",
+      "DescripcionPerfil": "Encuentro central cuatro hojas",
+      "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/3-9",
+      "FormulaMedida": "h-78",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
-      "Orientacion": "H",
+      "Orientacion": "V",
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
@@ -148,7 +148,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "83680",
       "DescripcionAccesorio": "TORNILLO 10 X 38 (T-001) (CAJA X 1000 U.)",
-      "FormulaCantidad": "16",
+      "FormulaCantidad": "24",
       "Unidad": "CAJA X 1000"
     },
     {
@@ -156,7 +156,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "97360",
       "DescripcionAccesorio": "T-156 TAPON PTE CENTRAL NIZA /50",
-      "FormulaCantidad": "4",
+      "FormulaCantidad": "8",
       "Unidad": "BOLSA X 50"
     },
     {
@@ -164,7 +164,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "97370",
       "DescripcionAccesorio": "T-157 TAPON PTE LATERAL 90 NIZA /50",
-      "FormulaCantidad": "4",
+      "FormulaCantidad": "8",
       "Unidad": "BOLSA X 50"
     },
     {
@@ -172,7 +172,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "97280",
       "DescripcionAccesorio": "T-158 MARCO 2 GUIS A 90 NIZA /8",
-      "FormulaCantidad": "1",
+      "FormulaCantidad": "4",
       "Unidad": "JUEGO X 8"
     },
     {
@@ -180,7 +180,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89465",
       "DescripcionAccesorio": "BOCA DE DESAGUE T-94/T-130 (CAJA X 100U)",
-      "FormulaCantidad": "3",
+      "FormulaCantidad": "4",
       "Unidad": "CAJA X 100"
     },
     {
@@ -204,7 +204,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "83160",
       "DescripcionAccesorio": "FELPA 7*6 CON FIN SEAL JN NEGRA ROLLO 400MTS",
-      "FormulaCantidad": "((A*4)\u002B(H*6))/1000",
+      "FormulaCantidad": "((A*4)\u002B(H*12))/1000",
       "Unidad": "ROLLO X 400"
     }
   ],
@@ -214,8 +214,8 @@
       "ProductoId": 0,
       "Cantidad": 3,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/3-83",
-      "FormulaAlto": "H-227",
+      "FormulaAncho": "A/4-67",
+      "FormulaAlto": "H-182",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

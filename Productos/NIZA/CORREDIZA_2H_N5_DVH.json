@@ -8,10 +8,11 @@
   "Descripcion": "Copia de CORREDIZA 2H N5 VS",
   "EspesorMin": 20,
   "EspesorMax": 26,
-  "Orden": 20,
+  "Orden": 21,
   "VarianteAccesorios": "n5_-_bi_punto_jn.cor",
   "FormaCorrediza": 1,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
