@@ -9,9 +9,10 @@
   "EspesorMin": 6,
   "EspesorMax": 30,
   "Orden": 1,
-  "VarianteAccesorios": "",
+  "VarianteAccesorios": "herraje_oscilo_jn.osc",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
