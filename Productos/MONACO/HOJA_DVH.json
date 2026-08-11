@@ -1,0 +1,157 @@
+{
+  "Id": 0,
+  "Nombre": "HOJA DVH",
+  "LineaId": 916,
+  "LineaNombre": "MONACO",
+  "TipoAberturaId": 13,
+  "TipoAberturaNombre": "HOJA",
+  "Descripcion": "HOJA VS (se inserta en un paño de un paño fijo; el marco lo aporta el contenedor)",
+  "EspesorMin": 17,
+  "EspesorMax": 22,
+  "Orden": 0,
+  "VarianteAccesorios": "",
+  "SolapeMarco": 26,
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "EntreEjes": 1000,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8260",
+      "DescripcionPerfil": "",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "8260",
+      "DescripcionPerfil": "",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2000",
+      "DescripcionPerfil": "GOTERÓN",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-75",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89070",
+      "DescripcionAccesorio": "",
+      "FormulaCantidad": "4",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "84150",
+      "DescripcionAccesorio": "ESCUADRA E-62",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSA X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "94060",
+      "DescripcionAccesorio": "",
+      "FormulaCantidad": "((A*2)+(H*2))/1000",
+      "Unidad": "ROLLO X 150"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "97040",
+      "DescripcionAccesorio": "BURLETE CONTACO EXTERIOR (12429)",
+      "FormulaCantidad": "((A*2)+(H*2))/1000",
+      "Unidad": "ROLLO X 100"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A-107",
+      "FormulaAlto": "H-107",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 17,
+        "EspesorMax": 18,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82200",
+        "BurleteCodigo2": "82200"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 19,
+        "EspesorMax": 20,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82110",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 21,
+        "EspesorMax": 22,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82100",
+        "BurleteCodigo2": "82100"
+      }
+    ]
+  }
+}
