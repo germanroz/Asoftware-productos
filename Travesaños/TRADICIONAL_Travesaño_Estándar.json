@@ -4,8 +4,9 @@
   "LineaNombre": "TRADICIONAL",
   "TipoProducto": "PAÑO FIJO",
   "Posicion": 0,
-  "Espesor": 20,
-  "ContravidrioLadoDivisor": "33",
+  "Espesor": 25,
+  "ContravidrioLadoDivisor": "",
+  "VidrioLadoDivisor": "espesor/2+5",
   "PerfilCodigo": "9940",
   "PerfilDescripcion": "Perfil Travesaño 6mm",
   "Perfiles": [
@@ -13,7 +14,7 @@
       "CodigoPerfil": "9940",
       "DescripcionPerfil": "Perfil Travesaño 6mm",
       "Cantidad": 1,
-      "FormulaMedida": "A-39",
+      "FormulaMedida": "A-50",
       "AnguloCorte": 90,
       "Orientacion": "H"
     }

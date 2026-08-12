@@ -1,0 +1,24 @@
+{
+  "Id": 0,
+  "Nombre": "PARANTE 629",
+  "LineaNombre": "DELTA",
+  "TipoProducto": "PA\u00D1O FIJO",
+  "Posicion": 0,
+  "Espesor": 24,
+  "ContravidrioLadoDivisor": "",
+  "PerfilCodigo": "6290",
+  "PerfilDescripcion": "",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "6290",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "Alto-52",
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": []
+}

@@ -1,0 +1,27 @@
+{
+  "Id": 0,
+  "Nombre": "TRAVESA\u00D1O VS 184",
+  "LineaNombre": "GAMMA",
+  "TipoProducto": "PUERTA",
+  "Posicion": 0,
+  "Espesor": 70,
+  "ContravidrioLadoDivisor": "",
+  "VidrioLadoDivisor": "espesor/2-13",
+  "DescuentoInferior": "(cv + -19)/2",
+  "DescuentoInferiorVidrio": "77",
+  "PerfilCodigo": "1840",
+  "PerfilDescripcion": "",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "1840",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "A-217",
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": []
+}

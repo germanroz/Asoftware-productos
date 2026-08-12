@@ -1,0 +1,24 @@
+{
+  "Id": 0,
+  "Nombre": "TRAVESA\u00D1O 835",
+  "LineaNombre": "MEDITERRANEA",
+  "TipoProducto": "PA\u00D1O FIJO",
+  "Posicion": 0,
+  "Espesor": 24,
+  "ContravidrioLadoDivisor": "",
+  "PerfilCodigo": "8350",
+  "PerfilDescripcion": "",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "8350",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "A-78",
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": []
+}
