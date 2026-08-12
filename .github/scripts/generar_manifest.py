@@ -10,11 +10,15 @@ generar-manifest-productos.ps1 en el repo de la app.
 
 Del catalogo solo lista rutas, sin hashes: la app cuenta unicamente archivos
 FALTANTES (no modificados), asi que del otro lado alcanza con File.Exists.
+
+Aparte va la lista de BAJAS (bajas.txt), que si lleva huellas: ahi el cliente
+borra, y borrar exige saber que lo que tiene es exactamente lo que publicamos.
 """
 
 import hashlib
 import json
 import os
+import subprocess
 import sys
 import urllib.request
 from datetime import date, timezone, datetime
@@ -38,6 +42,15 @@ LINEAS_PRIVADAS = ["ALUPAL"]
 # Lista oficial de precios de accesorios. Nombre y ruta FIJOS: la app baja
 # exactamente este path del zip del repo, y cada lista nueva pisa la anterior.
 PRECIOS = "Precios/accesorios.txt"
+
+# Archivos dados de baja: la app los borra de la maquina del cliente.
+BAJAS = "bajas.txt"
+
+# SHA1 del contenido vacio. `git show <commit>:<ruta>` no falla siempre de la
+# misma forma cuando la ruta no existe en ese commit, y un stdout vacio hashea
+# a esto. Publicarlo seria decirle al cliente que borre cualquier archivo
+# vacio que tenga en esa ruta.
+SHA1_VACIO = hashlib.sha1(b"").hexdigest()
 
 MANIFEST_PUBLICADO = ("https://github.com/germanroz/Asoftware-productos"
                       "/releases/latest/download/manifest.json")
@@ -80,6 +93,75 @@ def datos_precios():
     return huella, fecha
 
 
+def huellas_publicadas(ruta):
+    """SHA1 del contenido de TODAS las versiones que esa ruta tuvo en master.
+
+    Son las unicas huellas con las que la app se anima a borrar. Si el archivo
+    que tiene el cliente no coincide con ninguna, es suyo (lo modifico, o creo
+    uno propio con el mismo nombre) y no se toca.
+
+    Se recorre el historial y no la ultima version porque el archivo ya no
+    existe: quien lo tenga puede haberlo bajado en cualquier momento, incluso
+    de una version anterior a la ultima que publicamos.
+    """
+    log = subprocess.run(["git", "log", "--all", "--format=%H", "--", ruta],
+                         capture_output=True, text=True)
+    if log.returncode != 0:
+        print(f"ATENCION: no se pudo leer el historial de {ruta}: {log.stderr.strip()}")
+        return []
+
+    huellas = []
+    for commit in log.stdout.split():
+        blob = subprocess.run(["git", "show", f"{commit}:{ruta}"],
+                              capture_output=True)
+        # El commit que la dio de baja tambien toca la ruta y ahi ya no existe.
+        if blob.returncode != 0:
+            continue
+        huella = hashlib.sha1(blob.stdout).hexdigest()
+        if huella == SHA1_VACIO:
+            continue
+        if huella not in huellas:
+            huellas.append(huella)
+    return huellas
+
+
+def datos_bajas(archivos):
+    """Lee bajas.txt y le pone a cada ruta sus huellas publicadas.
+
+    Se saltea (ruidosamente) toda ruta que TODAVIA este en el repo: publicarla
+    y darla de baja a la vez deja al cliente bajandola y borrandola en cada
+    arranque.
+    """
+    if not os.path.isfile(BAJAS):
+        return []
+
+    presentes = set(archivos)
+    bajas = []
+    with open(BAJAS, encoding="utf-8") as f:
+        for linea in f:
+            ruta = linea.strip()
+            if not ruta or ruta.startswith("#"):
+                continue
+            if ruta in presentes:
+                print(f"ATENCION: {ruta} esta en bajas.txt pero sigue en el repo. "
+                      f"No se da de baja: borrala del repo primero.")
+                continue
+
+            huellas = huellas_publicadas(ruta)
+            if not huellas:
+                # Sin huellas la app no borraria nada igual, pero publicar la
+                # baja vacia esconde el problema (checkout sin historial, ruta
+                # mal escrita) detras de un manifest que parece correcto.
+                print(f"ATENCION: {ruta} no tiene ninguna version en el historial. "
+                      f"Se omite (revisar la ruta, o el fetch-depth del checkout).")
+                continue
+
+            bajas.append({"ruta": ruta, "huellas": huellas})
+            print(f"Baja: {ruta} ({len(huellas)} version/es publicada/s)")
+
+    return bajas
+
+
 def main():
     archivos = []
     privados = 0
@@ -106,18 +188,21 @@ def main():
                  if a.startswith("Productos/") and a.lower().endswith(".json")]
 
     huella_precios, fecha_precios = datos_precios()
+    bajas = datos_bajas(archivos)
 
     manifest = {
         "generado": date.today().isoformat(),
         "preciosAccesorios": huella_precios,
         "preciosAccesoriosFecha": fecha_precios,
         "archivos": archivos,
+        "bajas": bajas,
     }
     with open("manifest.json", "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
 
     print(f"Archivos de catalogo: {len(archivos)}")
     print(f"Productos contables (.json de Productos/): {len(contables)}")
+    print(f"Bajas publicadas: {len(bajas)}")
     if privados:
         print(f"ATENCION: se saltearon {privados} archivos de lineas privadas "
               f"presentes en el repo publico.")

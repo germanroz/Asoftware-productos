@@ -25,6 +25,10 @@ on:
       # Sin esta linea, subir una lista de precios nueva no regenera el
       # manifest y el aviso del cliente nunca se entera de que cambio.
       - "Precios/**"
+      # Dar de baja un archivo es media operacion: el git rm dispara el
+      # workflow por su carpeta, pero agregar la ruta aca tambien tiene que
+      # dispararlo, o la baja no se publica hasta el proximo push.
+      - "bajas.txt"
       - ".github/scripts/generar_manifest.py"
       - ".github/workflows/publicar-manifest.yml"
   # Permite regenerarlo a mano desde la pestaña Actions sin tocar el catalogo.
@@ -42,7 +46,13 @@ jobs:
   publicar:
     runs-on: ubuntu-latest
     steps:
+      # fetch-depth: 0 = historial completo. Las huellas de un archivo dado de
+      # baja salen de sus versiones VIEJAS (el archivo ya no esta en master);
+      # con el checkout shallow de siempre no habria ninguna y las bajas se
+      # publicarian vacias.
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generar manifest.json
         run: python3 .github/scripts/generar_manifest.py

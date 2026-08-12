@@ -1,0 +1,25 @@
+# Archivos del catalogo DADOS DE BAJA.
+#
+# Sirve para deshacer errores nuestros de publicacion: un producto duplicado
+# con otro nombre, un archivo que se subio de mas. Borrar el archivo del repo
+# corta la distribucion, pero el que ya se lo bajo lo conserva para siempre:
+# el catalogo del cliente es el listado de su carpeta %APPDATA%\Asoftware.
+#
+# Lo que se liste aca la app lo BORRA de la maquina del cliente al arrancar,
+# en silencio, SOLO SI el contenido coincide con alguna version que nosotros
+# publicamos (el generador saca las huellas del historial de git). Si el
+# cliente lo modifico, o tiene uno propio con el mismo nombre, no se toca.
+#
+# Como se usa:
+#   1. Borrar el archivo del repo (git rm) y pushear.
+#   2. Agregar aca su ruta, tal cual estaba en el repo.
+#
+# Los dos pasos, no uno: sin el borrado se publica y se borra en un loop
+# (el generador saltea con ATENCION una ruta que siga existiendo); sin esta
+# lista el archivo le queda al cliente.
+#
+# Una ruta por linea. Las lineas vacias y las que empiezan con # se ignoran.
+# NO se saca nunca una ruta de esta lista: mientras este, limpia a los
+# clientes que recien actualizan.
+
+Productos/MEDITERRANEA RPT/PAÑO_FIJO_M3_RPT.json
