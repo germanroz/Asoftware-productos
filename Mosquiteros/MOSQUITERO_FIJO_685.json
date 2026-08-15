@@ -1,6 +1,6 @@
 {
   "Id": 0,
-  "Nombre": "MOSQUITERO 685",
+  "Nombre": "MOSQUITERO FIJO 685",
   "LineaNombre": "ALFA",
   "Perfiles": [
     {
@@ -12,7 +12,8 @@
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
-      "Orientacion": "H"
+      "Orientacion": "H",
+      "Productos": []
     },
     {
       "Id": 0,
@@ -23,7 +24,8 @@
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
-      "Orientacion": "V"
+      "Orientacion": "V",
+      "Productos": []
     }
   ],
   "Accesorios": [
