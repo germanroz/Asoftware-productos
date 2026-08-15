@@ -23,3 +23,4 @@
 # clientes que recien actualizan.
 
 Productos/MEDITERRANEA RPT/PAÑO_FIJO_M3_RPT.json
+Mosquiteros/MOSQUITERO_105.json

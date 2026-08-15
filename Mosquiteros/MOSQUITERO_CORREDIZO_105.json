@@ -8,22 +8,24 @@
       "CodigoPerfil": "1050",
       "DescripcionPerfil": "HOJA MOSQUITERO TRADICIONAL",
       "Cantidad": 2,
-      "Formula": "A/2-50",
+      "Formula": "A/2-15",
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
-      "Orientacion": "H"
+      "Orientacion": "H",
+      "Productos": []
     },
     {
       "Id": 0,
       "CodigoPerfil": "1050",
       "DescripcionPerfil": "HOJA MOSQUITERO TRADICIONAL",
       "Cantidad": 2,
-      "Formula": "H-60",
+      "Formula": "H-74",
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
-      "Orientacion": "H"
+      "Orientacion": "H",
+      "Productos": []
     }
   ],
   "Accesorios": [
