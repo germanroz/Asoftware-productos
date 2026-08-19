@@ -1,6 +1,6 @@
 {
   "Id": 0,
-  "Nombre": "MOSQUITERO CORREDIZO 738",
+  "Nombre": "MOSQUITERO CORREDIZO 738 GUIA 574",
   "LineaNombre": "MEDITERRANEA RPT",
   "Perfiles": [
     {
@@ -46,6 +46,40 @@
       "AnguloCorte": 45,
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
+      "Orientacion": "V",
+      "Productos": [
+        "CORREDIZA 2H M7 RPT",
+        "CORREDIZA 3H E/2 GUIAS M7 RPT",
+        "CORREDIZA 3H M7 RPT",
+        "CORREDIZA 4H 4G M7 RPT"
+      ]
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "5740",
+      "DescripcionPerfil": "GUIA DE MOSQUITERO PARA 6520",
+      "Cantidad": 2,
+      "Formula": "A-46",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H",
+      "Productos": [
+        "CORREDIZA 2H M7 RPT",
+        "CORREDIZA 3H E/2 GUIAS M7 RPT",
+        "CORREDIZA 3H M7 RPT",
+        "CORREDIZA 4H 4G M7 RPT"
+      ]
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "5740",
+      "DescripcionPerfil": "GUIA DE MOSQUITERO PARA 6520",
+      "Cantidad": 2,
+      "Formula": "H-46",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
       "Orientacion": "V",
       "Productos": [
         "CORREDIZA 2H M7 RPT",
