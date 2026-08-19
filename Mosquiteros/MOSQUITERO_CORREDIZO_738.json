@@ -1,20 +1,23 @@
 {
   "Id": 0,
   "Nombre": "MOSQUITERO CORREDIZO 738",
-  "LineaNombre": "NIZA RPT",
+  "LineaNombre": "MEDITERRANEA RPT",
   "Perfiles": [
     {
       "Id": 0,
       "CodigoPerfil": "7380",
       "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA M-V Y M-VII",
       "Cantidad": 2,
-      "Formula": "AH\u002B14",
+      "Formula": "AH-6",
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "Orientacion": "H",
       "Productos": [
-        "CORREDIZA 4H E/ CENTRAL N3 RPT"
+        "CORREDIZA 2H M7 RPT",
+        "CORREDIZA 3H E/2 GUIAS M7 RPT",
+        "CORREDIZA 3H M7 RPT",
+        "CORREDIZA 4H 4G M7 RPT"
       ]
     },
     {
@@ -22,39 +25,16 @@
       "CodigoPerfil": "7380",
       "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA M-V Y M-VII",
       "Cantidad": 2,
-      "Formula": "H-88",
+      "Formula": "H-115",
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "Orientacion": "V",
-      "Productos": []
-    },
-    {
-      "Id": 0,
-      "CodigoPerfil": "7380",
-      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA M-V Y M-VII",
-      "Cantidad": 2,
-      "Formula": "AH-5",
-      "AnguloCorte": 45,
-      "AnguloCorte1": 45,
-      "AnguloCorte2": 45,
-      "Orientacion": "H",
       "Productos": [
-        "CORREDIZA 2H N3 RPT"
-      ]
-    },
-    {
-      "Id": 0,
-      "CodigoPerfil": "7380",
-      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA M-V Y M-VII",
-      "Cantidad": 2,
-      "Formula": "AH\u002B19",
-      "AnguloCorte": 45,
-      "AnguloCorte1": 45,
-      "AnguloCorte2": 45,
-      "Orientacion": "H",
-      "Productos": [
-        "CORREDIZA 3H N3 RPT"
+        "CORREDIZA 2H M7 RPT",
+        "CORREDIZA 3H E/2 GUIAS M7 RPT",
+        "CORREDIZA 3H M7 RPT",
+        "CORREDIZA 4H 4G M7 RPT"
       ]
     },
     {
@@ -62,12 +42,51 @@
       "CodigoPerfil": "7390",
       "DescripcionPerfil": "Tapa Hoja Mosquitero Reforzada (738)",
       "Cantidad": 1,
-      "Formula": "H-88",
+      "Formula": "H-115",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "Orientacion": "V",
+      "Productos": [
+        "CORREDIZA 2H M7 RPT",
+        "CORREDIZA 3H E/2 GUIAS M7 RPT",
+        "CORREDIZA 3H M7 RPT",
+        "CORREDIZA 4H 4G M7 RPT"
+      ]
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "5740",
+      "DescripcionPerfil": "GUIA DE MOSQUITERO PARA 6520",
+      "Cantidad": 2,
+      "Formula": "A-46",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H",
+      "Productos": [
+        "CORREDIZA 2H M7 RPT",
+        "CORREDIZA 3H E/2 GUIAS M7 RPT",
+        "CORREDIZA 3H M7 RPT",
+        "CORREDIZA 4H 4G M7 RPT"
+      ]
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "5740",
+      "DescripcionPerfil": "GUIA DE MOSQUITERO PARA 6520",
+      "Cantidad": 2,
+      "Formula": "H-46",
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "Orientacion": "V",
-      "Productos": []
+      "Productos": [
+        "CORREDIZA 2H M7 RPT",
+        "CORREDIZA 3H E/2 GUIAS M7 RPT",
+        "CORREDIZA 3H M7 RPT",
+        "CORREDIZA 4H 4G M7 RPT"
+      ]
     }
   ],
   "Accesorios": [
@@ -80,31 +99,10 @@
     },
     {
       "Id": 0,
-      "CodigoAccesorio": "82230",
-      "DescripcionAccesorio": "CORDON MOSQ. 5 M/M PVC (ROLLO X 100MT)",
+      "CodigoAccesorio": "82220",
+      "DescripcionAccesorio": "CORDON MOSQ. 4.5 M/M PVC (ROLLO X 100MT)",
       "FormulaCantidad": "((H*2)\u002B((A/2)*2))/1000",
       "Unidad": "ROLLOX100"
-    },
-    {
-      "Id": 0,
-      "CodigoAccesorio": "89620",
-      "DescripcionAccesorio": "RUEDA SIMPL FIJA C/RUL. 3304CRX (MAX.65KG HOJA)",
-      "FormulaCantidad": "2",
-      "Unidad": "UNIDAD"
-    },
-    {
-      "Id": 0,
-      "CodigoAccesorio": "83160",
-      "DescripcionAccesorio": "FELPA 7*6 CON FIN SEAL JN NEGRA ROLLO 400MTS",
-      "FormulaCantidad": "((A*4)\u002B(H*2))/1000",
-      "Unidad": "ROLLO X 400"
-    },
-    {
-      "Id": 0,
-      "CodigoAccesorio": "94125",
-      "DescripcionAccesorio": "TOPE GUIA PTE CENTRAL MT-ME-ME RPT (CAJA X 50 U)",
-      "FormulaCantidad": "2",
-      "Unidad": "CAJA X 50"
     }
   ],
   "Telas": [
