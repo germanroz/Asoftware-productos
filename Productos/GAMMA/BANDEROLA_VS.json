@@ -9,9 +9,10 @@
   "EspesorMin": 4,
   "EspesorMax": 8,
   "Orden": 0,
-  "VarianteAccesorios": "kit_banderola.ban",
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -153,14 +154,14 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-130",
-      "FormulaAlto": "H-130",
+      "FormulaAncho": "A-129",
+      "FormulaAlto": "H-129",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
   ],
   "ConfiguracionVidrio": {
-    "Tipo": "ConContravidrio",
+    "Tipo": "SinContravidrio",
     "Reglas": [
       {
         "Id": 0,

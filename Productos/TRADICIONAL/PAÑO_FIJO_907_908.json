@@ -1,4 +1,4 @@
-﻿{
+{
   "Id": 0,
   "Nombre": "PA\u00D1O FIJO 907/908",
   "LineaId": 1,
@@ -8,6 +8,12 @@
   "Descripcion": "PA\u00D1O FIJO 907/908",
   "EspesorMin": 4,
   "EspesorMax": 8,
+  "Orden": 0,
+  "VarianteAccesorios": "",
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -15,14 +21,17 @@
       "CodigoPerfil": "9070",
       "DescripcionPerfil": "MARCO PA\u00D1O FIJO",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "A",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
-      "GalceBase": 20,
-      "AjusteGalce": 0
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -30,14 +39,17 @@
       "CodigoPerfil": "9070",
       "DescripcionPerfil": "MARCO PA\u00D1O FIJO",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "H",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
-      "GalceBase": 20,
-      "AjusteGalce": 0
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -45,14 +57,17 @@
       "CodigoPerfil": "9080",
       "DescripcionPerfil": "CONTRAVIDRIO RECTO",
       "Cantidad": 2,
-      "FormulaMedida": "A-60",
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-39",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": -15
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -60,14 +75,17 @@
       "CodigoPerfil": "9080",
       "DescripcionPerfil": "CONTRAVIDRIO RECTO",
       "Cantidad": 2,
-      "FormulaMedida": "H-80",
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-70",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": -15
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     }
   ],
   "Accesorios": [
@@ -85,6 +103,7 @@
       "Id": 0,
       "ProductoId": 0,
       "Cantidad": 1,
+      "FormulaCantidad": "",
       "FormulaAncho": "A-50",
       "FormulaAlto": "H-50",
       "BurleteCodigo1": "89130",

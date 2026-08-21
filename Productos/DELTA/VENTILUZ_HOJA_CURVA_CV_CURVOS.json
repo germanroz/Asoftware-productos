@@ -9,9 +9,10 @@
   "EspesorMin": 4,
   "EspesorMax": 29,
   "Orden": 0,
-  "VarianteAccesorios": "kit_ventiluz.ven",
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -147,8 +148,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-135",
-      "FormulaAlto": "H-135",
+      "FormulaAncho": "A-134",
+      "FormulaAlto": "H-134",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

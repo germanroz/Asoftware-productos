@@ -9,7 +9,11 @@
   "EspesorMin": 4,
   "EspesorMax": 29,
   "Orden": 0,
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -23,9 +27,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     },
     {
@@ -40,9 +45,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     },
     {
@@ -60,6 +66,7 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -77,6 +84,7 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],

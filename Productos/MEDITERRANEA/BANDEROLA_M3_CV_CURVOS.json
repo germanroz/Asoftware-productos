@@ -9,9 +9,10 @@
   "EspesorMin": 4,
   "EspesorMax": 30,
   "Orden": 0,
-  "VarianteAccesorios": "kit_h61\u002Bh52\u002Bh53.ban",
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -93,7 +94,7 @@
       "DescripcionPerfil": "Contravidrio Curvo de 28mm",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A-158",
+      "FormulaMedida": "A-157",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -111,7 +112,7 @@
       "DescripcionPerfil": "Contravidrio Curvo de 28mm",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-158",
+      "FormulaMedida": "H-157",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -179,8 +180,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-169",
-      "FormulaAlto": "H-169",
+      "FormulaAncho": "A-173",
+      "FormulaAlto": "H-173",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

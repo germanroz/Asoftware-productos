@@ -9,9 +9,10 @@
   "EspesorMin": 4,
   "EspesorMax": 8,
   "Orden": 0,
-  "VarianteAccesorios": "kit_h47\u002Bh61.default",
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -143,8 +144,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-169",
-      "FormulaAlto": "H-169",
+      "FormulaAncho": "A-171",
+      "FormulaAlto": "H-171",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

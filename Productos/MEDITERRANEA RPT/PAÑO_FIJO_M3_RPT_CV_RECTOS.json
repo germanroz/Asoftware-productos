@@ -9,8 +9,11 @@
   "EspesorMin": 17,
   "EspesorMax": 34,
   "Orden": 0,
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -28,7 +31,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -46,7 +49,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -55,7 +58,7 @@
       "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 15.2 MM",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A-74",
+      "FormulaMedida": "A-73",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -109,8 +112,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-90",
-      "FormulaAlto": "H-90",
+      "FormulaAncho": "A-89",
+      "FormulaAlto": "H-89",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

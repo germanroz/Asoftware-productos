@@ -9,6 +9,11 @@
   "EspesorMin": 4,
   "EspesorMax": 8,
   "Orden": 0,
+  "VarianteAccesorios": "",
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -22,9 +27,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     },
     {
@@ -39,9 +45,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     },
     {
@@ -56,9 +63,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -73,9 +81,10 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -90,9 +99,10 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -107,9 +117,10 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -124,9 +135,10 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],
@@ -170,8 +182,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-133",
-      "FormulaAlto": "H-133",
+      "FormulaAncho": "A-128",
+      "FormulaAlto": "H-128",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

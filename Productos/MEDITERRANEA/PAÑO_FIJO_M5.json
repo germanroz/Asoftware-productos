@@ -9,7 +9,11 @@
   "EspesorMin": 4,
   "EspesorMax": 28,
   "Orden": 0,
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -27,7 +31,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -45,7 +49,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -144,8 +148,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-106",
-      "FormulaAlto": "H-106",
+      "FormulaAncho": "A-107",
+      "FormulaAlto": "H-107",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

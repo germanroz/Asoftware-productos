@@ -9,7 +9,11 @@
   "EspesorMin": 4,
   "EspesorMax": 28,
   "Orden": 0,
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -26,7 +30,8 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": false
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -43,7 +48,8 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": false
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -52,14 +58,15 @@
       "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 29MM",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A-79",
+      "FormulaMedida": "A-78",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -69,14 +76,15 @@
       "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 29MM",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-79",
+      "FormulaMedida": "H-118",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],
@@ -104,8 +112,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-93",
-      "FormulaAlto": "H-93",
+      "FormulaAncho": "A-94",
+      "FormulaAlto": "H-94",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

@@ -9,9 +9,10 @@
   "EspesorMin": 4,
   "EspesorMax": 8,
   "Orden": 0,
-  "VarianteAccesorios": "kit_banderola.ban",
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -143,8 +144,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-147",
-      "FormulaAlto": "H-147",
+      "FormulaAncho": "A-148",
+      "FormulaAlto": "H-148",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

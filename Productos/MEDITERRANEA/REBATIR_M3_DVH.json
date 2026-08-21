@@ -9,8 +9,11 @@
   "EspesorMin": 17,
   "EspesorMax": 22,
   "Orden": 0,
-  "VarianteAccesorios": "kit_h47+h61.default",
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -27,7 +30,8 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": false
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -44,7 +48,8 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": false
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -61,6 +66,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
@@ -78,6 +84,7 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],
@@ -137,8 +144,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-169",
-      "FormulaAlto": "H-169",
+      "FormulaAncho": "A-171",
+      "FormulaAlto": "H-171",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
