@@ -9,6 +9,11 @@
   "EspesorMin": 16,
   "EspesorMax": 16,
   "Orden": 0,
+  "VarianteAccesorios": "",
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -22,9 +27,10 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     }
   ],
@@ -49,8 +55,8 @@
       "Id": 0,
       "ProductoId": 0,
       "CodigoAccesorio": "91630",
-      "DescripcionAccesorio": "CU\uFFFDA PLASTICA BARANDA SPL VIDRIO 8\u002B8",
-      "FormulaCantidad": "(A/250)\u002B1",
+      "DescripcionAccesorio": "CU\u00D1A PLASTICA BARANDA SPL VIDRIO 8\u002B8",
+      "FormulaCantidad": "(A/200)\u002B1",
       "Unidad": "UNIDAD"
     },
     {
