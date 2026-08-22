@@ -12,6 +12,8 @@
   "VarianteAccesorios": "kit_m5_rpt.cor",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -29,7 +31,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -47,7 +49,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -65,7 +67,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -83,7 +85,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -92,7 +94,7 @@
       "DescripcionPerfil": "Hoja Corrediza M-Cinco RPT Recta",
       "Cantidad": 6,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/3\u002B17",
+      "FormulaMedida": "A/3\u002B20",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -110,7 +112,7 @@
       "DescripcionPerfil": "Hoja Corrediza M-Cinco RPT Recta",
       "Cantidad": 6,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-114",
+      "FormulaMedida": "H-115",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -128,7 +130,7 @@
       "DescripcionPerfil": "Encuentro Hojas Corredizas M-Cinco RPT",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-114",
+      "FormulaMedida": "H-115",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -270,8 +272,8 @@
       "ProductoId": 0,
       "Cantidad": 3,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/3-132",
-      "FormulaAlto": "H-263",
+      "FormulaAncho": "A/3-129",
+      "FormulaAlto": "H-264",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

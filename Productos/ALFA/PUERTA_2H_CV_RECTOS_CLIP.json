@@ -12,6 +12,7 @@
   "VarianteAccesorios": "kit_puerta_2h_h62\u002Bh50\u002Bh51\u002Bh42.pue",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -136,7 +137,7 @@
       "Orientacion": "H",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": 0,
+      "AjusteGalce": -37,
       "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
@@ -154,7 +155,7 @@
       "Orientacion": "V",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": 0,
+      "AjusteGalce": -37,
       "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
@@ -170,6 +171,24 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2230",
+      "DescripcionPerfil": "ENCUENTRO CENTRAL PUERTA DE REBATIR",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-29",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,

@@ -94,7 +94,7 @@
       "DescripcionPerfil": "Hoja Corrediza M-Siete RPT",
       "Cantidad": 6,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/3\u002B30",
+      "FormulaMedida": "A/3\u002B32",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -148,7 +148,7 @@
       "DescripcionPerfil": "SOBRE GU\u00CDA MARCO CORREDIZA M-SIETE",
       "Cantidad": 3,
       "FormulaCantidad": "",
-      "FormulaMedida": "A-119",
+      "FormulaMedida": "A-126",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -264,8 +264,8 @@
       "ProductoId": 0,
       "Cantidad": 3,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/3-161",
-      "FormulaAlto": "H-298",
+      "FormulaAncho": "A/3-153",
+      "FormulaAlto": "H-300",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

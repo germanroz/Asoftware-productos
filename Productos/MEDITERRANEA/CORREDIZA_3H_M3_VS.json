@@ -12,6 +12,7 @@
   "VarianteAccesorios": "m3-m5_corrediza_3h.cor",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -75,7 +76,7 @@
       "DescripcionPerfil": "HOJA V.CORREDIZA S/CV M-TRES P/VS",
       "Cantidad": 6,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-82",
+      "FormulaMedida": "H-83",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -93,7 +94,7 @@
       "DescripcionPerfil": "ENCUENTRO CENTRAL HOJA CORREDIZA M-TRES",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-82",
+      "FormulaMedida": "H-83",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -111,7 +112,7 @@
       "DescripcionPerfil": "SOBRE GU\u00CDA MARCO CORREDIZA",
       "Cantidad": 3,
       "FormulaCantidad": "",
-      "FormulaMedida": "A-91",
+      "FormulaMedida": "A-93",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -179,8 +180,8 @@
       "ProductoId": 0,
       "Cantidad": 3,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/3-105",
-      "FormulaAlto": "H-212",
+      "FormulaAncho": "A/3-106",
+      "FormulaAlto": "H-213",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
