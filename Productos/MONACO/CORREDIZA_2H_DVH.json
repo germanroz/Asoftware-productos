@@ -12,6 +12,7 @@
   "VarianteAccesorios": "mon_-__cierre_lateral.cor",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -57,7 +58,7 @@
       "DescripcionPerfil": "HOJA CORREDIZA D.V.H.",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2-9",
+      "FormulaMedida": "A/2-8",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -75,7 +76,7 @@
       "DescripcionPerfil": "HOJA CORREDIZA D.V.H.",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-81",
+      "FormulaMedida": "H-80",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -93,7 +94,7 @@
       "DescripcionPerfil": "ENCUENTRO CENTRAL HOJAS",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-81",
+      "FormulaMedida": "H-80",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -187,7 +188,7 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2-112",
+      "FormulaAncho": "A/2-111",
       "FormulaAlto": "H-184",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""

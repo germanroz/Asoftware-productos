@@ -58,7 +58,7 @@
       "DescripcionPerfil": "HOJA CORREDIZA VS",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2-8",
+      "FormulaMedida": "A/2-9",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -99,6 +99,24 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "7430",
+      "DescripcionPerfil": "ENCUENTRO CENTRAL HOJAS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-78",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
@@ -194,14 +212,14 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2-104",
-      "FormulaAlto": "H-174",
+      "FormulaAncho": "A/2-107",
+      "FormulaAlto": "H-176",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
   ],
   "ConfiguracionVidrio": {
-    "Tipo": "SIN",
+    "Tipo": "SinContravidrio",
     "Reglas": [
       {
         "Id": 0,

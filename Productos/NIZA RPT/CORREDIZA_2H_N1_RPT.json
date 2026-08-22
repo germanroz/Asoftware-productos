@@ -12,6 +12,7 @@
   "VarianteAccesorios": "kit_n1.cor",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -57,7 +58,7 @@
       "DescripcionPerfil": "Hoja Ventana Corrediza M-Uno RPT",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2-4",
+      "FormulaMedida": "A/2-3",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -228,7 +229,7 @@
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaAncho": "A/2-125",
-      "FormulaAlto": "H-200",
+      "FormulaAlto": "H-201",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
