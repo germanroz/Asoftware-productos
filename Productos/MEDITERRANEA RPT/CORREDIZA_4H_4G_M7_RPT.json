@@ -12,6 +12,7 @@
   "VarianteAccesorios": "kit_m7_4h.mul",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -93,7 +94,7 @@
       "DescripcionPerfil": "Hoja Corrediza M-Siete RPT",
       "Cantidad": 8,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/4\u002B47",
+      "FormulaMedida": "A/4\u002B50",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -299,8 +300,8 @@
       "ProductoId": 0,
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/4-137",
-      "FormulaAlto": "H-298",
+      "FormulaAncho": "A/4-135",
+      "FormulaAlto": "H-300",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
