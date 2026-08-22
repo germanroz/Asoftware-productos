@@ -12,6 +12,8 @@
   "VarianteAccesorios": "kit_m7.cor",
   "FormaCorrediza": 0,
   "HojaCentralDoble": true,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -29,7 +31,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -47,7 +49,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -182,7 +184,7 @@
       "DescripcionPerfil": "SOBRE GU\u00CDA MARCO CORREDIZA M-SIETE",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A-119",
+      "FormulaMedida": "A-126",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -298,8 +300,8 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/4-170",
-      "FormulaAlto": "H-298",
+      "FormulaAncho": "A/4-163",
+      "FormulaAlto": "H-300",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     },
@@ -308,8 +310,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2-148",
-      "FormulaAlto": "H-298",
+      "FormulaAncho": "A/2-141",
+      "FormulaAlto": "H-300",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

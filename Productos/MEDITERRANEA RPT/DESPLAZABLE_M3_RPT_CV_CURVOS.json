@@ -12,6 +12,8 @@
   "VarianteAccesorios": "kit_desplazable.des",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -29,7 +31,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -47,7 +49,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -92,7 +94,7 @@
       "DescripcionPerfil": "CONTRAVIDRIO CURVO DE 16 MM",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A-172",
+      "FormulaMedida": "A-171",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -110,7 +112,7 @@
       "DescripcionPerfil": "CONTRAVIDRIO CURVO DE 16 MM",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-172",
+      "FormulaMedida": "H-171",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -162,8 +164,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-187",
-      "FormulaAlto": "H-187",
+      "FormulaAncho": "A-188",
+      "FormulaAlto": "H-188",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

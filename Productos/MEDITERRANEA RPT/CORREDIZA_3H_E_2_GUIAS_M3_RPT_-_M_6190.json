@@ -12,6 +12,7 @@
   "VarianteAccesorios": "kit_3h_m3_rpt.cor",
   "FormaCorrediza": 0,
   "HojaCentralDoble": true,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -57,7 +58,7 @@
       "DescripcionPerfil": "Hoja Corrediza M-III RPT 28 MM",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/4\u002B36",
+      "FormulaMedida": "A/4\u002B14",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -75,7 +76,7 @@
       "DescripcionPerfil": "Hoja Corrediza M-III RPT 28 MM",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2\u002B73",
+      "FormulaMedida": "A/2\u002B28",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -237,8 +238,8 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/4-89",
-      "FormulaAlto": "H-210",
+      "FormulaAncho": "A/4-112",
+      "FormulaAlto": "H-214",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     },
@@ -247,8 +248,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2-53",
-      "FormulaAlto": "H-210",
+      "FormulaAncho": "A/2-97",
+      "FormulaAlto": "H-214",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

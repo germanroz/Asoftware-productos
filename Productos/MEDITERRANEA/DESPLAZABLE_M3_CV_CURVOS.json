@@ -9,8 +9,11 @@
   "EspesorMin": 4,
   "EspesorMax": 30,
   "Orden": 0,
-  "VarianteAccesorios": "kit_tijera+h91.des",
+  "VarianteAccesorios": "kit_tijera\u002Bh91.des",
   "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -28,7 +31,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -46,7 +49,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -55,7 +58,7 @@
       "DescripcionPerfil": "Hoja Ventiluz Desplazable M-Tres",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A-67",
+      "FormulaMedida": "A-48",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -73,7 +76,7 @@
       "DescripcionPerfil": "Hoja Ventiluz Desplazable M-Tres",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-67",
+      "FormulaMedida": "H-48",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -161,8 +164,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-184",
-      "FormulaAlto": "H-184",
+      "FormulaAncho": "A-186",
+      "FormulaAlto": "H-186",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
