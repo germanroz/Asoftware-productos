@@ -12,6 +12,7 @@
   "VarianteAccesorios": "",
   "FormaCorrediza": 2,
   "HojaCentralDoble": true,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -93,7 +94,7 @@
       "DescripcionPerfil": "Cabezal/Z\u00F3calo Hoja Corrediza",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/4-4",
+      "FormulaMedida": "A/4-2",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -111,7 +112,7 @@
       "DescripcionPerfil": "Cabezal/Z\u00F3calo Hoja Corrediza",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2\u002B41",
+      "FormulaMedida": "A/2\u002B35",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -241,7 +242,7 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/4-97",
+      "FormulaAncho": "A/4-94",
       "FormulaAlto": "H-197",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
@@ -251,7 +252,7 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2-70",
+      "FormulaAncho": "A/2-74",
       "FormulaAlto": "H-197",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""

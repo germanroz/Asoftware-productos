@@ -12,6 +12,7 @@
   "VarianteAccesorios": "",
   "FormaCorrediza": 2,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -224,7 +225,7 @@
       "Cantidad": 3,
       "FormulaCantidad": "",
       "FormulaAncho": "A/3-83",
-      "FormulaAlto": "H-192",
+      "FormulaAlto": "H-191",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

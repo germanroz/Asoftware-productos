@@ -12,6 +12,7 @@
   "VarianteAccesorios": "delta_-_corrediza_4h.cor",
   "FormaCorrediza": 2,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -93,7 +94,7 @@
       "DescripcionPerfil": "Z\u00D3CALO Y CABEZAL CORREDIZA VS",
       "Cantidad": 8,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/4",
+      "FormulaMedida": "A/4-1",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -197,8 +198,8 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/4-100",
-      "FormulaAlto": "H-192",
+      "FormulaAncho": "A/4-91",
+      "FormulaAlto": "H-191",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

@@ -12,6 +12,7 @@
   "VarianteAccesorios": "kit_corrediza_4h_bi_punto.cor",
   "FormaCorrediza": 2,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -135,6 +136,24 @@
       "AnguloCorte": 90,
       "Orientacion": "H",
       "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "5690",
+      "DescripcionPerfil": "ENCUENTRO DE 4 HOJAS M-TRES/M-CINCO",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-82",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,

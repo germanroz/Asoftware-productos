@@ -12,6 +12,7 @@
   "VarianteAccesorios": "",
   "FormaCorrediza": 2,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -93,7 +94,7 @@
       "DescripcionPerfil": "Cabezal/Z\u00F3calo Hoja Corrediza",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2-18",
+      "FormulaMedida": "A/2-17",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -111,7 +112,7 @@
       "DescripcionPerfil": "Z\u00F3calo Alto Hoja Puerta Corrediza",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2-18",
+      "FormulaMedida": "A/2-17",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -223,7 +224,7 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2-110",
+      "FormulaAncho": "A/2-109",
       "FormulaAlto": "H-242",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
