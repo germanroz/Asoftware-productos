@@ -12,6 +12,7 @@
   "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -57,7 +58,7 @@
       "DescripcionPerfil": "Hoja Corrediza M-III RPT 28 MM",
       "Cantidad": 8,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/4\u002B14",
+      "FormulaMedida": "A/4\u002B13",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -245,8 +246,8 @@
       "ProductoId": 0,
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/4-112",
-      "FormulaAlto": "H-210",
+      "FormulaAncho": "A/4-113",
+      "FormulaAlto": "H-214",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

@@ -76,7 +76,7 @@
       "DescripcionPerfil": "Hoja Corrediza 45\u00BA DVH 28 mm",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2\u002B4",
+      "FormulaMedida": "A/2\u002B5",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -212,14 +212,14 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2-129",
-      "FormulaAlto": "H-208",
+      "FormulaAncho": "A/2-126",
+      "FormulaAlto": "H-209",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
   ],
   "ConfiguracionVidrio": {
-    "Tipo": "SIN",
+    "Tipo": "SinContravidrio",
     "Reglas": [
       {
         "Id": 0,
