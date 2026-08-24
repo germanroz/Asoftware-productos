@@ -12,6 +12,7 @@
   "VarianteAccesorios": "kit_4h_.cor",
   "FormaCorrediza": 2,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -187,7 +188,7 @@
       "ProductoId": 0,
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/4-63",
+      "FormulaAncho": "A/4-66",
       "FormulaAlto": "H-169",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""

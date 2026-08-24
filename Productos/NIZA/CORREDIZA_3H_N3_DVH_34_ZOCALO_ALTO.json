@@ -36,8 +36,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "7950",
-      "DescripcionPerfil": "COLUMNA177 MM",
+      "CodigoPerfil": "7930",
+      "DescripcionPerfil": "Umbral Dintel tres gu\u00EDas",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A-50",
@@ -215,7 +215,7 @@
       "Cantidad": 3,
       "FormulaCantidad": "",
       "FormulaAncho": "A/3-83",
-      "FormulaAlto": "H-182",
+      "FormulaAlto": "H-228",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
