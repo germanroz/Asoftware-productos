@@ -1,0 +1,2038 @@
+{
+  "_comentario": "Bandas de dibujo en mm por producto (ancho visible de cada perfil), generadas por la herramienta de geometria. Clave: LINEA/NOMBRE. SOLO DIBUJO: no alimenta cortes ni precios.",
+  "generado": "2026-08-24 18:44:20",
+  "productos": {
+    "ALFA/BANDEROLA CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "ALFA/BANDEROLA CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "ALFA/BANDEROLA CV RECTOS CLIP": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "ALFA/DESPLAZABLE CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 21.5,
+      "hoja": 61.5,
+      "cv": 22
+    },
+    "ALFA/DESPLAZABLE CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 21.5,
+      "hoja": 61.5,
+      "cv": 22
+    },
+    "ALFA/DESPLAZABLE CV RECTOS CLIP": {
+      "familia": "marcohoja",
+      "marco": 21.5,
+      "hoja": 61.5,
+      "cv": 22
+    },
+    "ALFA/OSCILOBATENTE 2 HOJAS CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "ALFA/OSCILOBATIENTE 2 HOJAS CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "ALFA/OSCILOBATIENTE 2 HOJAS CV RECTOS CLIP": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "ALFA/OSCILOBATIENTE CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "ALFA/OSCILOBATIENTE CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "ALFA/OSCILOBATIENTE CV RECTOS CLIP": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "ALFA/PAÑO FIJO CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "ALFA/PAÑO FIJO CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "ALFA/PAÑO FIJO CV RECTOS CLIP": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "ALFA/PAÑO FIJO RECTO CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "ALFA/PAÑO FIJO RECTO CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "ALFA/PAÑO FIJO RECTO CV RECTOS CLIP": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "ALFA/REBATIR 2 HOJAS CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "ALFA/REBATIR 2 HOJAS CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "ALFA/REBATIR 2 HOJAS CV RECTOS CLIP": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "ALFA/REBATIR CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "ALFA/REBATIR CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "ALFA/REBATIR CV RECTOS CLIP": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "ATLANTICA/BANDEROLA DVH": {
+      "familia": "marcohoja",
+      "marco": 22,
+      "hoja": 64.3
+    },
+    "ATLANTICA/BANDEROLA VS": {
+      "familia": "marcohoja",
+      "marco": 22,
+      "hoja": 64.3
+    },
+    "ATLANTICA/OSCILOBATIENTE 1H DVH": {
+      "familia": "marcohoja",
+      "marco": 22,
+      "hoja": 64.3
+    },
+    "ATLANTICA/OSCILOBATIENTE 1H VS": {
+      "familia": "marcohoja",
+      "marco": 22,
+      "hoja": 64.3
+    },
+    "ATLANTICA/PAÑO FIJO CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 28,
+      "cv": 20.1
+    },
+    "ATLANTICA/PAÑO FIJO CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 28,
+      "cv": 20.1
+    },
+    "ATLANTICA/REBATIR 1H DVH": {
+      "familia": "marcohoja",
+      "marco": 22,
+      "hoja": 64.3
+    },
+    "ATLANTICA/REBATIR 1H VS": {
+      "familia": "marcohoja",
+      "marco": 22,
+      "hoja": 64.3
+    },
+    "DELTA/BANDEROLA HOJA CURVA CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/BANDEROLA HOJA CURVA CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/BANDEROLA HOJA RECTA CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/BANDEROLA HOJA RECTA CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/DESPLAZABLE CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 16.5,
+      "hoja": 62.5,
+      "cv": 17
+    },
+    "DELTA/OSCILOBATIENTE 2 HOJAS CURVAS CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 25.3,
+      "cv": 17.2
+    },
+    "DELTA/OSCILOBATIENTE 2 HOJAS RECTAS CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 25.3,
+      "cv": 17.2
+    },
+    "DELTA/OSCILOBATIENTE HOJA CURVA CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/OSCILOBATIENTE HOJA CURVA CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/OSCILOBATIENTE HOJA RECTA CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/OSCILOBATIENTE HOJA RECTA CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/PAÑO FIJO CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 25.3,
+      "cv": 17.2
+    },
+    "DELTA/PAÑO FIJO CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 25.3,
+      "cv": 17.2
+    },
+    "DELTA/REBATIR 2 HOJAS CURVAS CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 25.3,
+      "cv": 17.2
+    },
+    "DELTA/REBATIR 2 HOJAS RECTAS CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 25.3,
+      "cv": 17.2
+    },
+    "DELTA/REBATIR HOJA CURVA CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/REBATIR HOJA CURVA CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/REBATIR HOJA RECTA CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/REBATIR HOJA RECTA CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/VENTILUZ HOJA CURVA CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/VENTILUZ HOJA CURVA CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/VENTILUZ HOJA RECTA CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "DELTA/VENTILUZ HOJA RECTA CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 42.2,
+      "cv": 17
+    },
+    "GAMMA/BANDEROLA DVH": {
+      "familia": "marcohoja",
+      "marco": 24,
+      "hoja": 53
+    },
+    "GAMMA/BANDEROLA VS": {
+      "familia": "marcohoja",
+      "marco": 24,
+      "hoja": 53
+    },
+    "GAMMA/OSCILOBATIENTE DVH": {
+      "familia": "marcohoja",
+      "marco": 24,
+      "hoja": 53
+    },
+    "GAMMA/OSCILOBATIENTE VS": {
+      "familia": "marcohoja",
+      "marco": 24,
+      "hoja": 53
+    },
+    "GAMMA/PAÑO FIJO CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 30,
+      "cv": 20.5
+    },
+    "GAMMA/PAÑO FIJO CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 30,
+      "cv": 20.5
+    },
+    "GAMMA/REBATIR DVH": {
+      "familia": "marcohoja",
+      "marco": 24,
+      "hoja": 53
+    },
+    "GAMMA/REBATIR VS": {
+      "familia": "marcohoja",
+      "marco": 24,
+      "hoja": 53
+    },
+    "GAMMA/VENTILUZ DVH": {
+      "familia": "marcohoja",
+      "marco": 24,
+      "hoja": 53
+    },
+    "GAMMA/VENTILUZ VS": {
+      "familia": "marcohoja",
+      "marco": 24,
+      "hoja": 53
+    },
+    "MEDITERRANEA/BANDEROLA M3 CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 33.1,
+      "hoja": 45.8,
+      "cv": 20.3
+    },
+    "MEDITERRANEA/BANDEROLA M3 DVH": {
+      "familia": "marcohoja",
+      "marco": 33.1,
+      "hoja": 64.3
+    },
+    "MEDITERRANEA/BANDEROLA M3 VS": {
+      "familia": "marcohoja",
+      "marco": 33.1,
+      "hoja": 64.3
+    },
+    "MEDITERRANEA/DESPLAZABLE M3 CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 23.9,
+      "hoja": 61.2,
+      "cv": 20.3
+    },
+    "MEDITERRANEA/DESPLAZABLE M3 CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 23.9,
+      "hoja": 61.2,
+      "cv": 20.3
+    },
+    "MEDITERRANEA/OSCILOBATIENTE M3 CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 33.1,
+      "hoja": 45.8,
+      "cv": 20.3
+    },
+    "MEDITERRANEA/OSCILOBATIENTE M3 DVH": {
+      "familia": "marcohoja",
+      "marco": 33.1,
+      "hoja": 64.3
+    },
+    "MEDITERRANEA/OSCILOBATIENTE M3 VS": {
+      "familia": "marcohoja",
+      "marco": 33.1,
+      "hoja": 64.3
+    },
+    "MEDITERRANEA/PAÑO FIJO M3 CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 39.1,
+      "cv": 20.3
+    },
+    "MEDITERRANEA/PAÑO FIJO M3 CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 39.1,
+      "cv": 20.3
+    },
+    "MEDITERRANEA/PAÑO FIJO M5": {
+      "familia": "perimetral",
+      "marco": 40.5,
+      "cv": 25.7
+    },
+    "MEDITERRANEA/REBATIR M3 CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 33.1,
+      "hoja": 45.8,
+      "cv": 20.3
+    },
+    "MEDITERRANEA/REBATIR M3 DVH": {
+      "familia": "marcohoja",
+      "marco": 33.1,
+      "hoja": 64.3
+    },
+    "MEDITERRANEA/REBATIR M3 VS": {
+      "familia": "marcohoja",
+      "marco": 33.1,
+      "hoja": 64.3
+    },
+    "MEDITERRANEA RPT/BANDEROLA M3 RPT CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 30.7,
+      "hoja": 45.1,
+      "cv": 20.4
+    },
+    "MEDITERRANEA RPT/BANDEROLA M3 RPT CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 30.7,
+      "hoja": 45.1,
+      "cv": 20.4
+    },
+    "MEDITERRANEA RPT/DESPLAZABLE M3 RPT CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 24.6,
+      "hoja": 61.2,
+      "cv": 20.8
+    },
+    "MEDITERRANEA RPT/DESPLAZABLE M3 RPT CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 24.6,
+      "hoja": 61.2,
+      "cv": 20.8
+    },
+    "MEDITERRANEA RPT/OSCILOBATIENTE M3 RPT CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 30.7,
+      "hoja": 45.1,
+      "cv": 20.4
+    },
+    "MEDITERRANEA RPT/OSCILOBATIENTE M3 RPT CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 30.7,
+      "hoja": 45.1,
+      "cv": 20.4
+    },
+    "MEDITERRANEA RPT/PAÑO FIJO M3 RPT CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 36.7,
+      "cv": 20.5
+    },
+    "MEDITERRANEA RPT/PAÑO FIJO M3 RPT CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 36.7,
+      "cv": 20.5
+    },
+    "MEDITERRANEA RPT/REBATIR M3 RPT CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 30.7,
+      "hoja": 45.1,
+      "cv": 20.4
+    },
+    "MEDITERRANEA RPT/REBATIR M3 RPT CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 30.7,
+      "hoja": 45.1,
+      "cv": 20.4
+    },
+    "MONACO/BANDEROLA DVH": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 64.3
+    },
+    "MONACO/BANDEROLA VS": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 64.3
+    },
+    "MONACO/OSCILOBATIENTE DVH": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 64.3
+    },
+    "MONACO/OSCILOBATIENTE VS": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 64.3
+    },
+    "MONACO/PAÑO FIJO 829 CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 31.5,
+      "cv": 20.3
+    },
+    "MONACO/PAÑO FIJO 829 CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 31.5,
+      "cv": 20.3
+    },
+    "MONACO/REBATIR DVH": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 64.3
+    },
+    "MONACO/REBATIR VS": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 64.3
+    },
+    "NIZA/BANDEROLA N3 CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "NIZA/BANDEROLA N3 CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "NIZA/BANDEROLA N3 CV RECTOS CLIP": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "NIZA/DESPLAZABLE N3 CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 21.5,
+      "hoja": 61.5,
+      "cv": 22
+    },
+    "NIZA/DESPLAZABLE N3 CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 21.5,
+      "hoja": 61.5,
+      "cv": 22
+    },
+    "NIZA/DESPLAZABLE N3 CV RECTOS CLIP": {
+      "familia": "marcohoja",
+      "marco": 21.5,
+      "hoja": 61.5,
+      "cv": 22
+    },
+    "NIZA/OSCILOBATIENTE N3 2 HOJAS CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "NIZA/OSCILOBATIENTE N3 2 HOJAS CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "NIZA/OSCILOBATIENTE N3 CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "NIZA/OSCILOBATIENTE N3 CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "NIZA/PAÑO FIJO N3 CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "NIZA/PAÑO FIJO N3 CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "NIZA/PAÑO FIJO N3 CV RECTOS CLIP": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "NIZA/PAÑO FIJO N5 CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 30,
+      "cv": 22
+    },
+    "NIZA/PAÑO FIJO N5 CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 30,
+      "cv": 22
+    },
+    "NIZA/PAÑO FIJO N5 CV RECTOS CLIP": {
+      "familia": "perimetral",
+      "marco": 30,
+      "cv": 22
+    },
+    "NIZA/REBATIR N3 2 HOJAS CV CURVOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "NIZA/REBATIR N3 2 HOJAS CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "NIZA/REBATIR N3 2 HOJAS CV RECTOS CLIP": {
+      "familia": "perimetral",
+      "marco": 29.2,
+      "cv": 22
+    },
+    "NIZA/REBATIR N3 CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "NIZA/REBATIR N3 CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "NIZA/REBATIR N3 CV RECTOS CLIP": {
+      "familia": "marcohoja",
+      "marco": 23.2,
+      "hoja": 46,
+      "cv": 22
+    },
+    "TRADICIONAL/BANDEROLA": {
+      "familia": "marcohoja",
+      "marco": 30,
+      "hoja": 31.5,
+      "cv": 12.5
+    },
+    "TRADICIONAL/PAÑO FIJO 907/908": {
+      "familia": "perimetral",
+      "marco": 19.5,
+      "cv": 15.5
+    },
+    "MEDITERRANEA/CORREDIZA 2H M1 DVH": {
+      "familia": "corr45",
+      "marco": 48.5,
+      "marcoH": 48.5,
+      "retiro": 40.5,
+      "retiroH": 40.5,
+      "hoja": 64.3,
+      "entrante": 12.5,
+      "montante": 64.3,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MEDITERRANEA/CORREDIZA 2H M1 VS": {
+      "familia": "corr45",
+      "marco": 48.5,
+      "marcoH": 48.5,
+      "retiro": 40.5,
+      "retiroH": 40.5,
+      "hoja": 64.3,
+      "entrante": 12.5,
+      "montante": 64.3,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MEDITERRANEA/CORREDIZA 2H M3 DVH": {
+      "familia": "corr45",
+      "marco": 48.8,
+      "marcoH": 48.8,
+      "retiro": 40.8,
+      "retiroH": 40.8,
+      "hoja": 77.4,
+      "entrante": 12.5,
+      "montante": 77.4,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MEDITERRANEA/CORREDIZA 2H M3 VS": {
+      "familia": "corr45",
+      "marco": 48.8,
+      "marcoH": 48.8,
+      "retiro": 40.8,
+      "retiroH": 40.8,
+      "hoja": 77.4,
+      "entrante": 12.5,
+      "montante": 77.4,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MEDITERRANEA/CORREDIZA 2H M5": {
+      "familia": "corr45",
+      "marco": 66.5,
+      "marcoH": 66.5,
+      "retiro": 57.5,
+      "retiroH": 57.5,
+      "hoja": 86,
+      "entrante": 12.5,
+      "montante": 86,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MEDITERRANEA/CORREDIZA 2H M7": {
+      "familia": "corr45",
+      "marco": 66.4,
+      "marcoH": 66.4,
+      "retiro": 57.4,
+      "retiroH": 57.4,
+      "hoja": 105,
+      "entrante": 12.5,
+      "montante": 105,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MEDITERRANEA/CORREDIZA 3H M3 DVH": {
+      "familia": "corr45",
+      "marco": 49.6,
+      "marcoH": 49.6,
+      "retiro": 41.6,
+      "retiroH": 41.6,
+      "hoja": 77.4,
+      "entrante": 12.5,
+      "montante": 77.4,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MEDITERRANEA/CORREDIZA 3H M3 VS": {
+      "familia": "corr45",
+      "marco": 49.6,
+      "marcoH": 49.6,
+      "retiro": 41.6,
+      "retiroH": 41.6,
+      "hoja": 77.4,
+      "entrante": 12.5,
+      "montante": 77.4,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MEDITERRANEA RPT/CORREDIZA 2H M1 RPT": {
+      "familia": "corr45",
+      "marco": 48,
+      "marcoH": 48,
+      "retiro": 40,
+      "retiroH": 40,
+      "hoja": 73.1,
+      "entrante": 12.5,
+      "montante": 73.1,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MEDITERRANEA RPT/CORREDIZA 2H M3 RPT": {
+      "familia": "corr45",
+      "marco": 52,
+      "marcoH": 52,
+      "retiro": 44,
+      "retiroH": 44,
+      "hoja": 75.4,
+      "entrante": 12.5,
+      "montante": 75.4,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MEDITERRANEA RPT/CORREDIZA 2H M3 RPT - M/6190": {
+      "familia": "corr45",
+      "marco": 52,
+      "marcoH": 52,
+      "retiro": 44,
+      "retiroH": 44,
+      "hoja": 75.4,
+      "entrante": 12.5,
+      "montante": 75.4,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MEDITERRANEA RPT/CORREDIZA 2H M5 RPT": {
+      "familia": "corr45",
+      "marco": 66.5,
+      "marcoH": 66.5,
+      "retiro": 57.5,
+      "retiroH": 57.5,
+      "hoja": 87,
+      "entrante": 12.5,
+      "montante": 87,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MEDITERRANEA RPT/CORREDIZA 2H M7 RPT": {
+      "familia": "corr45",
+      "marco": 66.4,
+      "marcoH": 66.4,
+      "retiro": 57.4,
+      "retiroH": 57.4,
+      "hoja": 105,
+      "entrante": 12.5,
+      "montante": 105,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MEDITERRANEA RPT/CORREDIZA 3H E/2 GUIAS M3 RPT": {
+      "familia": "corr45",
+      "marco": 52,
+      "marcoH": 52,
+      "retiro": 44,
+      "retiroH": 44,
+      "hoja": 75.4,
+      "entrante": 12.5,
+      "montante": 72.4,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MEDITERRANEA RPT/CORREDIZA 3H E/2 GUIAS M3 RPT - M/6190": {
+      "familia": "corr45",
+      "marco": 52,
+      "marcoH": 52,
+      "retiro": 44,
+      "retiroH": 44,
+      "hoja": 75.4,
+      "entrante": 12.5,
+      "montante": 72.4,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MEDITERRANEA RPT/CORREDIZA 3H E/2 GUIAS M5 RPT": {
+      "familia": "corr45",
+      "marco": 66.5,
+      "marcoH": 66.5,
+      "retiro": 57.5,
+      "retiroH": 57.5,
+      "hoja": 87,
+      "entrante": 12.5,
+      "montante": 84,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MEDITERRANEA RPT/CORREDIZA 3H E/2 GUIAS M7 RPT": {
+      "familia": "corr45",
+      "marco": 66.4,
+      "marcoH": 66.4,
+      "retiro": 57.4,
+      "retiroH": 57.4,
+      "hoja": 105,
+      "entrante": 12.5,
+      "montante": 101,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MEDITERRANEA RPT/CORREDIZA 3H M3 RPT": {
+      "familia": "corr45",
+      "marco": 52,
+      "marcoH": 52,
+      "retiro": 44,
+      "retiroH": 44,
+      "hoja": 75.4,
+      "entrante": 12.5,
+      "montante": 75.4,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MEDITERRANEA RPT/CORREDIZA 3H M5 RPT": {
+      "familia": "corr45",
+      "marco": 66.5,
+      "marcoH": 66.5,
+      "retiro": 57.5,
+      "retiroH": 57.5,
+      "hoja": 87,
+      "entrante": 12.5,
+      "montante": 87,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MEDITERRANEA RPT/CORREDIZA 3H M7 RPT": {
+      "familia": "corr45",
+      "marco": 66.4,
+      "marcoH": 66.4,
+      "retiro": 57.4,
+      "retiroH": 57.4,
+      "hoja": 105,
+      "entrante": 12.5,
+      "montante": 105,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MEDITERRANEA RPT/CORREDIZA 4H 4G M7 RPT": {
+      "familia": "corr45",
+      "marco": 66.4,
+      "marcoH": 66.4,
+      "retiro": 57.4,
+      "retiroH": 57.4,
+      "hoja": 105,
+      "entrante": 12.5,
+      "montante": 105,
+      "tope": 0,
+      "hojas": 4,
+      "cruces": 3
+    },
+    "MONACO/CORREDIZA 2H DVH": {
+      "familia": "corr45",
+      "marco": 49,
+      "marcoH": 49,
+      "retiro": 40,
+      "retiroH": 40,
+      "hoja": 64.3,
+      "entrante": 12.5,
+      "montante": 64.3,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MONACO/CORREDIZA 2H VS": {
+      "familia": "corr45",
+      "marco": 49,
+      "marcoH": 49,
+      "retiro": 40,
+      "retiroH": 40,
+      "hoja": 64.3,
+      "entrante": 12.5,
+      "montante": 64.3,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "NIZA/CORREDIZA 2H N1 DVH": {
+      "familia": "corr45",
+      "marco": 47,
+      "marcoH": 47,
+      "retiro": 39,
+      "retiroH": 39,
+      "hoja": 61,
+      "entrante": 12,
+      "montante": 61,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "NIZA/CORREDIZA 2H N1 VS": {
+      "familia": "corr45",
+      "marco": 47,
+      "marcoH": 47,
+      "retiro": 39,
+      "retiroH": 39,
+      "hoja": 61,
+      "entrante": 12,
+      "montante": 61,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "NIZA/CORREDIZA 2H N5 DVH": {
+      "familia": "corr45",
+      "marco": 43,
+      "marcoH": 48,
+      "retiro": 34,
+      "retiroH": 39,
+      "hoja": 78,
+      "entrante": 12.5,
+      "montante": 77.8,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "NIZA/CORREDIZA 2H N5 VS": {
+      "familia": "corr45",
+      "marco": 43,
+      "marcoH": 48,
+      "retiro": 34,
+      "retiroH": 39,
+      "hoja": 78,
+      "entrante": 12.5,
+      "montante": 77.8,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "NIZA/CORREDIZA 3H N1 DVH": {
+      "familia": "corr45",
+      "marco": 47,
+      "marcoH": 47,
+      "retiro": 39,
+      "retiroH": 39,
+      "hoja": 61,
+      "entrante": 12,
+      "montante": 61,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "NIZA/CORREDIZA 3H N1 VS": {
+      "familia": "corr45",
+      "marco": 47,
+      "marcoH": 47,
+      "retiro": 39,
+      "retiroH": 39,
+      "hoja": 61,
+      "entrante": 12,
+      "montante": 61,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "NIZA RPT/CORREDIZA 2H N1 RPT": {
+      "familia": "corr45",
+      "marco": 47.9,
+      "marcoH": 47.9,
+      "retiro": 39.9,
+      "retiroH": 39.9,
+      "hoja": 73.1,
+      "entrante": 12.5,
+      "montante": 73.1,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "NIZA RPT/CORREDIZA 2H N3 RPT": {
+      "familia": "corr45",
+      "marco": 52,
+      "marcoH": 52,
+      "retiro": 44,
+      "retiroH": 44,
+      "hoja": 75.4,
+      "entrante": 12.5,
+      "montante": 75.4,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "NIZA RPT/CORREDIZA 3H N3 RPT": {
+      "familia": "corr45",
+      "marco": 52,
+      "marcoH": 52,
+      "retiro": 44,
+      "retiroH": 44,
+      "hoja": 75.4,
+      "entrante": 12.5,
+      "montante": 75.4,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "NIZA RPT/CORREDIZA 4H E/ CENTRAL N3 RPT": {
+      "familia": "corr45",
+      "marco": 52,
+      "marcoH": 52,
+      "retiro": 44,
+      "retiroH": 44,
+      "hoja": 75.4,
+      "entrante": 12.5,
+      "montante": 72.4,
+      "tope": 5,
+      "hojas": 4,
+      "cruces": 2
+    },
+    "ALFA/CORREDIZA 2H DVH": {
+      "familia": "corr90",
+      "marco": 40,
+      "marcoH": 53,
+      "retiro": 30,
+      "retiroH": 43,
+      "cab": 65,
+      "zoc": 65,
+      "entrante": 12.5,
+      "montante": 66,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        }
+      ]
+    },
+    "ALFA/CORREDIZA 2H VS": {
+      "familia": "corr90",
+      "marco": 40,
+      "marcoH": 53,
+      "retiro": 30,
+      "retiroH": 43,
+      "cab": 65,
+      "zoc": 65,
+      "entrante": 12.5,
+      "montante": 66,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        }
+      ]
+    },
+    "ALFA/CORREDIZA 2H ZOCALO ALTO DVH": {
+      "familia": "corr90",
+      "marco": 40,
+      "marcoH": 53,
+      "retiro": 30,
+      "retiroH": 43,
+      "cab": 65,
+      "zoc": 110,
+      "entrante": 12.5,
+      "montante": 66,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        }
+      ]
+    },
+    "ALFA/CORREDIZA 2H ZOCALO ALTO VS": {
+      "familia": "corr90",
+      "marco": 40,
+      "marcoH": 53,
+      "retiro": 30,
+      "retiroH": 43,
+      "cab": 65,
+      "zoc": 110,
+      "entrante": 12.5,
+      "montante": 66,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        }
+      ]
+    },
+    "ALFA/CORREDIZA 3H 3G DVH": {
+      "familia": "corr90",
+      "marco": 41,
+      "marcoH": 53.4,
+      "retiro": 30.6,
+      "retiroH": 43,
+      "cab": 65,
+      "zoc": 65,
+      "entrante": 12.5,
+      "montante": 66,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        }
+      ]
+    },
+    "ALFA/CORREDIZA 3H 3G VS": {
+      "familia": "corr90",
+      "marco": 41,
+      "marcoH": 53.4,
+      "retiro": 30.6,
+      "retiroH": 43,
+      "cab": 65,
+      "zoc": 65,
+      "entrante": 12.5,
+      "montante": 66,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        }
+      ]
+    },
+    "ALFA/CORREDIZA 3H 3G ZOCALO ALTO VS": {
+      "familia": "corr90",
+      "marco": 41,
+      "marcoH": 53.4,
+      "retiro": 30.6,
+      "retiroH": 43,
+      "cab": 65,
+      "zoc": 110,
+      "entrante": 12.5,
+      "montante": 66,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        }
+      ]
+    },
+    "ALFA/CORREDIZA 4H E/CENTRAL DVH": {
+      "familia": "corr90",
+      "marco": 40,
+      "marcoH": 53,
+      "retiro": 30,
+      "retiroH": 43,
+      "cab": 65,
+      "zoc": 65,
+      "entrante": 12.5,
+      "montante": 66,
+      "tope": 6,
+      "hojas": 4,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        }
+      ]
+    },
+    "ALFA/CORREDIZA 4H E/CENTRAL VS": {
+      "familia": "corr90",
+      "marco": 40,
+      "marcoH": 53,
+      "retiro": 30,
+      "retiroH": 43,
+      "cab": 65,
+      "zoc": 65,
+      "entrante": 12.5,
+      "montante": 66,
+      "tope": 6,
+      "hojas": 4,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        },
+        {
+          "izq": 66,
+          "der": 66
+        }
+      ]
+    },
+    "ATLANTICA/CORREDIZA 2H": {
+      "familia": "corr90",
+      "marco": 38,
+      "marcoH": 50.5,
+      "retiro": 28.5,
+      "retiroH": 41,
+      "cab": 70,
+      "zoc": 70,
+      "entrante": 12.5,
+      "montante": 70,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        }
+      ]
+    },
+    "ATLANTICA/CORREDIZA 2H ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 38,
+      "marcoH": 50.5,
+      "retiro": 28.5,
+      "retiroH": 41,
+      "cab": 70,
+      "zoc": 115,
+      "entrante": 12.5,
+      "montante": 70,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        }
+      ]
+    },
+    "ATLANTICA/CORREDIZA 3H": {
+      "familia": "corr90",
+      "marco": 38,
+      "marcoH": 50.5,
+      "retiro": 28.5,
+      "retiroH": 41,
+      "cab": 70,
+      "zoc": 70,
+      "entrante": 12.5,
+      "montante": 70,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        }
+      ]
+    },
+    "ATLANTICA/CORREDIZA 3H E/2 GUIAS": {
+      "familia": "corr90",
+      "marco": 38,
+      "marcoH": 50.5,
+      "retiro": 28.5,
+      "retiroH": 41,
+      "cab": 70,
+      "zoc": 70,
+      "entrante": 12.5,
+      "montante": 70,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        }
+      ]
+    },
+    "ATLANTICA/CORREDIZA 3H E/2 GUIAS ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 38,
+      "marcoH": 50.5,
+      "retiro": 28.5,
+      "retiroH": 41,
+      "cab": 70,
+      "zoc": 115,
+      "entrante": 12.5,
+      "montante": 70,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        }
+      ]
+    },
+    "ATLANTICA/CORREDIZA 3H ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 38,
+      "marcoH": 50.5,
+      "retiro": 28.5,
+      "retiroH": 41,
+      "cab": 70,
+      "zoc": 115,
+      "entrante": 12.5,
+      "montante": 70,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        }
+      ]
+    },
+    "ATLANTICA/CORREDIZA 4H E/ CENTRAL": {
+      "familia": "corr90",
+      "marco": 38,
+      "marcoH": 50.5,
+      "retiro": 28.5,
+      "retiroH": 41,
+      "cab": 70,
+      "zoc": 70,
+      "entrante": 12.5,
+      "montante": 70,
+      "tope": 5,
+      "hojas": 4,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        }
+      ]
+    },
+    "ATLANTICA/CORREDIZA 4H E/ CENTRAL ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 38,
+      "marcoH": 50.5,
+      "retiro": 28.5,
+      "retiroH": 41,
+      "cab": 70,
+      "zoc": 115,
+      "entrante": 12.5,
+      "montante": 70,
+      "tope": 5,
+      "hojas": 4,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        },
+        {
+          "izq": 70,
+          "der": 70
+        }
+      ]
+    },
+    "DELTA/CORREDIZA 2H DVH": {
+      "familia": "corr90",
+      "marco": 36,
+      "marcoH": 49,
+      "retiro": 26.5,
+      "retiroH": 39.5,
+      "cab": 55,
+      "zoc": 55,
+      "entrante": 10,
+      "montante": 37.5,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 52.5,
+          "der": 37.5
+        },
+        {
+          "izq": 37.5,
+          "der": 52.5
+        }
+      ]
+    },
+    "DELTA/CORREDIZA 2H VS": {
+      "familia": "corr90",
+      "marco": 36,
+      "marcoH": 49,
+      "retiro": 26.5,
+      "retiroH": 39.5,
+      "cab": 55,
+      "zoc": 55,
+      "entrante": 10,
+      "montante": 37.5,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 52.5,
+          "der": 37.5
+        },
+        {
+          "izq": 37.5,
+          "der": 52.5
+        }
+      ]
+    },
+    "DELTA/CORREDIZA 2H ZOCALO ALTO DVH": {
+      "familia": "corr90",
+      "marco": 36,
+      "marcoH": 49,
+      "retiro": 26.5,
+      "retiroH": 39.5,
+      "cab": 55,
+      "zoc": 110,
+      "entrante": 10,
+      "montante": 37.5,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 52.5,
+          "der": 37.5
+        },
+        {
+          "izq": 37.5,
+          "der": 52.5
+        }
+      ]
+    },
+    "DELTA/CORREDIZA 2H ZOCALO ALTO VS": {
+      "familia": "corr90",
+      "marco": 36,
+      "marcoH": 49,
+      "retiro": 26.5,
+      "retiroH": 39.5,
+      "cab": 55,
+      "zoc": 110,
+      "entrante": 10,
+      "montante": 37.5,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 52.5,
+          "der": 37.5
+        },
+        {
+          "izq": 37.5,
+          "der": 52.5
+        }
+      ]
+    },
+    "DELTA/CORREDIZA 3H 3G DVH": {
+      "familia": "corr90",
+      "marco": 36,
+      "marcoH": 49,
+      "retiro": 26.5,
+      "retiroH": 39.5,
+      "cab": 55,
+      "zoc": 55,
+      "entrante": 10,
+      "montante": 37.5,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 52.5,
+          "der": 37.5
+        },
+        {
+          "izq": 37.5,
+          "der": 37.5
+        },
+        {
+          "izq": 37.5,
+          "der": 52.5
+        }
+      ]
+    },
+    "DELTA/CORREDIZA 4H E/ CENTRAL DVH": {
+      "familia": "corr90",
+      "marco": 36,
+      "marcoH": 49,
+      "retiro": 26.5,
+      "retiroH": 39.5,
+      "cab": 55,
+      "zoc": 55,
+      "entrante": 10,
+      "montante": 37.5,
+      "tope": 5,
+      "hojas": 4,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 52.5,
+          "der": 37.5
+        },
+        {
+          "izq": 52.5,
+          "der": 37.5
+        },
+        {
+          "izq": 37.5,
+          "der": 52.5
+        },
+        {
+          "izq": 37.5,
+          "der": 52.5
+        }
+      ]
+    },
+    "DELTA/CORREDIZA 4H E/ CENTRAL VS": {
+      "familia": "corr90",
+      "marco": 36,
+      "marcoH": 49,
+      "retiro": 26.5,
+      "retiroH": 39.5,
+      "cab": 55,
+      "zoc": 55,
+      "entrante": 10,
+      "montante": 37.5,
+      "tope": 5,
+      "hojas": 4,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 52.5,
+          "der": 37.5
+        },
+        {
+          "izq": 52.5,
+          "der": 37.5
+        },
+        {
+          "izq": 37.5,
+          "der": 52.5
+        },
+        {
+          "izq": 37.5,
+          "der": 52.5
+        }
+      ]
+    },
+    "DELTA/CORREDIZA 4H E/ CENTRAL ZOCALO ALTO DVH": {
+      "familia": "corr90",
+      "marco": 36,
+      "marcoH": 49,
+      "retiro": 26.5,
+      "retiroH": 39.5,
+      "cab": 55,
+      "zoc": 110,
+      "entrante": 10,
+      "montante": 37.5,
+      "tope": 5,
+      "hojas": 4,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 52.5,
+          "der": 37.5
+        },
+        {
+          "izq": 52.5,
+          "der": 37.5
+        },
+        {
+          "izq": 37.5,
+          "der": 52.5
+        },
+        {
+          "izq": 37.5,
+          "der": 52.5
+        }
+      ]
+    },
+    "DELTA/CORREDIZA 4H E/ CENTRAL ZOCALO ALTO VS": {
+      "familia": "corr90",
+      "marco": 36,
+      "marcoH": 49,
+      "retiro": 26.5,
+      "retiroH": 39.5,
+      "cab": 55,
+      "zoc": 110,
+      "entrante": 10,
+      "montante": 37.5,
+      "tope": 5,
+      "hojas": 4,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 52.5,
+          "der": 37.5
+        },
+        {
+          "izq": 52.5,
+          "der": 37.5
+        },
+        {
+          "izq": 37.5,
+          "der": 52.5
+        },
+        {
+          "izq": 37.5,
+          "der": 52.5
+        }
+      ]
+    },
+    "NIZA/CORREDIZA 2H N3 DVH 28": {
+      "familia": "corr90",
+      "marco": 43,
+      "marcoH": 48,
+      "retiro": 33.8,
+      "retiroH": 38.8,
+      "cab": 65,
+      "zoc": 65,
+      "entrante": 12.5,
+      "montante": 40,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 40
+        },
+        {
+          "izq": 40,
+          "der": 53
+        }
+      ]
+    },
+    "NIZA/CORREDIZA 2H N3 DVH 28 CABEZAL/ ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 43,
+      "marcoH": 48,
+      "retiro": 33.8,
+      "retiroH": 38.8,
+      "cab": 110,
+      "zoc": 110,
+      "entrante": 12.5,
+      "montante": 40,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 40
+        },
+        {
+          "izq": 40,
+          "der": 53
+        }
+      ]
+    },
+    "NIZA/CORREDIZA 2H N3 DVH 28 ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 43,
+      "marcoH": 48,
+      "retiro": 33.8,
+      "retiroH": 38.8,
+      "cab": 65,
+      "zoc": 110,
+      "entrante": 12.5,
+      "montante": 40,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 40
+        },
+        {
+          "izq": 40,
+          "der": 53
+        }
+      ]
+    },
+    "NIZA/CORREDIZA 2H N3 DVH 34": {
+      "familia": "corr90",
+      "marco": 43,
+      "marcoH": 48,
+      "retiro": 33.8,
+      "retiroH": 38.8,
+      "cab": 65,
+      "zoc": 65,
+      "entrante": 12.5,
+      "montante": 40,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 40
+        },
+        {
+          "izq": 40,
+          "der": 53
+        }
+      ]
+    },
+    "NIZA/CORREDIZA 2H N3 DVH 34 ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 43,
+      "marcoH": 48,
+      "retiro": 33.8,
+      "retiroH": 38.8,
+      "cab": 65,
+      "zoc": 110,
+      "entrante": 12.5,
+      "montante": 40,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 40
+        },
+        {
+          "izq": 40,
+          "der": 53
+        }
+      ]
+    },
+    "NIZA/CORREDIZA 2H N3 VS": {
+      "familia": "corr90",
+      "marco": 43,
+      "marcoH": 48,
+      "retiro": 33.8,
+      "retiroH": 38.8,
+      "cab": 65,
+      "zoc": 65,
+      "entrante": 12.5,
+      "montante": 40,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 40
+        },
+        {
+          "izq": 40,
+          "der": 53
+        }
+      ]
+    },
+    "NIZA/CORREDIZA 2H N3 VS ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 43,
+      "marcoH": 48,
+      "retiro": 33.8,
+      "retiroH": 38.8,
+      "cab": 65,
+      "zoc": 110,
+      "entrante": 12.5,
+      "montante": 40,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 40
+        },
+        {
+          "izq": 40,
+          "der": 53
+        }
+      ]
+    },
+    "NIZA/CORREDIZA 3H E/2G N3 DVH 28 ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 43,
+      "marcoH": 48,
+      "retiro": 33.8,
+      "retiroH": 38.8,
+      "cab": 65,
+      "zoc": 110,
+      "entrante": 12.5,
+      "montante": 40,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 40
+        },
+        {
+          "izq": 40,
+          "der": 40
+        },
+        {
+          "izq": 40,
+          "der": 53
+        }
+      ]
+    },
+    "NIZA/CORREDIZA 3H E/2G N3 VS ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 43,
+      "marcoH": 48,
+      "retiro": 33.8,
+      "retiroH": 38.8,
+      "cab": 65,
+      "zoc": 110,
+      "entrante": 12.5,
+      "montante": 40,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 40
+        },
+        {
+          "izq": 40,
+          "der": 40
+        },
+        {
+          "izq": 40,
+          "der": 53
+        }
+      ]
+    }
+  }
+}
