@@ -22,7 +22,7 @@
       "DescripcionPerfil": "UMBRAL / DINTEL MARCO CORREDIZA 2 GU\u00CDAS",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A",
+      "FormulaMedida": "A-50",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -31,7 +31,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -40,7 +40,7 @@
       "DescripcionPerfil": "JAMBA MARCO CORREDIZA 2 GU\u00CDAS",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-50",
+      "FormulaMedida": "H",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -49,7 +49,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
