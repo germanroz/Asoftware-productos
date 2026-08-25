@@ -8,9 +8,12 @@
   "Descripcion": "CORREDIZA 4H N5 VS",
   "EspesorMin": 4,
   "EspesorMax": 8,
-  "Orden": 0,
+  "Orden": 1,
   "VarianteAccesorios": "kit_4h_multiguia.mul",
   "FormaCorrediza": 1,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -28,7 +31,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -64,7 +67,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
