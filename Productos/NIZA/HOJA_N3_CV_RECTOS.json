@@ -1,0 +1,273 @@
+{
+  "Id": 0,
+  "Nombre": "HOJA N3 CV RECTOS",
+  "LineaId": 4,
+  "LineaNombre": "NIZA",
+  "TipoAberturaId": 13,
+  "TipoAberturaNombre": "HOJA",
+  "Descripcion": "HOJA derivada de REBATIR_N3_CV_RECTOS (se inserta en un paño; el marco lo aporta el contenedor). REVISAR: descuento de vidrio, solape de marco y el goterón 2000.",
+  "EspesorMin": 6,
+  "EspesorMax": 30,
+  "Orden": 0,
+  "VarianteAccesorios": "",
+  "SolapeMarco": 23.2,
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "EntreEjes": 1000,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2080",
+      "DescripcionPerfil": "",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2080",
+      "DescripcionPerfil": "",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2050",
+      "DescripcionPerfil": "",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-91",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2050",
+      "DescripcionPerfil": "",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-135",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2000",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-75",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80470",
+      "DescripcionAccesorio": "ESCUADRA A30/ALFA E-83 MONTICELLI",
+      "FormulaCantidad": "8",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "93190",
+      "DescripcionAccesorio": "BURLETE DE HERMETICIDAD B-74 EPDM",
+      "FormulaCantidad": "((A+H)*2)/1000",
+      "Unidad": "ROLLO X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89060",
+      "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
+      "FormulaCantidad": "((A+H)*2)/1000",
+      "Unidad": "ROLLO X 150"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A-110",
+      "FormulaAlto": "H-110",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "ConContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 3,
+        "EspesorMax": 4,
+        "ContravidrioCodigo": "2050",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 37 MM",
+        "ContravidrioAjuste": -37,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82090"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 5,
+        "EspesorMax": 6,
+        "ContravidrioCodigo": "2050",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 37 MM",
+        "ContravidrioAjuste": -37,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 7,
+        "EspesorMax": 8,
+        "ContravidrioCodigo": "2050",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 37 MM",
+        "ContravidrioAjuste": -37,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 16,
+        "EspesorMax": 17,
+        "ContravidrioCodigo": "2060",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 19 MM",
+        "ContravidrioAjuste": -19,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82020"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 18,
+        "EspesorMax": 19,
+        "ContravidrioCodigo": "2060",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 19 MM",
+        "ContravidrioAjuste": -19,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 20,
+        "EspesorMax": 21,
+        "ContravidrioCodigo": "2060",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 19 MM",
+        "ContravidrioAjuste": -19,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 22,
+        "EspesorMax": 23,
+        "ContravidrioCodigo": "2060",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 19 MM",
+        "ContravidrioAjuste": -19,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82090"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 24,
+        "EspesorMax": 25,
+        "ContravidrioCodigo": "2090",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 12 MM",
+        "ContravidrioAjuste": -12,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82020"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 26,
+        "EspesorMax": 27,
+        "ContravidrioCodigo": "2090",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 12 MM",
+        "ContravidrioAjuste": -12,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 28,
+        "EspesorMax": 29,
+        "ContravidrioCodigo": "2090",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 12 MM",
+        "ContravidrioAjuste": -12,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 30,
+        "EspesorMax": 31,
+        "ContravidrioCodigo": "2090",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 12 MM",
+        "ContravidrioAjuste": -12,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82090"
+      }
+    ]
+  }
+}

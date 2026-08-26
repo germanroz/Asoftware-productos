@@ -1,21 +1,25 @@
 {
   "Id": 0,
-  "Nombre": "PAÑO FIJO RECTO CV CURVOS",
-  "LineaId": 734,
-  "LineaNombre": "ALFA",
-  "TipoAberturaId": 1,
-  "TipoAberturaNombre": "PAÑO FIJO",
-  "Descripcion": "PAÑO FIJO RECTO CV CURVOS",
+  "Nombre": "HOJA N3 CV CURVOS",
+  "LineaId": 4,
+  "LineaNombre": "NIZA",
+  "TipoAberturaId": 13,
+  "TipoAberturaNombre": "HOJA",
+  "Descripcion": "HOJA derivada de REBATIR_N3_CV_CURVOS (se inserta en un paño; el marco lo aporta el contenedor). REVISAR: descuento de vidrio, solape de marco y el goterón 2000.",
   "EspesorMin": 6,
-  "EspesorMax": 32,
+  "EspesorMax": 30,
   "Orden": 0,
+  "VarianteAccesorios": "",
+  "SolapeMarco": 23.2,
   "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "2680",
-      "DescripcionPerfil": "MARCO PAÑO FIJO / VENTANA DE ABRIR",
+      "CodigoPerfil": "2080",
+      "DescripcionPerfil": "",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A",
@@ -24,15 +28,16 @@
       "AnguloCorte": 90,
       "Orientacion": "H",
       "TipoPerfil": "Perfil",
-      "GalceBase": 48,
+      "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "2680",
-      "DescripcionPerfil": "MARCO PAÑO FIJO / VENTANA DE ABRIR",
+      "CodigoPerfil": "2080",
+      "DescripcionPerfil": "",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H",
@@ -41,18 +46,19 @@
       "AnguloCorte": 90,
       "Orientacion": "V",
       "TipoPerfil": "Perfil",
-      "GalceBase": 48,
+      "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
       "ProductoId": 0,
       "CodigoPerfil": "1930",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO P/VIDRIO SIMPLE",
+      "DescripcionPerfil": "",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A-58",
+      "FormulaMedida": "A-91",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -60,16 +66,17 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
       "ProductoId": 0,
       "CodigoPerfil": "1930",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO P/VIDRIO SIMPLE",
+      "DescripcionPerfil": "",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-58",
+      "FormulaMedida": "H-91",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -77,6 +84,25 @@
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "2000",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-75",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],
@@ -86,7 +112,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "80470",
       "DescripcionAccesorio": "ESCUADRA A30/ALFA E-83 MONTICELLI",
-      "FormulaCantidad": "4",
+      "FormulaCantidad": "8",
       "Unidad": "UNIDAD"
     },
     {
@@ -94,8 +120,24 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89160",
       "DescripcionAccesorio": "CLIP P/CONTRAVIDRIO T-96 O 5096(BOLSA X 100 U)",
-      "FormulaCantidad": "((A+H)/200)*2",
+      "FormulaCantidad": "((A+H)*2)/250",
       "Unidad": "BOLSA X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "93190",
+      "DescripcionAccesorio": "BURLETE DE HERMETICIDAD B-74 EPDM",
+      "FormulaCantidad": "((A+H)*2)/1000",
+      "Unidad": "ROLLO X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89060",
+      "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
+      "FormulaCantidad": "((A+H)*2)/1000",
+      "Unidad": "ROLLO X 150"
     }
   ],
   "Vidrios": [
@@ -104,8 +146,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-77",
-      "FormulaAlto": "H-77",
+      "FormulaAncho": "A-110",
+      "FormulaAlto": "H-110",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
@@ -116,8 +158,19 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 6,
-        "EspesorMax": 7,
+        "EspesorMin": 3,
+        "EspesorMax": 4,
+        "ContravidrioCodigo": "1930",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/VIDRIO SIMPLE",
+        "ContravidrioAjuste": -37,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82090"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 5,
+        "EspesorMax": 6,
         "ContravidrioCodigo": "1930",
         "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/VIDRIO SIMPLE",
         "ContravidrioAjuste": -37,
@@ -127,13 +180,24 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 8,
-        "EspesorMax": 9,
+        "EspesorMin": 7,
+        "EspesorMax": 8,
         "ContravidrioCodigo": "1930",
         "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/VIDRIO SIMPLE",
         "ContravidrioAjuste": -37,
         "BurleteCodigo1": "89130",
-        "BurleteCodigo2": "82090"
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 16,
+        "EspesorMax": 17,
+        "ContravidrioCodigo": "1940",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/DVH",
+        "ContravidrioAjuste": -19,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82020"
       },
       {
         "Id": 0,
@@ -144,7 +208,7 @@
         "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/DVH",
         "ContravidrioAjuste": -19,
         "BurleteCodigo1": "89130",
-        "BurleteCodigo2": "82200"
+        "BurleteCodigo2": "82110"
       },
       {
         "Id": 0,
@@ -155,7 +219,7 @@
         "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/DVH",
         "ContravidrioAjuste": -19,
         "BurleteCodigo1": "89130",
-        "BurleteCodigo2": "82110"
+        "BurleteCodigo2": "82100"
       },
       {
         "Id": 0,
@@ -166,35 +230,24 @@
         "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/DVH",
         "ContravidrioAjuste": -19,
         "BurleteCodigo1": "89130",
-        "BurleteCodigo2": "82100"
-      },
-      {
-        "Id": 0,
-        "ProductoId": 0,
-        "EspesorMin": 24,
-        "EspesorMax": 24,
-        "ContravidrioCodigo": "1940",
-        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/DVH",
-        "ContravidrioAjuste": -19,
-        "BurleteCodigo1": "89130",
         "BurleteCodigo2": "82090"
       },
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 25,
-        "EspesorMax": 26,
+        "EspesorMin": 24,
+        "EspesorMax": 25,
         "ContravidrioCodigo": "1950",
         "ContravidrioDescripcion": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
         "ContravidrioAjuste": -12,
         "BurleteCodigo1": "89130",
-        "BurleteCodigo2": "82200"
+        "BurleteCodigo2": "82020"
       },
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 27,
-        "EspesorMax": 28,
+        "EspesorMin": 26,
+        "EspesorMax": 27,
         "ContravidrioCodigo": "1950",
         "ContravidrioDescripcion": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
         "ContravidrioAjuste": -12,
@@ -204,8 +257,8 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 29,
-        "EspesorMax": 30,
+        "EspesorMin": 28,
+        "EspesorMax": 29,
         "ContravidrioCodigo": "1950",
         "ContravidrioDescripcion": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
         "ContravidrioAjuste": -12,
@@ -215,8 +268,8 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 31,
-        "EspesorMax": 32,
+        "EspesorMin": 30,
+        "EspesorMax": 31,
         "ContravidrioCodigo": "1950",
         "ContravidrioDescripcion": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
         "ContravidrioAjuste": -12,
