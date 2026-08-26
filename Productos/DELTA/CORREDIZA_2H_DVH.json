@@ -180,7 +180,7 @@
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
         "BurleteCodigo1": "82100",
-        "BurleteCodigo2": null
+        "BurleteCodigo2": "82100"
       },
       {
         "Id": 0,
@@ -191,7 +191,7 @@
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
         "BurleteCodigo1": "82090",
-        "BurleteCodigo2": null
+        "BurleteCodigo2": "82090"
       }
     ]
   }
