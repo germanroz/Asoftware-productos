@@ -46,6 +46,25 @@ PRECIOS = "Precios/accesorios.txt"
 # Archivos dados de baja: la app los borra de la maquina del cliente.
 BAJAS = "bajas.txt"
 
+# Marca de DESCARGA OBLIGATORIA del catalogo completo. Una linea con un id
+# (normalmente la fecha en que se marco). La app lo compara contra lo que ya
+# bajo ese equipo y, si difiere, obliga a bajar el paquete entero antes de
+# seguir. Publicar productos NO lo toca: solo cambia cuando se lo marca a
+# proposito desde publicar-web. Si el archivo no existe, no hay nada obligatorio.
+PAQUETE_OBLIGATORIO = "paquete-obligatorio.txt"
+
+
+def id_paquete_obligatorio():
+    """Contenido de paquete-obligatorio.txt, o "" si no esta."""
+    if not os.path.isfile(PAQUETE_OBLIGATORIO):
+        return ""
+    with open(PAQUETE_OBLIGATORIO, encoding="utf-8") as f:
+        for linea in f:
+            linea = linea.strip()
+            if linea and not linea.startswith("#"):
+                return linea
+    return ""
+
 # SHA1 del contenido vacio. `git show <commit>:<ruta>` no falla siempre de la
 # misma forma cuando la ruta no existe en ese commit, y un stdout vacio hashea
 # a esto. Publicarlo seria decirle al cliente que borre cualquier archivo
@@ -190,10 +209,13 @@ def main():
     huella_precios, fecha_precios = datos_precios()
     bajas = datos_bajas(archivos)
 
+    obligatorio = id_paquete_obligatorio()
+
     manifest = {
         "generado": date.today().isoformat(),
         "preciosAccesorios": huella_precios,
         "preciosAccesoriosFecha": fecha_precios,
+        "paqueteObligatorio": obligatorio,
         "archivos": archivos,
         "bajas": bajas,
     }
@@ -203,6 +225,7 @@ def main():
     print(f"Archivos de catalogo: {len(archivos)}")
     print(f"Productos contables (.json de Productos/): {len(contables)}")
     print(f"Bajas publicadas: {len(bajas)}")
+    print(f"Paquete obligatorio: {obligatorio or '(ninguno)'}")
     if privados:
         print(f"ATENCION: se saltearon {privados} archivos de lineas privadas "
               f"presentes en el repo publico.")
