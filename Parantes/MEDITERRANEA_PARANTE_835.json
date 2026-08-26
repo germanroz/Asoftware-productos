@@ -2,7 +2,7 @@
   "Id": 0,
   "Nombre": "PARANTE 835",
   "LineaNombre": "MEDITERRANEA",
-  "TipoProducto": "PA\u00D1O FIJO",
+  "TipoProducto": "PAÑO FIJO",
   "Posicion": 0,
   "Espesor": 24,
   "ContravidrioLadoDivisor": "",
@@ -20,5 +20,6 @@
       "AnguloCorte2": 90
     }
   ],
-  "Accesorios": []
+  "Accesorios": [],
+  "HojaLadoDivisor": "6.1"
 }

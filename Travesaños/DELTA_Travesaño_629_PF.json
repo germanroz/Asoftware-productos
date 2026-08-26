@@ -1,8 +1,8 @@
 {
   "Id": 0,
-  "Nombre": "Travesa\u00F1o 629 PF",
+  "Nombre": "Travesaño 629 PF",
   "LineaNombre": "DELTA",
-  "TipoProducto": "PA\u00D1O FIJO",
+  "TipoProducto": "PAÑO FIJO",
   "Posicion": 0,
   "Espesor": 24,
   "ContravidrioLadoDivisor": "",
@@ -20,5 +20,6 @@
       "AnguloCorte2": 90
     }
   ],
-  "Accesorios": []
+  "Accesorios": [],
+  "HojaLadoDivisor": "5.9"
 }

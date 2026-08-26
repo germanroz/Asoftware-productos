@@ -2,7 +2,7 @@
   "Id": 0,
   "Nombre": "PARANTE 6160",
   "LineaNombre": "MEDITERRANEA RPT",
-  "TipoProducto": "PA\u00D1O FIJO",
+  "TipoProducto": "PAÑO FIJO",
   "Posicion": 0,
   "Espesor": 27,
   "ContravidrioLadoDivisor": "",
@@ -20,5 +20,6 @@
       "AnguloCorte2": 90
     }
   ],
-  "Accesorios": []
+  "Accesorios": [],
+  "HojaLadoDivisor": "7.5"
 }

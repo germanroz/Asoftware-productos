@@ -1,21 +1,21 @@
 {
   "Id": 0,
-  "Nombre": "PARANTE 353",
-  "LineaNombre": "NIZA",
+  "Nombre": "TRAVESAÑO ALU6060",
+  "LineaNombre": "A30NEW",
   "TipoProducto": "PAÑO FIJO",
   "Posicion": 0,
   "Espesor": 34,
   "ContravidrioLadoDivisor": "",
-  "PerfilCodigo": "3530",
-  "PerfilDescripcion": "",
+  "PerfilCodigo": "ALU6060",
+  "PerfilDescripcion": "TRAVESAÑO PAÑO FIJO",
   "Perfiles": [
     {
-      "CodigoPerfil": "3530",
-      "DescripcionPerfil": "",
+      "CodigoPerfil": "ALU6060",
+      "DescripcionPerfil": "TRAVESAÑO PAÑO FIJO",
       "Cantidad": 1,
-      "FormulaMedida": "Alto-58",
+      "FormulaMedida": "A-58",
       "AnguloCorte": 90,
-      "Orientacion": "V",
+      "Orientacion": "H",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90
     }

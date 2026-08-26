@@ -1,8 +1,8 @@
 {
   "Id": 0,
-  "Nombre": "TRAVESA\u00D1O 353",
+  "Nombre": "TRAVESAÑO 353",
   "LineaNombre": "ALFA",
-  "TipoProducto": "PA\u00D1O FIJO",
+  "TipoProducto": "PAÑO FIJO",
   "Posicion": 0,
   "Espesor": 34,
   "ContravidrioLadoDivisor": "",
@@ -20,5 +20,6 @@
       "AnguloCorte2": 90
     }
   ],
-  "Accesorios": []
+  "Accesorios": [],
+  "HojaLadoDivisor": "10.8"
 }
