@@ -9,6 +9,11 @@
   "EspesorMin": 16,
   "EspesorMax": 16,
   "Orden": 0,
+  "VarianteAccesorios": "",
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -22,9 +27,10 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     },
     {
@@ -39,9 +45,10 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     }
   ],
@@ -51,7 +58,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "91650",
       "DescripcionAccesorio": "BURLETE APOYO VIDRIO BARANDA SPL (12556)",
-      "FormulaCantidad": "A/1000",
+      "FormulaCantidad": "(((A/250)\u002B1)*150)/1000",
       "Unidad": "BARRA X 3 MT"
     },
     {
@@ -66,7 +73,7 @@
       "Id": 0,
       "ProductoId": 0,
       "CodigoAccesorio": "91630",
-      "DescripcionAccesorio": "CU\uFFFDA PLASTICA BARANDA SPL VIDRIO 8\u002B8",
+      "DescripcionAccesorio": "CU\u00D1A PLASTICA BARANDA SPL VIDRIO 8\u002B8",
       "FormulaCantidad": "(A/250)\u002B1",
       "Unidad": "UNIDAD"
     },

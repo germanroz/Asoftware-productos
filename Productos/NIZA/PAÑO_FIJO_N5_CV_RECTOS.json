@@ -54,8 +54,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "1950",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+      "CodigoPerfil": "2060",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 19 MM",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A-60",
@@ -72,8 +72,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "1950",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+      "CodigoPerfil": "2060",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 19 MM",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H-104",

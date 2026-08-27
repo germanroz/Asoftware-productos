@@ -1,4 +1,4 @@
-﻿{
+{
   "Id": 0,
   "Nombre": "PA\u00D1O FIJO N3 CV RECTOS",
   "LineaId": 4,
@@ -8,6 +8,12 @@
   "Descripcion": "PA\u00D1O FIJO N3 CV RECTOS",
   "EspesorMin": 4,
   "EspesorMax": 32,
+  "Orden": 0,
+  "VarianteAccesorios": "",
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -15,14 +21,17 @@
       "CodigoPerfil": "2680",
       "DescripcionPerfil": "MARCO PA\u00D1O FIJO / VENTANA DE ABRIR",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "A",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -30,21 +39,25 @@
       "CodigoPerfil": "2680",
       "DescripcionPerfil": "MARCO PA\u00D1O FIJO / VENTANA DE ABRIR",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "H",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 48,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "1950",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+      "CodigoPerfil": "2060",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 19 MM",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "A-58",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
@@ -52,14 +65,17 @@
       "Orientacion": "H",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "1950",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+      "CodigoPerfil": "2060",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 19 MM",
       "Cantidad": 2,
+      "FormulaCantidad": "",
       "FormulaMedida": "H-102",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
@@ -67,7 +83,9 @@
       "Orientacion": "V",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": 0
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     }
   ],
   "Accesorios": [
@@ -85,6 +103,7 @@
       "Id": 0,
       "ProductoId": 0,
       "Cantidad": 1,
+      "FormulaCantidad": "",
       "FormulaAncho": "A-77",
       "FormulaAlto": "H-77",
       "BurleteCodigo1": "",

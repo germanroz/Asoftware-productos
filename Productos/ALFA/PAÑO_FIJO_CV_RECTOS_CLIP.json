@@ -9,7 +9,11 @@
   "EspesorMin": 4,
   "EspesorMax": 32,
   "Orden": 0,
+  "VarianteAccesorios": "",
   "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
   "Perfiles": [
     {
       "Id": 0,
@@ -26,7 +30,8 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": false
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -43,13 +48,14 @@
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
-      "EsMarcoPerimetral": false
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "1950",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+      "CodigoPerfil": "520",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO 19 MM",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A-58",
@@ -59,14 +65,15 @@
       "Orientacion": "H",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": 0,
+      "AjusteGalce": -19,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "1950",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
+      "CodigoPerfil": "520",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO 19 MM",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H-58",
@@ -76,7 +83,8 @@
       "Orientacion": "V",
       "TipoPerfil": "Contravidrio",
       "GalceBase": 0,
-      "AjusteGalce": 0,
+      "AjusteGalce": -19,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
     }
   ],
