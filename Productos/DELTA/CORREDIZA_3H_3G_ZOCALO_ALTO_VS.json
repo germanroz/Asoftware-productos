@@ -12,6 +12,7 @@
   "VarianteAccesorios": "kit_3hojas_-_r42_\u002B_h56.cor",
   "FormaCorrediza": 2,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -26,7 +27,7 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
@@ -44,7 +45,7 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
@@ -62,7 +63,7 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
@@ -80,7 +81,25 @@
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6520",
+      "DescripcionPerfil": "CABEZAL/Z\u00D3CALO HOJA CORREDIZA VS",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/3\u002B5",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
@@ -93,12 +112,30 @@
       "DescripcionPerfil": "CABEZAL/Z\u00D3CALO HOJA CORREDIZA VS",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/3-2",
+      "FormulaMedida": "A/3-9",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6600",
+      "DescripcionPerfil": "Z\u00D3CALO ALTO HOJA CORREDIZA VS",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/3\u002B5",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
@@ -111,12 +148,12 @@
       "DescripcionPerfil": "Z\u00D3CALO ALTO HOJA CORREDIZA VS",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/3-3",
+      "FormulaMedida": "A/3-9",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Marco",
+      "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
@@ -145,7 +182,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "84295",
       "DescripcionAccesorio": "TOPE PARANTE CENTRAL T-90",
-      "FormulaCantidad": "4",
+      "FormulaCantidad": "8",
       "Unidad": "CAJA X 100"
     },
     {
@@ -153,7 +190,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "84360",
       "DescripcionAccesorio": "CRUCE DE HOJA MODENA T-93(28.8MM)",
-      "FormulaCantidad": "2",
+      "FormulaCantidad": "4",
       "Unidad": "BOLSA X 16"
     },
     {
@@ -167,10 +204,42 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoAccesorio": "84340",
-      "DescripcionAccesorio": "JUNTA DE ESTANQUEDAD MARCO T-92",
+      "CodigoAccesorio": "84245",
+      "DescripcionAccesorio": "TAPON LATERAL DE CONDENSACION T-91",
       "FormulaCantidad": "4",
-      "Unidad": "CAJAX100"
+      "Unidad": "CAJA X 50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83150",
+      "DescripcionAccesorio": "FELPA 7*6 JN NEGRA ROLLO 400MTS",
+      "FormulaCantidad": "((A*4)\u002B(H*8))/1000",
+      "Unidad": "ROLLO X 400"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "84160",
+      "DescripcionAccesorio": "JUNTA ESTANQUEIDAD TRES GUIA  T-101",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSA X 50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89465",
+      "DescripcionAccesorio": "BOCA DE DESAGUE T-94/T-130 (CAJA X 100U)",
+      "FormulaCantidad": "A/500",
+      "Unidad": "CAJA X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "84230",
+      "DescripcionAccesorio": "ESCUADRA REGULABLE MARCO/HOJA E-69 MONTICELLI",
+      "FormulaCantidad": "((A*2)\u002B(H*2))/1000",
+      "Unidad": "UNIDAD"
     }
   ],
   "Vidrios": [
@@ -179,7 +248,17 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/3-55",
+      "FormulaAncho": "A/3-63",
+      "FormulaAlto": "H-224",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A/3-48",
       "FormulaAlto": "H-224",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
@@ -197,7 +276,7 @@
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
         "BurleteCodigo1": "84530",
-        "BurleteCodigo2": null
+        "BurleteCodigo2": "84530"
       },
       {
         "Id": 0,
@@ -208,7 +287,7 @@
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
         "BurleteCodigo1": "84530",
-        "BurleteCodigo2": null
+        "BurleteCodigo2": "84530"
       },
       {
         "Id": 0,
@@ -219,7 +298,7 @@
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
         "BurleteCodigo1": "84530",
-        "BurleteCodigo2": null
+        "BurleteCodigo2": "84530"
       }
     ]
   }

@@ -67,6 +67,13 @@
       "DescripcionAccesorio": "CLIP CONTRAMARCO T-87",
       "FormulaCantidad": "((A\u002BH)/350)*2",
       "Unidad": "CAJAX100"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "84440",
+      "DescripcionAccesorio": "BURLETE GOMA B-52",
+      "FormulaCantidad": "(A\u002B(H*2))/1000",
+      "Unidad": "ROLLOX100"
     }
   ]
 }

@@ -8,10 +8,11 @@
   "Descripcion": "REBATIR 2 HOJAS RECTAS CV CURVOS",
   "EspesorMin": 4,
   "EspesorMax": 29,
-  "Orden": 0,
+  "Orden": 5,
   "VarianteAccesorios": "kit_rebatir_2_hojas.default",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
   "Perfiles": [
     {
@@ -173,6 +174,14 @@
       "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
       "FormulaCantidad": "((A*2)\u002B(H*4))/1000",
       "Unidad": "ROLLO X 150"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89140",
+      "DescripcionAccesorio": "BURLETE GABI III (B-67) (ROLLO X 100 MT) EPDM",
+      "FormulaCantidad": "((A*2)\u002B(H*4))/1000",
+      "Unidad": "ROLLOX100"
     }
   ],
   "Vidrios": [

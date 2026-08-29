@@ -1,43 +1,44 @@
-﻿{
-    "Id":  2,
-    "Nombre":  "CONTRAMARCO PARA PUERTA 709",
-    "LineaNombre":  "TRADICIONAL",
-    "Perfiles":  [
-                     {
-                         "Id":  0,
-                         "CodigoPerfil":  "7090",
-                         "DescripcionPerfil":  "",
-                         "Cantidad":  1,
-                         "FormulaMedida":  "A+50",
-                         "AnguloCorte":  45,
-                         "AnguloCorte1":  45,
-                         "AnguloCorte2":  45,
-                         "Orientacion":  "H"
-                     },
-                     {
-                         "Id":  0,
-                         "CodigoPerfil":  "7090",
-                         "DescripcionPerfil":  "",
-                         "Cantidad":  1,
-                         "FormulaMedida":  "H+25",
-                         "AnguloCorte":  45,
-                         "AnguloCorte1":  45,
-                         "AnguloCorte2":  90,
-                         "Orientacion":  "V"
-                     },
-                     {
-                         "Id":  0,
-                         "CodigoPerfil":  "7090",
-                         "DescripcionPerfil":  "",
-                         "Cantidad":  1,
-                         "FormulaMedida":  "H+25",
-                         "AnguloCorte":  45,
-                         "AnguloCorte1":  90,
-                         "AnguloCorte2":  45,
-                         "Orientacion":  "V"
-                     }
-                 ],
-    "Accesorios":  [
-
-                   ]
+{
+  "Id": 2,
+  "Nombre": "CONTRAMARCO PARA PUERTA 709",
+  "LineaNombre": "TRADICIONAL",
+  "Lineas": [
+    "TRADICIONAL"
+  ],
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "7090",
+      "DescripcionPerfil": "Contramarco Curvo de 30 mm",
+      "Cantidad": 1,
+      "FormulaMedida": "A\u002B50",
+      "AnguloCorte": 45,
+      "Orientacion": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "7090",
+      "DescripcionPerfil": "Contramarco Curvo de 30 mm",
+      "Cantidad": 1,
+      "FormulaMedida": "H\u002B25",
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 90
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "7090",
+      "DescripcionPerfil": "Contramarco Curvo de 30 mm",
+      "Cantidad": 1,
+      "FormulaMedida": "H\u002B25",
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 45
+    }
+  ],
+  "Accesorios": []
 }

@@ -45,6 +45,13 @@
       "DescripcionAccesorio": "CLIP CONTRAMARCO T-87",
       "FormulaCantidad": "((A\u002BH)/350)*2",
       "Unidad": "CAJAX100"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "84400",
+      "DescripcionAccesorio": "BURLETE TAPA PREMARCO B-57 EPDM",
+      "FormulaCantidad": "((A*2)\u002B(H*2))/1000",
+      "Unidad": "ROLLOX100"
     }
   ]
 }

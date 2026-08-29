@@ -148,6 +148,22 @@
       "DescripcionAccesorio": "ESCUADRA HOJA PUERTA E-70 MONTICELLI",
       "FormulaCantidad": "4",
       "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89060",
+      "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
+      "FormulaCantidad": "((A*2)\u002B(H*2))/1000",
+      "Unidad": "ROLLO X 150"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89140",
+      "DescripcionAccesorio": "BURLETE GABI III (B-67) (ROLLO X 100 MT) EPDM",
+      "FormulaCantidad": "((A*2)\u002B(H*2))/1000",
+      "Unidad": "ROLLOX100"
     }
   ],
   "Vidrios": [

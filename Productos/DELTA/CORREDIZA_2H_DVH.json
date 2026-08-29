@@ -154,6 +154,38 @@
       "DescripcionAccesorio": "JUNTA DE ESTANQUEDAD MARCO T-92",
       "FormulaCantidad": "4",
       "Unidad": "CAJAX100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "84245",
+      "DescripcionAccesorio": "TAPON LATERAL DE CONDENSACION T-91",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJA X 50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83150",
+      "DescripcionAccesorio": "FELPA 7*6 JN NEGRA ROLLO 400MTS",
+      "FormulaCantidad": "((A*4)\u002B(H*6))/1000",
+      "Unidad": "ROLLO X 400"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89465",
+      "DescripcionAccesorio": "BOCA DE DESAGUE T-94/T-130 (CAJA X 100U)",
+      "FormulaCantidad": "A/500",
+      "Unidad": "CAJA X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "84320",
+      "DescripcionAccesorio": "BURLETE DE HERMETICIDAD MARCO/PRE. B-69 EPDM",
+      "FormulaCantidad": "((A*2)\u002B(H*2))/1000",
+      "Unidad": "ROLLOX100"
     }
   ],
   "Vidrios": [

@@ -8,13 +8,22 @@
       "CodigoAccesorio": "87735",
       "Cantidad": 1,
       "Modelo": "",
-      "Obligatorio": true
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
     },
     {
       "CodigoAccesorio": "82365",
       "Cantidad": 2,
       "Modelo": "",
-      "Obligatorio": true
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "84430",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
     }
   ]
 }

@@ -38,6 +38,20 @@
       "DescripcionAccesorio": "ESC. P/CONTRAMARCO (E-66 \u0026 5066) (BOLSA X 100U)",
       "FormulaCantidad": "4",
       "Unidad": "BOLSAX100"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "84400",
+      "DescripcionAccesorio": "BURLETE TAPA PREMARCO B-57 EPDM",
+      "FormulaCantidad": "((A*2)\u002B(H*2))/1000",
+      "Unidad": "ROLLOX100"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "84260",
+      "DescripcionAccesorio": "CLIP CONTRAMARCO T-87",
+      "FormulaCantidad": "A/200",
+      "Unidad": "CAJAX100"
     }
   ]
 }

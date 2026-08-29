@@ -9,7 +9,7 @@
   "EspesorMin": 4,
   "EspesorMax": 29,
   "Orden": 0,
-  "VarianteAccesorios": "",
+  "VarianteAccesorios": "kit_h52_\u002B_h61.ban",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
@@ -140,6 +140,22 @@
       "DescripcionAccesorio": "CLIP P/CONTRAVIDRIO T-96 O 5096(BOLSA X 100 U)",
       "FormulaCantidad": "((A\u002BH)/200)*2",
       "Unidad": "BOLSA X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89060",
+      "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
+      "FormulaCantidad": "((A*2)\u002B(H*2))/1000",
+      "Unidad": "ROLLO X 150"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89140",
+      "DescripcionAccesorio": "BURLETE GABI III (B-67) (ROLLO X 100 MT) EPDM",
+      "FormulaCantidad": "((A*2)\u002B(H*2))/1000",
+      "Unidad": "ROLLOX100"
     }
   ],
   "Vidrios": [
