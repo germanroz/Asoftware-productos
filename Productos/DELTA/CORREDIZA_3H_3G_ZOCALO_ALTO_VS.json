@@ -236,10 +236,10 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoAccesorio": "84230",
-      "DescripcionAccesorio": "ESCUADRA REGULABLE MARCO/HOJA E-69 MONTICELLI",
+      "CodigoAccesorio": "84320",
+      "DescripcionAccesorio": "BURLETE DE HERMETICIDAD MARCO/PRE. B-69 EPDM",
       "FormulaCantidad": "((A*2)\u002B(H*2))/1000",
-      "Unidad": "UNIDAD"
+      "Unidad": "ROLLOX100"
     }
   ],
   "Vidrios": [
