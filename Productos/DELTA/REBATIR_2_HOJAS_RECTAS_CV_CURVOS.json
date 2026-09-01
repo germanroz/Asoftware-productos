@@ -90,8 +90,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "6960",
-      "DescripcionPerfil": "Hoja Curva VB/VR/VOB Doble Contacto",
+      "CodigoPerfil": "6950",
+      "DescripcionPerfil": "Hoja Recta VB/VR/VOB Doble Contacto",
       "Cantidad": 4,
       "FormulaCantidad": "",
       "FormulaMedida": "A/2-23",
@@ -126,8 +126,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "6950",
-      "DescripcionPerfil": "Hoja Recta VB/VR/VOB Doble Contacto",
+      "CodigoPerfil": "6940",
+      "DescripcionPerfil": "Inversor Hoja Doble Contacto",
       "Cantidad": 1,
       "FormulaCantidad": "",
       "FormulaMedida": "H-94",
