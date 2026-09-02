@@ -1,0 +1,236 @@
+{
+  "Id": 0,
+  "Nombre": "PA\u00D1O FIJO",
+  "LineaId": 920340,
+  "LineaNombre": "MONACO RPT",
+  "TipoAberturaId": 1,
+  "TipoAberturaNombre": "PA\u00D1O FIJO",
+  "Descripcion": "PA\u00D1O FIJO",
+  "EspesorMin": 17,
+  "EspesorMax": 35,
+  "Orden": 0,
+  "VarianteAccesorios": "",
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "68380",
+      "DescripcionPerfil": "Marco PF/VB/VR/VOB M\u00F3n. RPT 15",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "RPT",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "68380",
+      "DescripcionPerfil": "Marco PF/VB/VR/VOB M\u00F3n. RPT 15",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "RPT",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "3800",
+      "DescripcionPerfil": "Contravidrio Curvo de 28mm",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-63",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "3800",
+      "DescripcionPerfil": "Contravidrio Curvo de 28mm",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-63",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "94030",
+      "DescripcionAccesorio": "ESCUADRA MARCO-HOJA( E-08) MONTICELLI",
+      "FormulaCantidad": "4",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89160",
+      "DescripcionAccesorio": "CLIP P/CONTRAVIDRIO T-96 O 5096(BOLSA X 100 U)",
+      "FormulaCantidad": "((A*2)\u002B(H*2))/200",
+      "Unidad": "BOLSA X 100"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A-70",
+      "FormulaAlto": "H-70",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "ConContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 17,
+        "EspesorMax": 18,
+        "ContravidrioCodigo": "6980",
+        "ContravidrioDescripcion": "Contravidrio Curvo de 23.5 mm",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82200"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 19,
+        "EspesorMax": 20,
+        "ContravidrioCodigo": "6980",
+        "ContravidrioDescripcion": "Contravidrio Curvo de 23.5 mm",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 20,
+        "EspesorMax": 21,
+        "ContravidrioCodigo": "5250",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 20 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82200"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 22,
+        "EspesorMax": 23,
+        "ContravidrioCodigo": "5250",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 20 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 24,
+        "EspesorMax": 25,
+        "ContravidrioCodigo": "5230",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 16 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82200"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 26,
+        "EspesorMax": 27,
+        "ContravidrioCodigo": "5230",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 16 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 28,
+        "EspesorMax": 29,
+        "ContravidrioCodigo": "7050",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 11 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82200"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 30,
+        "EspesorMax": 31,
+        "ContravidrioCodigo": "7050",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 11 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 32,
+        "EspesorMax": 33,
+        "ContravidrioCodigo": "5260",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 8 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82200"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 34,
+        "EspesorMax": 35,
+        "ContravidrioCodigo": "5260",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 8 MM",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      }
+    ]
+  }
+}
