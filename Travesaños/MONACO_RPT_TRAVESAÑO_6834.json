@@ -1,0 +1,33 @@
+{
+  "Id": 0,
+  "Nombre": "TRAVESAÑO 6834",
+  "LineaNombre": "MONACO RPT",
+  "TipoProducto": "PAÑO FIJO",
+  "Posicion": 0,
+  "Espesor": 27,
+  "ContravidrioLadoDivisor": "",
+  "PerfilCodigo": "68340",
+  "PerfilDescripcion": "",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "68340",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "A-71",
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "CodigoAccesorio": "83680",
+      "DescripcionAccesorio": "TORNILLO 10 X 38 (T-001) (CAJA X 1000 U.)",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJA X 1000"
+    }
+  ],
+  "HojaLadoDivisor": "7.5"
+}
