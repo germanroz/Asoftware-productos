@@ -8,12 +8,14 @@
   "Descripcion": "CORREDIZA 4H E/2 GUIAS VS",
   "EspesorMin": 4,
   "EspesorMax": 10,
-  "Orden": 1,
+  "Orden": 10,
   "VarianteAccesorios": "kit_4h_.cor",
   "FormaCorrediza": 2,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,

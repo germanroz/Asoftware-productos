@@ -1,15 +1,15 @@
 {
   "Id": 0,
-  "Nombre": "CORREDIZA 2H DVH",
+  "Nombre": "CORREDIZA 3H 2G VS",
   "LineaId": 2,
   "LineaNombre": "DELTA",
   "TipoAberturaId": 3,
   "TipoAberturaNombre": "CORREDIZA",
-  "Descripcion": "CORREDIZA 2H DVH",
-  "EspesorMin": 17,
-  "EspesorMax": 19,
-  "Orden": 0,
-  "VarianteAccesorios": "kit_corrediza_r42_\u002B_h56.cor",
+  "Descripcion": "CORREDIZA 3H 2G VS",
+  "EspesorMin": 4,
+  "EspesorMax": 10,
+  "Orden": 8,
+  "VarianteAccesorios": "kit_3hojas_-_r42_\u002B_h56.cor",
   "FormaCorrediza": 2,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
@@ -20,8 +20,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "6510",
-      "DescripcionPerfil": "UMBRAL/DINTEL MARCO CORREDIZA",
+      "CodigoPerfil": "6550",
+      "DescripcionPerfil": "JAMBA DE MARCO CORREDIZA",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A-42",
@@ -38,8 +38,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "6550",
-      "DescripcionPerfil": "JAMBA DE MARCO CORREDIZA",
+      "CodigoPerfil": "6510",
+      "DescripcionPerfil": "UMBRAL/DINTEL MARCO CORREDIZA",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H",
@@ -56,8 +56,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "6650",
-      "DescripcionPerfil": "Parante Lateral Hoja Corrediza DVH",
+      "CodigoPerfil": "6530",
+      "DescripcionPerfil": "PARANTE LATERAL HOJA CORREDIZA VS",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H-79",
@@ -74,29 +74,47 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "6640",
-      "DescripcionPerfil": "PARANTE CENTRAL HOJA CORREDIZA DVH",
-      "Cantidad": 2,
-      "FormulaCantidad": "",
-      "FormulaMedida": "H-79",
-      "AnguloCorte1": 90,
-      "AnguloCorte2": 90,
-      "AnguloCorte": 90,
-      "Orientacion": "V",
-      "TipoPerfil": "Perfil",
-      "GalceBase": 0,
-      "AjusteGalce": 0,
-      "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoPerfil": "6630",
-      "DescripcionPerfil": "Cabezal/Z\u00F3calo Hoja Corrediza DVH",
+      "CodigoPerfil": "6540",
+      "DescripcionPerfil": "PARANTE CENTRAL HOJA CORREDIZA VS",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2-24",
+      "FormulaMedida": "H-79",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6520",
+      "DescripcionPerfil": "CABEZAL/Z\u00D3CALO HOJA CORREDIZA VS",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/3\u002B5",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "6520",
+      "DescripcionPerfil": "CABEZAL/Z\u00D3CALO HOJA CORREDIZA VS",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/3-9",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -114,7 +132,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "83620",
       "DescripcionAccesorio": "TORN. RANURADO 10 X 1 1/2 PTE I (BOLSA X 100 UNID)",
-      "FormulaCantidad": "16",
+      "FormulaCantidad": "20",
       "Unidad": "BOLSAX100"
     },
     {
@@ -130,7 +148,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "84295",
       "DescripcionAccesorio": "TOPE PARANTE CENTRAL T-90",
-      "FormulaCantidad": "4",
+      "FormulaCantidad": "8",
       "Unidad": "CAJA X 100"
     },
     {
@@ -138,7 +156,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "84360",
       "DescripcionAccesorio": "CRUCE DE HOJA MODENA T-93(28.8MM)",
-      "FormulaCantidad": "2",
+      "FormulaCantidad": "4",
       "Unidad": "BOLSA X 16"
     },
     {
@@ -170,7 +188,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "83150",
       "DescripcionAccesorio": "FELPA 7*6 JN NEGRA ROLLO 400MTS",
-      "FormulaCantidad": "((A*4)\u002B(H*6))/1000",
+      "FormulaCantidad": "((A*4)\u002B(H*8))/1000",
       "Unidad": "ROLLO X 400"
     },
     {
@@ -196,7 +214,17 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2-78",
+      "FormulaAncho": "A/3-63",
+      "FormulaAlto": "H-169",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A/3-48",
       "FormulaAlto": "H-169",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
@@ -208,24 +236,35 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 17,
-        "EspesorMax": 18,
+        "EspesorMin": 4,
+        "EspesorMax": 5,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
-        "BurleteCodigo1": "82100",
-        "BurleteCodigo2": "82100"
+        "BurleteCodigo1": "84530",
+        "BurleteCodigo2": "84530"
       },
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 19,
-        "EspesorMax": 20,
+        "EspesorMin": 6,
+        "EspesorMax": 7,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
-        "BurleteCodigo1": "82090",
-        "BurleteCodigo2": "82090"
+        "BurleteCodigo1": "84530",
+        "BurleteCodigo2": "84530"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 8,
+        "EspesorMax": 10,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "84530",
+        "BurleteCodigo2": "84530"
       }
     ]
   }

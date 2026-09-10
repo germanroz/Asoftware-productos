@@ -8,12 +8,14 @@
   "Descripcion": "CORREDIZA 4H E/ CENTRAL DVH",
   "EspesorMin": 17,
   "EspesorMax": 19,
-  "Orden": 2,
+  "Orden": 11,
   "VarianteAccesorios": "kit_4h_.cor",
   "FormaCorrediza": 2,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,

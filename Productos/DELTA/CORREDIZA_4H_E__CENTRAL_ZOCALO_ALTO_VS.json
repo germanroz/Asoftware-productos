@@ -8,12 +8,14 @@
   "Descripcion": "CORREDIZA 4H E/ CENTRAL ZOCALO ALTO VS",
   "EspesorMin": 4,
   "EspesorMax": 10,
-  "Orden": 3,
+  "Orden": 12,
   "VarianteAccesorios": "",
   "FormaCorrediza": 2,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
