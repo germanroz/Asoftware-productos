@@ -1,14 +1,14 @@
 {
   "Id": 0,
-  "Nombre": "PUERTA VS",
+  "Nombre": "PUERTA DVH",
   "LineaId": 1795,
   "LineaNombre": "GAMMA",
   "TipoAberturaId": 6,
   "TipoAberturaNombre": "PUERTA",
-  "Descripcion": "PUERTA VS",
-  "EspesorMin": 4,
-  "EspesorMax": 8,
-  "Orden": 0,
+  "Descripcion": "PUERTA DVH",
+  "EspesorMin": 17,
+  "EspesorMax": 24,
+  "Orden": 1,
   "VarianteAccesorios": "kit_1h.pue",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
@@ -92,8 +92,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "1800",
-      "DescripcionPerfil": "HOJA PUERTA S/CV PARA VS",
+      "CodigoPerfil": "1810",
+      "DescripcionPerfil": "Hoja Puerta s/Contravidrio p/DVH",
       "Cantidad": 1,
       "FormulaCantidad": "",
       "FormulaMedida": "H-30",
@@ -110,8 +110,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "1800",
-      "DescripcionPerfil": "HOJA PUERTA S/CV PARA VS",
+      "CodigoPerfil": "1810",
+      "DescripcionPerfil": "Hoja Puerta s/Contravidrio p/DVH",
       "Cantidad": 1,
       "FormulaCantidad": "",
       "FormulaMedida": "H-30",
@@ -212,8 +212,8 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 4,
-        "EspesorMax": 5,
+        "EspesorMin": 17,
+        "EspesorMax": 18,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
@@ -223,8 +223,8 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 6,
-        "EspesorMax": 7,
+        "EspesorMin": 19,
+        "EspesorMax": 20,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
@@ -234,8 +234,8 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 8,
-        "EspesorMax": 9,
+        "EspesorMin": 21,
+        "EspesorMax": 22,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
@@ -245,13 +245,13 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 10,
-        "EspesorMax": 10,
+        "EspesorMin": 23,
+        "EspesorMax": 24,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
-        "BurleteCodigo1": "82110",
-        "BurleteCodigo2": "82110"
+        "BurleteCodigo1": "82090",
+        "BurleteCodigo2": "82090"
       }
     ]
   }
