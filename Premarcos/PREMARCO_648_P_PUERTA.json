@@ -23,10 +23,21 @@
       "Id": 0,
       "CodigoPerfil": "6480",
       "DescripcionPerfil": "PREMARCO DE 55 MM",
-      "Cantidad": 2,
-      "Formula": "H\u002B36",
+      "Cantidad": 1,
+      "Formula": "H\u002B18",
       "AnguloCorte": 45,
       "AnguloCorte1": 45,
+      "AnguloCorte2": 90,
+      "Orientacion": "V"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "6480",
+      "DescripcionPerfil": "PREMARCO DE 55 MM",
+      "Cantidad": 1,
+      "Formula": "H\u002B18",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 90,
       "AnguloCorte2": 45,
       "Orientacion": "V"
     }
