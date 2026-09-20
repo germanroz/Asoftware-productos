@@ -67,10 +67,10 @@
   "Accesorios": [
     {
       "Id": 0,
-      "CodigoAccesorio": "84380",
-      "DescripcionAccesorio": "ESCUADRA ARMADO MOSQUITERO MODENA E-73 DE NYLON",
+      "CodigoAccesorio": "80120",
+      "DescripcionAccesorio": "ESC. MOSQ CHICO 061 (4MM) (BOLSA X 100 UNID)",
       "FormulaCantidad": "4",
-      "Unidad": "CAJAX100"
+      "Unidad": "BOLSAX100"
     },
     {
       "Id": 0,

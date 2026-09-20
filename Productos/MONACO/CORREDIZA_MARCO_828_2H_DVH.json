@@ -1,15 +1,15 @@
 {
   "Id": 0,
-  "Nombre": "CORREDIZA 2H VS",
+  "Nombre": "CORREDIZA MARCO 828 2H DVH",
   "LineaId": 916,
   "LineaNombre": "MONACO",
   "TipoAberturaId": 3,
   "TipoAberturaNombre": "CORREDIZA",
-  "Descripcion": "CORREDIZA 2H VS",
-  "EspesorMin": 4,
-  "EspesorMax": 10,
-  "Orden": 4,
-  "VarianteAccesorios": "",
+  "Descripcion": "CORREDIZA MARCO 828 2H DVH",
+  "EspesorMin": 17,
+  "EspesorMax": 22,
+  "Orden": 1,
+  "VarianteAccesorios": "mon_-__cierre_lateral.cor",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
@@ -20,11 +20,11 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8210",
-      "DescripcionPerfil": "MARCO CORREDIZA M\u00D3NACO",
+      "CodigoPerfil": "8280",
+      "DescripcionPerfil": "Marco Corrediza c/Contramarco",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A",
+      "FormulaMedida": "A\u002B42",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -33,16 +33,16 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8210",
-      "DescripcionPerfil": "MARCO CORREDIZA M\u00D3NACO",
+      "CodigoPerfil": "8280",
+      "DescripcionPerfil": "Marco Corrediza c/Contramarco",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H",
+      "FormulaMedida": "H\u002B42",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -51,13 +51,13 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "7870",
-      "DescripcionPerfil": "HOJA CORREDIZA VS",
+      "CodigoPerfil": "7420",
+      "DescripcionPerfil": "HOJA CORREDIZA D.V.H.",
       "Cantidad": 4,
       "FormulaCantidad": "",
       "FormulaMedida": "A/2-8",
@@ -74,8 +74,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "7870",
-      "DescripcionPerfil": "HOJA CORREDIZA VS",
+      "CodigoPerfil": "7420",
+      "DescripcionPerfil": "HOJA CORREDIZA D.V.H.",
       "Cantidad": 4,
       "FormulaCantidad": "",
       "FormulaMedida": "H-80",
@@ -162,6 +162,14 @@
     {
       "Id": 0,
       "ProductoId": 0,
+      "CodigoAccesorio": "91430",
+      "DescripcionAccesorio": "TAPON CAJA DE AGUA PERFIL 821/828",
+      "FormulaCantidad": "2",
+      "Unidad": "CAJA X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
       "CodigoAccesorio": "83150",
       "DescripcionAccesorio": "FELPA 7*6 JN NEGRA ROLLO 400MTS",
       "FormulaCantidad": "((A*4)\u002B(H*6))/1000",
@@ -178,18 +186,18 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoAccesorio": "94125",
-      "DescripcionAccesorio": "TOPE GUIA PTE CENTRAL MT-ME-ME RPT (CAJA X 50 U)",
-      "FormulaCantidad": "4",
-      "Unidad": "CAJA X 50"
+      "CodigoAccesorio": "91420",
+      "DescripcionAccesorio": "CRUCE DE HOJAS MONACO TOP",
+      "FormulaCantidad": "2",
+      "Unidad": "CAJA X 20"
     },
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoAccesorio": "91430",
-      "DescripcionAccesorio": "TAPON CAJA DE AGUA PERFIL 821/828",
-      "FormulaCantidad": "2",
-      "Unidad": "CAJA X 100"
+      "CodigoAccesorio": "94125",
+      "DescripcionAccesorio": "TOPE GUIA PTE CENTRAL MT-ME-ME RPT (CAJA X 50 U)",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJA X 50"
     },
     {
       "Id": 0,
@@ -226,8 +234,8 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 4,
-        "EspesorMax": 5,
+        "EspesorMin": 17,
+        "EspesorMax": 18,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
@@ -237,8 +245,8 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 6,
-        "EspesorMax": 7,
+        "EspesorMin": 19,
+        "EspesorMax": 20,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
@@ -248,8 +256,8 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 8,
-        "EspesorMax": 9,
+        "EspesorMin": 21,
+        "EspesorMax": 22,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,

@@ -1,15 +1,15 @@
 {
   "Id": 0,
-  "Nombre": "CORREDIZA 2H VS",
+  "Nombre": "CORREDIZA 4H VS",
   "LineaId": 916,
   "LineaNombre": "MONACO",
   "TipoAberturaId": 3,
   "TipoAberturaNombre": "CORREDIZA",
-  "Descripcion": "CORREDIZA 2H VS",
+  "Descripcion": "CORREDIZA 4H VS",
   "EspesorMin": 4,
   "EspesorMax": 10,
-  "Orden": 4,
-  "VarianteAccesorios": "",
+  "Orden": 13,
+  "VarianteAccesorios": "kit_4h_45.cor",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
@@ -58,9 +58,9 @@
       "ProductoId": 0,
       "CodigoPerfil": "7870",
       "DescripcionPerfil": "HOJA CORREDIZA VS",
-      "Cantidad": 4,
+      "Cantidad": 8,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2-8",
+      "FormulaMedida": "A/4\u002B11",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -76,7 +76,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "7870",
       "DescripcionPerfil": "HOJA CORREDIZA VS",
-      "Cantidad": 4,
+      "Cantidad": 8,
       "FormulaCantidad": "",
       "FormulaMedida": "H-80",
       "AnguloCorte1": 45,
@@ -94,7 +94,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "7430",
       "DescripcionPerfil": "ENCUENTRO CENTRAL HOJAS",
-      "Cantidad": 2,
+      "Cantidad": 4,
       "FormulaCantidad": "",
       "FormulaMedida": "H-80",
       "AnguloCorte1": 90,
@@ -124,6 +124,24 @@
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
       "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "5900",
+      "DescripcionPerfil": "ENCUENTRO 4 HOJAS M-UNO",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-105",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
     }
   ],
   "Accesorios": [
@@ -140,7 +158,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89640",
       "DescripcionAccesorio": "ESCUADRA CON-359 / E-97 MONTICELLI",
-      "FormulaCantidad": "8",
+      "FormulaCantidad": "16",
       "Unidad": "UNIDAD"
     },
     {
@@ -148,7 +166,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89490",
       "DescripcionAccesorio": "ESC.ALINEAC. HOJA  E-98 - BAJA - (BOLSA X 200U)",
-      "FormulaCantidad": "16",
+      "FormulaCantidad": "32",
       "Unidad": "BOLSA X 200"
     },
     {
@@ -156,15 +174,23 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89410",
       "DescripcionAccesorio": "TORNILLO FIJADOR ENC. CENTRAL PERFILES 713/743/556",
-      "FormulaCantidad": "(H*2)/250",
+      "FormulaCantidad": "(H*4)/250",
       "Unidad": "BOLSAX200"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "91430",
+      "DescripcionAccesorio": "TAPON CAJA DE AGUA PERFIL 821/828",
+      "FormulaCantidad": "2",
+      "Unidad": "CAJA X 100"
     },
     {
       "Id": 0,
       "ProductoId": 0,
       "CodigoAccesorio": "83150",
       "DescripcionAccesorio": "FELPA 7*6 JN NEGRA ROLLO 400MTS",
-      "FormulaCantidad": "((A*4)\u002B(H*6))/1000",
+      "FormulaCantidad": "((A*4)\u002B(H*8))/1000",
       "Unidad": "ROLLO X 400"
     },
     {
@@ -178,18 +204,18 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoAccesorio": "94125",
-      "DescripcionAccesorio": "TOPE GUIA PTE CENTRAL MT-ME-ME RPT (CAJA X 50 U)",
+      "CodigoAccesorio": "91420",
+      "DescripcionAccesorio": "CRUCE DE HOJAS MONACO TOP",
       "FormulaCantidad": "4",
-      "Unidad": "CAJA X 50"
+      "Unidad": "CAJA X 20"
     },
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoAccesorio": "91430",
-      "DescripcionAccesorio": "TAPON CAJA DE AGUA PERFIL 821/828",
-      "FormulaCantidad": "2",
-      "Unidad": "CAJA X 100"
+      "CodigoAccesorio": "94125",
+      "DescripcionAccesorio": "TOPE GUIA PTE CENTRAL MT-ME-ME RPT (CAJA X 50 U)",
+      "FormulaCantidad": "8",
+      "Unidad": "CAJA X 50"
     },
     {
       "Id": 0,
@@ -212,9 +238,9 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "Cantidad": 2,
+      "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2-111",
+      "FormulaAncho": "A/4-93",
       "FormulaAlto": "H-184",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
@@ -249,7 +275,7 @@
         "Id": 0,
         "ProductoId": 0,
         "EspesorMin": 8,
-        "EspesorMax": 9,
+        "EspesorMax": 10,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,

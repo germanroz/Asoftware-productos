@@ -1,14 +1,14 @@
 {
   "Id": 0,
-  "Nombre": "REBATIR VS",
+  "Nombre": "BANDEROLA MARCO 832 VS",
   "LineaId": 916,
   "LineaNombre": "MONACO",
-  "TipoAberturaId": 7,
-  "TipoAberturaNombre": "REBATIR",
-  "Descripcion": "REBATIR VS",
+  "TipoAberturaId": 2,
+  "TipoAberturaNombre": "BANDEROLA",
+  "Descripcion": "BANDEROLA MARCO 832 VS",
   "EspesorMin": 4,
   "EspesorMax": 8,
-  "Orden": 0,
+  "Orden": 4,
   "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
@@ -20,11 +20,11 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8290",
-      "DescripcionPerfil": "MARCO PF/VR/VB/VOB/PR",
+      "CodigoPerfil": "8320",
+      "DescripcionPerfil": "Marco VR/VB/VOB/PR c/Contramarco",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A",
+      "FormulaMedida": "A\u002B42",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -33,16 +33,16 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8290",
-      "DescripcionPerfil": "MARCO PF/VR/VB/VOB/PR",
+      "CodigoPerfil": "8320",
+      "DescripcionPerfil": "Marco VR/VB/VOB/PR c/Contramarco",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H",
+      "FormulaMedida": "H\u002B42",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -51,7 +51,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
@@ -130,6 +130,14 @@
       "DescripcionAccesorio": "SOSTEN DE HOJA H-44",
       "FormulaCantidad": "1",
       "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89190",
+      "DescripcionAccesorio": "ESC. P/CONTRAMARCO (E-66 \u0026 5066) (BOLSA X 100U)",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSAX100"
     }
   ],
   "Vidrios": [

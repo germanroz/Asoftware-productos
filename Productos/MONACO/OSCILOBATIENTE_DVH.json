@@ -8,12 +8,14 @@
   "Descripcion": "OSCILOBATIENTE DVH",
   "EspesorMin": 17,
   "EspesorMax": 22,
-  "Orden": 0,
+  "Orden": 1,
   "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -94,7 +96,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "80200",
       "DescripcionAccesorio": "ESC. DE ALINEACION (AA107) (BOLSA X 100UNID)",
-      "FormulaCantidad": "8",
+      "FormulaCantidad": "4",
       "Unidad": "BOLSA X 100"
     },
     {
@@ -102,7 +104,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89070",
       "DescripcionAccesorio": "ESCUADRA A-700 (TA-E06) MONTICELLI",
-      "FormulaCantidad": "4",
+      "FormulaCantidad": "8",
       "Unidad": "UNIDAD"
     },
     {

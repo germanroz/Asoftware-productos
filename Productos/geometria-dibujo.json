@@ -1,6 +1,6 @@
 {
   "_comentario": "Bandas de dibujo en mm por producto (ancho visible de cada perfil), generadas por la herramienta de geometria. Clave: LINEA/NOMBRE. SOLO DIBUJO: no alimenta cortes ni precios.",
-  "generado": "2026-08-28 23:38:23",
+  "generado": "2026-09-19 13:41:38",
   "productos": {
     "ALFA/BANDEROLA CV CURVOS": {
       "familia": "marcohoja",
@@ -494,6 +494,16 @@
       "marco": 25.5,
       "hoja": 64.3
     },
+    "MONACO/BANDEROLA HOJA 831 CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 31.5,
+      "cv": 20.3
+    },
+    "MONACO/BANDEROLA MARCO 832 HOJA 831 CV RECTOS": {
+      "familia": "perimetral",
+      "marco": 31.5,
+      "cv": 20.3
+    },
     "MONACO/BANDEROLA VS": {
       "familia": "marcohoja",
       "marco": 25.5,
@@ -959,6 +969,32 @@
       "tope": 0,
       "hojas": 2,
       "cruces": 1
+    },
+    "MONACO/CORREDIZA 3H DVH": {
+      "familia": "corr45",
+      "marco": 48.5,
+      "marcoH": 48.5,
+      "retiro": 39.5,
+      "retiroH": 39.5,
+      "hoja": 64.3,
+      "entrante": 12.5,
+      "montante": 64.3,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MONACO/CORREDIZA 3H VS": {
+      "familia": "corr45",
+      "marco": 48.5,
+      "marcoH": 48.5,
+      "retiro": 40,
+      "retiroH": 40,
+      "hoja": 64.3,
+      "entrante": 12.5,
+      "montante": 64.3,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
     },
     "NIZA/CORREDIZA 2H N1 DVH": {
       "familia": "corr45",

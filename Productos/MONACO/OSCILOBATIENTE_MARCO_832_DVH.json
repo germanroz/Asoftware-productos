@@ -1,14 +1,14 @@
 {
   "Id": 0,
-  "Nombre": "REBATIR VS",
+  "Nombre": "OSCILOBATIENTE MARCO 832 DVH",
   "LineaId": 916,
   "LineaNombre": "MONACO",
-  "TipoAberturaId": 7,
-  "TipoAberturaNombre": "REBATIR",
-  "Descripcion": "REBATIR VS",
-  "EspesorMin": 4,
-  "EspesorMax": 8,
-  "Orden": 0,
+  "TipoAberturaId": 4,
+  "TipoAberturaNombre": "OSCILOBATIENTE",
+  "Descripcion": "OSCILOBATIENTE MARCO 832 DVH",
+  "EspesorMin": 17,
+  "EspesorMax": 22,
+  "Orden": 5,
   "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
@@ -20,11 +20,11 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8290",
-      "DescripcionPerfil": "MARCO PF/VR/VB/VOB/PR",
+      "CodigoPerfil": "8320",
+      "DescripcionPerfil": "Marco VR/VB/VOB/PR c/Contramarco",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A",
+      "FormulaMedida": "A\u002B42",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -33,16 +33,16 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8290",
-      "DescripcionPerfil": "MARCO PF/VR/VB/VOB/PR",
+      "CodigoPerfil": "8320",
+      "DescripcionPerfil": "Marco VR/VB/VOB/PR c/Contramarco",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "H",
+      "FormulaMedida": "H\u002B42",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -51,13 +51,13 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": true
+      "EsMarcoPerimetral": false
     },
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8270",
-      "DescripcionPerfil": "Hoja VR/VB/VOB/VPBDE s/Comtravidrio p/VS",
+      "CodigoPerfil": "8260",
+      "DescripcionPerfil": "Hoja VR/VB/VOB/VPBDE s/Contravidrio p/DVH",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A-51",
@@ -74,8 +74,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8270",
-      "DescripcionPerfil": "Hoja VR/VB/VOB/VPBDE s/Comtravidrio p/VS",
+      "CodigoPerfil": "8260",
+      "DescripcionPerfil": "Hoja VR/VB/VOB/VPBDE s/Contravidrio p/DVH",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H-51",
@@ -130,6 +130,14 @@
       "DescripcionAccesorio": "SOSTEN DE HOJA H-44",
       "FormulaCantidad": "1",
       "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89190",
+      "DescripcionAccesorio": "ESC. P/CONTRAMARCO (E-66 \u0026 5066) (BOLSA X 100U)",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSAX100"
     }
   ],
   "Vidrios": [
@@ -150,34 +158,34 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 4,
-        "EspesorMax": 5,
+        "EspesorMin": 17,
+        "EspesorMax": 18,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
-        "BurleteCodigo1": "89130",
+        "BurleteCodigo1": "82200",
         "BurleteCodigo2": "82200"
       },
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 6,
-        "EspesorMax": 7,
+        "EspesorMin": 19,
+        "EspesorMax": 20,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
-        "BurleteCodigo1": "89130",
+        "BurleteCodigo1": "82100",
         "BurleteCodigo2": "82100"
       },
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 8,
-        "EspesorMax": 9,
+        "EspesorMin": 21,
+        "EspesorMax": 22,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
-        "BurleteCodigo1": "89130",
+        "BurleteCodigo1": "82090",
         "BurleteCodigo2": "82090"
       }
     ]
