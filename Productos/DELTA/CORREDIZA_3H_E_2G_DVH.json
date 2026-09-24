@@ -1,17 +1,17 @@
 {
   "Id": 0,
-  "Nombre": "CORREDIZA 4H E/ CENTRAL ZOCALO ALTO DVH",
+  "Nombre": "CORREDIZA 3H E/2G DVH",
   "LineaId": 2,
   "LineaNombre": "DELTA",
   "TipoAberturaId": 3,
   "TipoAberturaNombre": "CORREDIZA",
-  "Descripcion": "CORREDIZA 4H E/ CENTRAL ZOCALO ALTO DVH",
+  "Descripcion": "CORREDIZA 3H E/2G DVH",
   "EspesorMin": 17,
   "EspesorMax": 19,
-  "Orden": 14,
-  "VarianteAccesorios": "",
+  "Orden": 4,
+  "VarianteAccesorios": "kit_3hojas_-_r42_\u002B_h56.cor",
   "FormaCorrediza": 2,
-  "HojaCentralDoble": false,
+  "HojaCentralDoble": true,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
   "AccesorioEsquinaCodigo": null,
@@ -58,7 +58,7 @@
       "ProductoId": 0,
       "CodigoPerfil": "6650",
       "DescripcionPerfil": "Parante Lateral Hoja Corrediza DVH",
-      "Cantidad": 4,
+      "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H-79",
       "AnguloCorte1": 90,
@@ -94,9 +94,9 @@
       "ProductoId": 0,
       "CodigoPerfil": "6630",
       "DescripcionPerfil": "Cabezal/Z\u00F3calo Hoja Corrediza DVH",
-      "Cantidad": 4,
+      "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/4-12",
+      "FormulaMedida": "A/2\u002B38",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -110,29 +110,11 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "6420",
-      "DescripcionPerfil": "ENCUENTRO 4 HOJAS CORREDIZA DELTA",
-      "Cantidad": 1,
-      "FormulaCantidad": "",
-      "FormulaMedida": "H-79",
-      "AnguloCorte1": 90,
-      "AnguloCorte2": 90,
-      "AnguloCorte": 90,
-      "Orientacion": "V",
-      "TipoPerfil": "Perfil",
-      "GalceBase": 0,
-      "AjusteGalce": 0,
-      "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoPerfil": "6860",
-      "DescripcionPerfil": "Zocalo Alto Hoja Corrediza DVH",
+      "CodigoPerfil": "6630",
+      "DescripcionPerfil": "Cabezal/Z\u00F3calo Hoja Corrediza DVH",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/4-12",
+      "FormulaMedida": "A/4\u002B1",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -150,7 +132,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "83620",
       "DescripcionAccesorio": "TORN. RANURADO 10 X 1 1/2 PTE I (BOLSA X 100 UNID)",
-      "FormulaCantidad": "32",
+      "FormulaCantidad": "20",
       "Unidad": "BOLSAX100"
     },
     {
@@ -158,7 +140,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "84280",
       "DescripcionAccesorio": "TOPE PARANTE LATERAL T-89",
-      "FormulaCantidad": "8",
+      "FormulaCantidad": "4",
       "Unidad": "CAJAX100"
     },
     {
@@ -174,7 +156,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "84360",
       "DescripcionAccesorio": "CRUCE DE HOJA MODENA T-93(28.8MM)",
-      "FormulaCantidad": "6",
+      "FormulaCantidad": "4",
       "Unidad": "BOLSA X 16"
     },
     {
@@ -188,18 +170,10 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoAccesorio": "84340",
-      "DescripcionAccesorio": "JUNTA DE ESTANQUEDAD MARCO T-92",
+      "CodigoAccesorio": "84160",
+      "DescripcionAccesorio": "JUNTA ESTANQUEIDAD TRES GUIA  T-101",
       "FormulaCantidad": "4",
-      "Unidad": "CAJAX100"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
-      "CodigoAccesorio": "83150",
-      "DescripcionAccesorio": "FELPA 7*6 JN NEGRA ROLLO 400MTS",
-      "FormulaCantidad": "((A*4)\u002B(H*12))/1000",
-      "Unidad": "ROLLO X 400"
+      "Unidad": "BOLSA X 50"
     },
     {
       "Id": 0,
@@ -208,6 +182,14 @@
       "DescripcionAccesorio": "TAPON LATERAL DE CONDENSACION T-91",
       "FormulaCantidad": "4",
       "Unidad": "CAJA X 50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83150",
+      "DescripcionAccesorio": "FELPA 7*6 JN NEGRA ROLLO 400MTS",
+      "FormulaCantidad": "((A*4)\u002B(H*8))/1000",
+      "Unidad": "ROLLO X 400"
     },
     {
       "Id": 0,
@@ -230,10 +212,20 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "Cantidad": 4,
+      "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/4-66",
-      "FormulaAlto": "H-224",
+      "FormulaAncho": "A/4-48",
+      "FormulaAlto": "H-169",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A/2-12",
+      "FormulaAlto": "H-169",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
@@ -256,7 +248,7 @@
         "Id": 0,
         "ProductoId": 0,
         "EspesorMin": 19,
-        "EspesorMax": 19,
+        "EspesorMax": 20,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
