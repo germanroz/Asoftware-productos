@@ -1,6 +1,6 @@
 {
   "_comentario": "Bandas de dibujo en mm por producto (ancho visible de cada perfil), generadas por la herramienta de geometria. Clave: LINEA/NOMBRE. SOLO DIBUJO: no alimenta cortes ni precios.",
-  "generado": "2026-09-19 13:41:38",
+  "generado": "2026-09-27 23:35:44",
   "productos": {
     "ALFA/BANDEROLA CV CURVOS": {
       "familia": "marcohoja",
@@ -494,16 +494,6 @@
       "marco": 25.5,
       "hoja": 64.3
     },
-    "MONACO/BANDEROLA HOJA 831 CV RECTOS": {
-      "familia": "perimetral",
-      "marco": 31.5,
-      "cv": 20.3
-    },
-    "MONACO/BANDEROLA MARCO 832 HOJA 831 CV RECTOS": {
-      "familia": "perimetral",
-      "marco": 31.5,
-      "cv": 20.3
-    },
     "MONACO/BANDEROLA VS": {
       "familia": "marcohoja",
       "marco": 25.5,
@@ -957,6 +947,32 @@
       "hojas": 2,
       "cruces": 1
     },
+    "MONACO/CORREDIZA 2H HOJA 405 VS": {
+      "familia": "corr45",
+      "marco": 49,
+      "marcoH": 49,
+      "retiro": 40,
+      "retiroH": 40,
+      "hoja": 61,
+      "entrante": 12,
+      "montante": 61,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MONACO/CORREDIZA 2H HOJA 406 DVH": {
+      "familia": "corr45",
+      "marco": 49,
+      "marcoH": 49,
+      "retiro": 40,
+      "retiroH": 40,
+      "hoja": 61,
+      "entrante": 12,
+      "montante": 61,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
     "MONACO/CORREDIZA 2H VS": {
       "familia": "corr45",
       "marco": 49,
@@ -983,6 +999,58 @@
       "hojas": 3,
       "cruces": 2
     },
+    "MONACO/CORREDIZA 3H E/2G DVH": {
+      "familia": "corr45",
+      "marco": 49,
+      "marcoH": 49,
+      "retiro": 41,
+      "retiroH": 41,
+      "hoja": 64.3,
+      "entrante": 12.5,
+      "montante": 64.3,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MONACO/CORREDIZA 3H E/2G VS": {
+      "familia": "corr45",
+      "marco": 49,
+      "marcoH": 49,
+      "retiro": 40,
+      "retiroH": 40,
+      "hoja": 61,
+      "entrante": 9,
+      "montante": 61,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MONACO/CORREDIZA 3H HOJA 405 VS": {
+      "familia": "corr45",
+      "marco": 48.5,
+      "marcoH": 48.5,
+      "retiro": 39.5,
+      "retiroH": 39.5,
+      "hoja": 61,
+      "entrante": 12,
+      "montante": 61,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MONACO/CORREDIZA 3H HOJA 406 DVH": {
+      "familia": "corr45",
+      "marco": 48.5,
+      "marcoH": 48.5,
+      "retiro": 39.5,
+      "retiroH": 39.5,
+      "hoja": 61,
+      "entrante": 12,
+      "montante": 61,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
     "MONACO/CORREDIZA 3H VS": {
       "familia": "corr45",
       "marco": 48.5,
@@ -994,6 +1062,32 @@
       "montante": 64.3,
       "tope": 0,
       "hojas": 3,
+      "cruces": 2
+    },
+    "MONACO/CORREDIZA 4H DVH": {
+      "familia": "corr45",
+      "marco": 49,
+      "marcoH": 49,
+      "retiro": 40,
+      "retiroH": 40,
+      "hoja": 64.3,
+      "entrante": 12.5,
+      "montante": 64.3,
+      "tope": 4,
+      "hojas": 4,
+      "cruces": 2
+    },
+    "MONACO/CORREDIZA 4H VS": {
+      "familia": "corr45",
+      "marco": 49,
+      "marcoH": 49,
+      "retiro": 40,
+      "retiroH": 40,
+      "hoja": 64.3,
+      "entrante": 12.5,
+      "montante": 64.3,
+      "tope": 4,
+      "hojas": 4,
       "cruces": 2
     },
     "NIZA/CORREDIZA 2H N1 DVH": {
@@ -1927,6 +2021,214 @@
         {
           "izq": 37.5,
           "der": 52.5
+        }
+      ]
+    },
+    "MONACO/CORREDIZA 2H 90° DVH": {
+      "familia": "corr90",
+      "marco": 49,
+      "marcoH": 49,
+      "retiro": 40,
+      "retiroH": 40,
+      "cab": 55,
+      "zoc": 55,
+      "entrante": 12,
+      "montante": 42.5,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 44
+        },
+        {
+          "izq": 44,
+          "der": 53
+        }
+      ]
+    },
+    "MONACO/CORREDIZA 2H 90° DVH ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 49,
+      "marcoH": 49,
+      "retiro": 40,
+      "retiroH": 40,
+      "cab": 55,
+      "zoc": 110,
+      "entrante": 12,
+      "montante": 42.5,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 44
+        },
+        {
+          "izq": 44,
+          "der": 53
+        }
+      ]
+    },
+    "MONACO/CORREDIZA 2H 90° VS": {
+      "familia": "corr90",
+      "marco": 49,
+      "marcoH": 49,
+      "retiro": 40,
+      "retiroH": 40,
+      "cab": 55,
+      "zoc": 55,
+      "entrante": 12,
+      "montante": 44,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 44
+        },
+        {
+          "izq": 44,
+          "der": 53
+        }
+      ]
+    },
+    "MONACO/CORREDIZA 2H 90° VS ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 49,
+      "marcoH": 49,
+      "retiro": 40,
+      "retiroH": 40,
+      "cab": 55,
+      "zoc": 110,
+      "entrante": 12,
+      "montante": 44,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 44
+        },
+        {
+          "izq": 44,
+          "der": 53
+        }
+      ]
+    },
+    "MONACO/CORREDIZA 3H 90° DVH": {
+      "familia": "corr90",
+      "marco": 48.5,
+      "marcoH": 48.5,
+      "retiro": 39.5,
+      "retiroH": 39.5,
+      "cab": 55,
+      "zoc": 55,
+      "entrante": 12,
+      "montante": 42.5,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 44
+        },
+        {
+          "izq": 44,
+          "der": 44
+        },
+        {
+          "izq": 44,
+          "der": 53
+        }
+      ]
+    },
+    "MONACO/CORREDIZA 3H 90° DVH ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 48.5,
+      "marcoH": 48.5,
+      "retiro": 39.5,
+      "retiroH": 39.5,
+      "cab": 55,
+      "zoc": 110,
+      "entrante": 12,
+      "montante": 42.5,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 44
+        },
+        {
+          "izq": 44,
+          "der": 44
+        },
+        {
+          "izq": 44,
+          "der": 53
+        }
+      ]
+    },
+    "MONACO/CORREDIZA 3H 90° VS": {
+      "familia": "corr90",
+      "marco": 48.5,
+      "marcoH": 48.5,
+      "retiro": 39.5,
+      "retiroH": 39.5,
+      "cab": 55,
+      "zoc": 55,
+      "entrante": 12,
+      "montante": 44,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 44
+        },
+        {
+          "izq": 44,
+          "der": 44
+        },
+        {
+          "izq": 44,
+          "der": 53
+        }
+      ]
+    },
+    "MONACO/CORREDIZA 3H 90° VS ZOCALO ALTO": {
+      "familia": "corr90",
+      "marco": 48.5,
+      "marcoH": 48.5,
+      "retiro": 39.5,
+      "retiroH": 39.5,
+      "cab": 55,
+      "zoc": 110,
+      "entrante": 12,
+      "montante": 44,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2,
+      "parantes": [
+        {
+          "izq": 53,
+          "der": 44
+        },
+        {
+          "izq": 44,
+          "der": 44
+        },
+        {
+          "izq": 44,
+          "der": 53
         }
       ]
     },

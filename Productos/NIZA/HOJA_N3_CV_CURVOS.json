@@ -5,15 +5,17 @@
   "LineaNombre": "NIZA",
   "TipoAberturaId": 13,
   "TipoAberturaNombre": "HOJA",
-  "Descripcion": "HOJA derivada de REBATIR_N3_CV_CURVOS (se inserta en un paño; el marco lo aporta el contenedor). REVISAR: descuento de vidrio, solape de marco y el goterón 2000.",
+  "Descripcion": "HOJA derivada de REBATIR_N3_CV_CURVOS (se inserta en un pa\u00F1o; el marco lo aporta el contenedor). REVISAR: descuento de vidrio, solape de marco y el goter\u00F3n 2000.",
   "EspesorMin": 6,
   "EspesorMax": 30,
   "Orden": 0,
   "VarianteAccesorios": "",
-  "SolapeMarco": 23.2,
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 23.2,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -31,7 +33,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -49,7 +51,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -120,7 +122,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89160",
       "DescripcionAccesorio": "CLIP P/CONTRAVIDRIO T-96 O 5096(BOLSA X 100 U)",
-      "FormulaCantidad": "((A+H)*2)/250",
+      "FormulaCantidad": "((A\u002BH)*2)/250",
       "Unidad": "BOLSA X 100"
     },
     {
@@ -128,7 +130,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "93190",
       "DescripcionAccesorio": "BURLETE DE HERMETICIDAD B-74 EPDM",
-      "FormulaCantidad": "((A+H)*2)/1000",
+      "FormulaCantidad": "((A\u002BH)*2)/1000",
       "Unidad": "ROLLO X 100"
     },
     {
@@ -136,7 +138,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89060",
       "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
-      "FormulaCantidad": "((A+H)*2)/1000",
+      "FormulaCantidad": "((A\u002BH)*2)/1000",
       "Unidad": "ROLLO X 150"
     }
   ],
@@ -237,11 +239,11 @@
         "ProductoId": 0,
         "EspesorMin": 24,
         "EspesorMax": 25,
-        "ContravidrioCodigo": "1950",
-        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
-        "ContravidrioAjuste": -12,
+        "ContravidrioCodigo": "1940",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/DVH",
+        "ContravidrioAjuste": -19,
         "BurleteCodigo1": "89130",
-        "BurleteCodigo2": "82020"
+        "BurleteCodigo2": "82090"
       },
       {
         "Id": 0,

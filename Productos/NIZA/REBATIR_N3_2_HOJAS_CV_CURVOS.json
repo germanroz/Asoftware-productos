@@ -12,7 +12,10 @@
   "VarianteAccesorios": "kit_rebatir_2h.default",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -272,11 +275,11 @@
         "ProductoId": 0,
         "EspesorMin": 24,
         "EspesorMax": 25,
-        "ContravidrioCodigo": "1950",
-        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO LADO EXT. PUERTA DE REBATIR",
-        "ContravidrioAjuste": -12,
+        "ContravidrioCodigo": "1940",
+        "ContravidrioDescripcion": "CONTRAVIDRIO CURVO P/DVH",
+        "ContravidrioAjuste": -19,
         "BurleteCodigo1": "89130",
-        "BurleteCodigo2": "82020"
+        "BurleteCodigo2": "82090"
       },
       {
         "Id": 0,
