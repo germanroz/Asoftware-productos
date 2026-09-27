@@ -8,12 +8,14 @@
   "Descripcion": "Copia de SPU 423 (10\u002B10)",
   "EspesorMin": 20,
   "EspesorMax": 20,
-  "Orden": 0,
+  "Orden": 7,
   "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,

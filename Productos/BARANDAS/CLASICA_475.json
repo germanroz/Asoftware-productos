@@ -8,7 +8,14 @@
   "Descripcion": "CLASICA 475",
   "EspesorMin": 6,
   "EspesorMax": 8,
-  "Orden": 0,
+  "Orden": 4,
+  "VarianteAccesorios": "",
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -25,6 +32,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     },
     {
@@ -42,6 +50,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     },
     {
@@ -59,6 +68,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     },
     {
@@ -76,6 +86,7 @@
       "TipoPerfil": "Marco",
       "GalceBase": 0,
       "AjusteGalce": 0,
+      "ContravidrioFijo": false,
       "EsMarcoPerimetral": true
     }
   ],
