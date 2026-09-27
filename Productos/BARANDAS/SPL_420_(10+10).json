@@ -14,6 +14,8 @@
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -36,8 +38,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "4260",
-      "DescripcionPerfil": "Tapa SPL",
+      "CodigoPerfil": "4210",
+      "DescripcionPerfil": "TAPA SPL",
       "Cantidad": 1,
       "FormulaCantidad": "",
       "FormulaMedida": "A",

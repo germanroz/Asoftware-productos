@@ -14,6 +14,8 @@
   "HojaCentralDoble": true,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
