@@ -54,7 +54,7 @@
       "Id": 0,
       "CodigoAccesorio": "87220",
       "DescripcionAccesorio": "GRAMPA DE AMURE PRE-MARCO (S-9 O S-09)",
-      "FormulaCantidad": "(A\u002B(H*2)/250",
+      "FormulaCantidad": "(A\u002B(H*2))/250",
       "Unidad": "CAJAX100"
     },
     {

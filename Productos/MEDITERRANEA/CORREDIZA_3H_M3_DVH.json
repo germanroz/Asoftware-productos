@@ -8,12 +8,14 @@
   "Descripcion": "CORREDIZA 3H M3 DVH",
   "EspesorMin": 20,
   "EspesorMax": 25,
-  "Orden": 0,
+  "Orden": 6,
   "VarianteAccesorios": "m3-m5_corrediza_3h.cor",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,

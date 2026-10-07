@@ -8,12 +8,14 @@
   "Descripcion": "CORREDIZA 2H M5",
   "EspesorMin": 6,
   "EspesorMax": 33,
-  "Orden": 0,
+  "Orden": 4,
   "VarianteAccesorios": "kit_2p_e7.5_\u002B_r47_\u002B_acodadas.cor",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,

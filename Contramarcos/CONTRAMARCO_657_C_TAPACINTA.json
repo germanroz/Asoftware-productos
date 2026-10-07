@@ -46,9 +46,9 @@
       "CodigoPerfil": "6830",
       "DescripcionPerfil": "TAPACINTA",
       "Cantidad": 1,
-      "FormulaMedida": "A",
+      "FormulaMedida": "H",
       "AnguloCorte": 45,
-      "Orientacion": "H",
+      "Orientacion": "V",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90
     }

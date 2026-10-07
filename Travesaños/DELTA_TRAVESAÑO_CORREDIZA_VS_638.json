@@ -1,0 +1,34 @@
+{
+  "Id": 0,
+  "Nombre": "TRAVESAÑO HOJA CORREDIZA VS 638",
+  "LineaNombre": "DELTA",
+  "TipoProducto": "CORREDIZA",
+  "Posicion": 0,
+  "Espesor": 55,
+  "ContravidrioLadoDivisor": "",
+  "VidrioLadoDivisor": "16",
+  "DescuentoInferiorVidrio": "cvid - 84.5",
+  "PerfilCodigo": "6380",
+  "PerfilDescripcion": "",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "6380",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "",
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "CodigoAccesorio": "83620",
+      "DescripcionAccesorio": "TORN. RANURADO 10 X 1 1/2 PTE I (BOLSA X 100 UNID)",
+      "FormulaCantidad": "4*N",
+      "Unidad": "BOLSAX100"
+    }
+  ]
+}
