@@ -1,0 +1,119 @@
+{
+  "Id": 0,
+  "Nombre": "FRENTE PLACAR 15MM 2H",
+  "LineaId": 920668,
+  "LineaNombre": "SISTEMAS COMPLEMENTARIOS",
+  "TipoAberturaId": 14,
+  "TipoAberturaNombre": "PLACARD",
+  "Descripcion": "FRENTE PLACAR 15MM 2H",
+  "EspesorMin": 15,
+  "EspesorMax": 15,
+  "Orden": 0,
+  "VarianteAccesorios": "kit_placard_2h.pla",
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "1600",
+      "DescripcionPerfil": "GU\u00CDA SUPERIOR DE PLACARD",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "1570",
+      "DescripcionPerfil": "GU\u00CDA INFERIOR PLACARD",
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "1550",
+      "DescripcionPerfil": "PARANTE DE HOJA PLACARD DE 15.8 MM",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-32",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "1560",
+      "DescripcionPerfil": "CANTONERA HOJA PLACARD DE 15.8 MM",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/2-66",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83140",
+      "DescripcionAccesorio": "FELPA 7*4.5 JN NEGRA ROLLO 500MTS",
+      "FormulaCantidad": "(H*5)/1000",
+      "Unidad": "ROLLO X 400"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A/2",
+      "FormulaAlto": "H",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "ConContravidrio",
+    "Reglas": []
+  }
+}

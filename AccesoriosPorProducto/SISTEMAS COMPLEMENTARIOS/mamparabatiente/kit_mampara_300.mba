@@ -1,0 +1,15 @@
+{
+  "Nombre": "KIT MAMPARA 300",
+  "Descripcion": "",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "96205",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    }
+  ]
+}

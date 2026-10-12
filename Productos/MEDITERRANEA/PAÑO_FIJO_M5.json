@@ -7,13 +7,15 @@
   "TipoAberturaNombre": "PA\u00D1O FIJO",
   "Descripcion": "PA\u00D1O FIJO M5",
   "EspesorMin": 4,
-  "EspesorMax": 28,
+  "EspesorMax": 34,
   "Orden": 0,
   "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -266,6 +268,17 @@
         "ContravidrioAjuste": 0,
         "BurleteCodigo1": "89130",
         "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 32,
+        "EspesorMax": 34,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
       }
     ]
   }

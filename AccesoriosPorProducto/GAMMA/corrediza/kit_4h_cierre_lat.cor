@@ -1,0 +1,29 @@
+{
+  "Nombre": "KIT 4H CIERRE LAT",
+  "Descripcion": "",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "81240",
+      "Cantidad": 8,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "81815",
+      "Cantidad": 3,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "81850",
+      "Cantidad": 3,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    }
+  ]
+}
