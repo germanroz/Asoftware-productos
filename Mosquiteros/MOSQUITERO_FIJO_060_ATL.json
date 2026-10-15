@@ -1,0 +1,108 @@
+{
+  "Id": 0,
+  "Nombre": "MOSQUITERO FIJO 060 ATL",
+  "LineaNombre": "ATLANTICA",
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "600",
+      "DescripcionPerfil": "HOJA MOSQUITERO MEDIANA",
+      "Cantidad": 2,
+      "Formula": "A-30",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H",
+      "Productos": [
+        "BANDEROLA DVH",
+        "BANDEROLA VS",
+        "OSCILOBATIENTE 1H DVH",
+        "OSCILOBATIENTE 1H VS",
+        "REBATIR 1H DVH",
+        "REBATIR 1H VS"
+      ]
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "600",
+      "DescripcionPerfil": "HOJA MOSQUITERO MEDIANA",
+      "Cantidad": 2,
+      "Formula": "H-30",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "V",
+      "Productos": [
+        "BANDEROLA DVH",
+        "BANDEROLA VS",
+        "OSCILOBATIENTE 1H DVH",
+        "OSCILOBATIENTE 1H VS",
+        "REBATIR 1H DVH",
+        "REBATIR 1H VS"
+      ]
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "CodigoAccesorio": "80130",
+      "DescripcionAccesorio": "ESC. MOSQ. MEDIANO 060 (7MM) (BOLSA X 50 UNID)",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSAX50"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "82220",
+      "DescripcionAccesorio": "CORDON MOSQ. 4.5 M/M PVC (ROLLO X 100MT)",
+      "FormulaCantidad": "((H*2)\u002B((A/2)*2))/1000",
+      "Unidad": "ROLLOX100"
+    }
+  ],
+  "Telas": [
+    {
+      "Ancho": 610,
+      "CodigoBurlete": "86940",
+      "Descripcion": "TELA MOSQUITERO JN ALUMINIO 0.61"
+    },
+    {
+      "Ancho": 710,
+      "CodigoBurlete": "86950",
+      "Descripcion": "TELA MOSQUITERO JN ALUMINIO 0.71"
+    },
+    {
+      "Ancho": 810,
+      "CodigoBurlete": "86960",
+      "Descripcion": "TELA MOSQUITERO JN ALUMINIO 0.81"
+    },
+    {
+      "Ancho": 910,
+      "CodigoBurlete": "86970",
+      "Descripcion": "TELA MOSQUITERO JN ALUMINIO 0.91"
+    },
+    {
+      "Ancho": 1010,
+      "CodigoBurlete": "86980",
+      "Descripcion": "TELA MOSQUITERO JN ALUMINIO 1.01"
+    },
+    {
+      "Ancho": 1120,
+      "CodigoBurlete": "86990",
+      "Descripcion": "TELA MOSQUITERO JN ALUMINIO 1.12"
+    },
+    {
+      "Ancho": 1210,
+      "CodigoBurlete": "87000",
+      "Descripcion": "TELA MOSQUITERO JN ALUMINIO 1.21"
+    },
+    {
+      "Ancho": 1510,
+      "CodigoBurlete": "87010",
+      "Descripcion": "TELA MOSQUITERO JN ALUMINIO 1.52"
+    },
+    {
+      "Ancho": 1830,
+      "CodigoBurlete": "87020",
+      "Descripcion": "TELA MOSQUITERO JN ALUMINIO 1.83"
+    }
+  ]
+}
