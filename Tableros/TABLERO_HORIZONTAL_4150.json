@@ -1,0 +1,11 @@
+{
+  "Id": 4,
+  "Nombre": "TABLERO HORIZONTAL 415",
+  "LineaNombre": "MONACO",
+  "Lineas": ["MONACO", "ALFA", "MEDITERRANEA", "NIZA"],
+  "CodigoPerfil": "4150",
+  "DescripcionPerfil": "",
+  "AnchoUtil": 85,
+  "Espesor": 32,
+  "Orientacion": "H"
+}
