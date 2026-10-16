@@ -12,7 +12,10 @@
   "VarianteAccesorios": "",
   "FormaCorrediza": 2,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -289,14 +292,6 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoAccesorio": "99750",
-      "DescripcionAccesorio": "RUEDA DOBLE R-47 JN ALFA M-5 N-5 N-3 ATL",
-      "FormulaCantidad": "2",
-      "Unidad": "UNIDAD"
-    },
-    {
-      "Id": 0,
-      "ProductoId": 0,
       "CodigoAccesorio": "83680",
       "DescripcionAccesorio": "TORNILLO 10 X 38 (T-001) (CAJA X 1000 U.)",
       "FormulaCantidad": "8",
@@ -309,6 +304,22 @@
       "DescripcionAccesorio": "ESCUADRA A30/ALFA E-83 MONTICELLI",
       "FormulaCantidad": "4",
       "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80470",
+      "DescripcionAccesorio": "ESCUADRA A30/ALFA E-83 MONTICELLI",
+      "FormulaCantidad": "8",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89160",
+      "DescripcionAccesorio": "CLIP P/CONTRAVIDRIO T-96 O 5096(BOLSA X 100 U)",
+      "FormulaCantidad": "1",
+      "Unidad": "BOLSA X 100"
     }
   ],
   "Vidrios": [
@@ -334,7 +345,7 @@
     }
   ],
   "ConfiguracionVidrio": {
-    "Tipo": "ConContravidrio",
+    "Tipo": "SinContravidrio",
     "Reglas": [
       {
         "Id": 0,

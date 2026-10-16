@@ -1,0 +1,25 @@
+{
+  "Id": 0,
+  "Nombre": "TRAVESAÑO 888",
+  "LineaNombre": "MONACO",
+  "TipoProducto": "PAÑO FIJO",
+  "Posicion": 0,
+  "Espesor": 48,
+  "ContravidrioLadoDivisor": "",
+  "PerfilCodigo": "8880",
+  "PerfilDescripcion": "",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "8880",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "A-63",
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": [],
+  "HojaLadoDivisor": "6"
+}
