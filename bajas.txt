@@ -25,3 +25,6 @@
 Productos/MEDITERRANEA RPT/PAÑO_FIJO_M3_RPT.json
 Mosquiteros/MOSQUITERO_105.json
 Mosquiteros/MOSQUITERO_685.json
+Productos/MONACO/REBATIR_HOJA_831.json
+Contramarcos/CONTRAMARCO_862_PUERTAS.json
+Contramarcos/CONTRAMARCO_884_PUERTAS.json
