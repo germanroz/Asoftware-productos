@@ -1,6 +1,6 @@
 {
   "_comentario": "Bandas de dibujo en mm por producto (ancho visible de cada perfil), generadas por la herramienta de geometria. Clave: LINEA/NOMBRE. SOLO DIBUJO: no alimenta cortes ni precios.",
-  "generado": "2026-09-27 23:35:44",
+  "generado": "2026-10-19 23:51:38",
   "productos": {
     "ALFA/BANDEROLA CV CURVOS": {
       "familia": "marcohoja",
@@ -154,6 +154,14 @@
       "marco": 22,
       "hoja": 64.3
     },
+    "ATLANTICA/OSCILOBATIENTE 2H DVH": {
+      "familia": "perimetral",
+      "marco": 48.1
+    },
+    "ATLANTICA/OSCILOBATIENTE 2H VS": {
+      "familia": "perimetral",
+      "marco": 48.1
+    },
     "ATLANTICA/PAÑO FIJO CV CURVOS": {
       "familia": "perimetral",
       "marco": 28,
@@ -173,6 +181,19 @@
       "familia": "marcohoja",
       "marco": 22,
       "hoja": 64.3
+    },
+    "ATLANTICA/REBATIR 2H DVH": {
+      "familia": "perimetral",
+      "marco": 48.1
+    },
+    "ATLANTICA/REBATIR 2H VS": {
+      "familia": "perimetral",
+      "marco": 48.1
+    },
+    "DELTA/BANDEROLA DVH": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 59
     },
     "DELTA/BANDEROLA HOJA CURVA CV CURVOS": {
       "familia": "marcohoja",
@@ -197,6 +218,11 @@
       "marco": 19.3,
       "hoja": 42.2,
       "cv": 17
+    },
+    "DELTA/BANDEROLA VS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 59
     },
     "DELTA/DESPLAZABLE CV CURVOS": {
       "familia": "marcohoja",
@@ -258,6 +284,17 @@
       "marco": 25.3,
       "cv": 17.2
     },
+    "DELTA/REBATIR DVH": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 59
+    },
+    "DELTA/REBATIR HOJA 671 CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 59,
+      "cv": 17
+    },
     "DELTA/REBATIR HOJA CURVA CV CURVOS": {
       "familia": "marcohoja",
       "marco": 19.3,
@@ -281,6 +318,11 @@
       "marco": 19.3,
       "hoja": 42.2,
       "cv": 17
+    },
+    "DELTA/REBATIR VS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 59
     },
     "DELTA/VENTILUZ HOJA CURVA CV CURVOS": {
       "familia": "marcohoja",
@@ -315,6 +357,12 @@
       "familia": "marcohoja",
       "marco": 24,
       "hoja": 53
+    },
+    "GAMMA/DESPLAZABLE CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 23.1,
+      "hoja": 50.2,
+      "cv": 20.3
     },
     "GAMMA/OSCILOBATIENTE DVH": {
       "familia": "marcohoja",
@@ -494,15 +542,51 @@
       "marco": 25.5,
       "hoja": 64.3
     },
+    "MONACO/BANDEROLA HOJA 831": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 45.7,
+      "cv": 20.3
+    },
+    "MONACO/BANDEROLA HOJA 831 CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 45.7,
+      "cv": 20.3
+    },
     "MONACO/BANDEROLA VS": {
       "familia": "marcohoja",
       "marco": 25.5,
       "hoja": 64.3
     },
+    "MONACO/DESPLAZABLE": {
+      "familia": "marcohoja",
+      "marco": 21.3,
+      "hoja": 49.5,
+      "cv": 20.3
+    },
+    "MONACO/DESPLAZABLE CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 21.3,
+      "hoja": 49.5,
+      "cv": 20.3
+    },
     "MONACO/OSCILOBATIENTE DVH": {
       "familia": "marcohoja",
       "marco": 25.5,
       "hoja": 64.3
+    },
+    "MONACO/OSCILOBATIENTE HOJA 831": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 45.7,
+      "cv": 20.3
+    },
+    "MONACO/OSCILOBATIENTE HOJA 831 CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 45.7,
+      "cv": 20.3
     },
     "MONACO/OSCILOBATIENTE VS": {
       "familia": "marcohoja",
@@ -524,10 +608,79 @@
       "marco": 25.5,
       "hoja": 64.3
     },
+    "MONACO/REBATIR HOJA 831 CV CURVO": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 45.7,
+      "cv": 20.3
+    },
+    "MONACO/REBATIR HOJA 831 CV RECTO": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 45.7,
+      "cv": 20.3
+    },
+    "MONACO/REBATIR HOJA 831 CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 45.7,
+      "cv": 20.3
+    },
     "MONACO/REBATIR VS": {
       "familia": "marcohoja",
       "marco": 25.5,
       "hoja": 64.3
+    },
+    "MONACO/VENTILUZ DVH": {
+      "familia": "marcohoja",
+      "marco": 25.3,
+      "hoja": 64.3
+    },
+    "MONACO/VENTILUZ VS": {
+      "familia": "marcohoja",
+      "marco": 25.3,
+      "hoja": 64.3
+    },
+    "MONACO RPT/BANDEROLA": {
+      "familia": "marcohoja",
+      "marco": 21.3,
+      "hoja": 41.9,
+      "cv": 20.3
+    },
+    "MONACO RPT/BANDEROLA RPT25": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 41.9,
+      "cv": 20.3
+    },
+    "MONACO RPT/OSCILOBATIENTE 1H RPT15": {
+      "familia": "marcohoja",
+      "marco": 21.3,
+      "hoja": 41.9,
+      "cv": 20.3
+    },
+    "MONACO RPT/OSCILOBATIENTE 1H RPT25": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 41.9,
+      "cv": 20.3
+    },
+    "MONACO RPT/PAÑO FIJO": {
+      "familia": "perimetral",
+      "marco": 27.3,
+      "cv": 21.4
+    },
+    "MONACO RPT/REBATIR 1H RPT15": {
+      "familia": "marcohoja",
+      "marco": 21.3,
+      "hoja": 41.9,
+      "cv": 20.3
+    },
+    "MONACO RPT/REBATIR 1H RPT25": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 41.9,
+      "cv": 20.3
     },
     "NIZA/BANDEROLA N3 CV CURVOS": {
       "familia": "marcohoja",
@@ -660,6 +813,39 @@
       "familia": "perimetral",
       "marco": 19.5,
       "cv": 15.5
+    },
+    "TRADICIONAL/POSTIGO 1H 289/462/902": {
+      "familia": "marcohoja",
+      "marco": 22,
+      "hoja": 50
+    },
+    "TRADICIONAL/POSTIGO 1H 289/463/902": {
+      "familia": "marcohoja",
+      "marco": 22,
+      "hoja": 50
+    },
+    "TRADICIONAL/POSTIGO 1H 291/462/902": {
+      "familia": "marcohoja",
+      "marco": 15,
+      "hoja": 50
+    },
+    "TRADICIONAL/POSTIGO 1H 291/463/902": {
+      "familia": "marcohoja",
+      "marco": 15,
+      "hoja": 50
+    },
+    "TRADICIONAL/POSTIGO 2H 289/462/902": {
+      "familia": "perimetral",
+      "marco": 35
+    },
+    "TRADICIONAL/POSTIGO 2H 289/463/902": {
+      "familia": "perimetral",
+      "marco": 35
+    },
+    "TRADICIONAL/REBATIR 1H": {
+      "familia": "marcohoja",
+      "marco": 22,
+      "hoja": 37
     },
     "MEDITERRANEA/CORREDIZA 2H M1 DVH": {
       "familia": "corr45",
@@ -1087,6 +1273,71 @@
       "entrante": 12.5,
       "montante": 64.3,
       "tope": 4,
+      "hojas": 4,
+      "cruces": 2
+    },
+    "MONACO/CORREDIZA 6H E/3G E/CENTRAL DVH": {
+      "familia": "corr45",
+      "marco": 48.5,
+      "marcoH": 48.5,
+      "retiro": 40.5,
+      "retiroH": 40.5,
+      "hoja": 64.3,
+      "entrante": 12.5,
+      "montante": 64.3,
+      "tope": 4,
+      "hojas": 6,
+      "cruces": 2
+    },
+    "MONACO/CORREDIZA 6H E/3G E/CENTRAL VS": {
+      "familia": "corr45",
+      "marco": 48.5,
+      "marcoH": 48.5,
+      "retiro": 40.5,
+      "retiroH": 40.5,
+      "hoja": 61,
+      "entrante": 9,
+      "montante": 61,
+      "tope": 4,
+      "hojas": 6,
+      "cruces": 2
+    },
+    "MONACO RPT/CORREDIZA 2H": {
+      "familia": "corr45",
+      "marco": 47,
+      "marcoH": 47,
+      "retiro": 39,
+      "retiroH": 39,
+      "hoja": 73.1,
+      "entrante": 12.5,
+      "montante": 73.1,
+      "tope": 0,
+      "hojas": 2,
+      "cruces": 1
+    },
+    "MONACO RPT/CORREDIZA 3H": {
+      "familia": "corr45",
+      "marco": 47,
+      "marcoH": 47,
+      "retiro": 39,
+      "retiroH": 39,
+      "hoja": 73.1,
+      "entrante": 12.5,
+      "montante": 73.1,
+      "tope": 0,
+      "hojas": 3,
+      "cruces": 2
+    },
+    "MONACO RPT/CORREDIZA 4H E/CENTRAL": {
+      "familia": "corr45",
+      "marco": 47,
+      "marcoH": 47,
+      "retiro": 39,
+      "retiroH": 39,
+      "hoja": 73.1,
+      "entrante": 12.5,
+      "montante": 73.1,
+      "tope": 5,
       "hojas": 4,
       "cruces": 2
     },
