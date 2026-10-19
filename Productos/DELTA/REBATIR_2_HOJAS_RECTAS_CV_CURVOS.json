@@ -8,12 +8,14 @@
   "Descripcion": "REBATIR 2 HOJAS RECTAS CV CURVOS",
   "EspesorMin": 4,
   "EspesorMax": 29,
-  "Orden": 5,
+  "Orden": 7,
   "VarianteAccesorios": "kit_rebatir_2_hojas.default",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
