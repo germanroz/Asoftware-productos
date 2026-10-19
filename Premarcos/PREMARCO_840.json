@@ -1,0 +1,55 @@
+{
+  "Id": 0,
+  "Nombre": "PREMARCO 840",
+  "LineaNombre": "MONACO",
+  "Lineas": [
+    "MONACO"
+  ],
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "8400",
+      "DescripcionPerfil": "PREMARCO DE 69.5 MM",
+      "Cantidad": 2,
+      "Formula": "A\u002B36",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "8400",
+      "DescripcionPerfil": "PREMARCO DE 69.5 MM",
+      "Cantidad": 2,
+      "Formula": "H\u002B36",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "V"
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "CodigoAccesorio": "87220",
+      "DescripcionAccesorio": "GRAMPA DE AMURE PRE-MARCO (S-9 O S-09)",
+      "FormulaCantidad": "((A\u002BH)/250)*2",
+      "Unidad": "CAJAX100"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "80230",
+      "DescripcionAccesorio": "ESC. ARMADO PREM. 840 (54 MM) (CAJA X 50UNID)",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJA X 50"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "99110",
+      "DescripcionAccesorio": "ESQUINERO PREMARCO NYLON BATT JA",
+      "FormulaCantidad": "4",
+      "Unidad": "UNIDAD"
+    }
+  ]
+}
