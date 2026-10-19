@@ -9,11 +9,13 @@
   "EspesorMin": 17,
   "EspesorMax": 35,
   "Orden": 0,
-  "VarianteAccesorios": "",
+  "VarianteAccesorios": "kit_banderola.ban",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -63,7 +65,7 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "H",
-      "TipoPerfil": "Perfil",
+      "TipoPerfil": "RPT",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
@@ -81,7 +83,7 @@
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
       "Orientacion": "V",
-      "TipoPerfil": "Perfil",
+      "TipoPerfil": "RPT",
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
@@ -180,8 +182,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-144",
-      "FormulaAlto": "H-144",
+      "FormulaAncho": "A-151",
+      "FormulaAlto": "H-151",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

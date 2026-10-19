@@ -1,0 +1,280 @@
+{
+  "Id": 0,
+  "Nombre": "CORREDIZA 2H",
+  "LineaId": 920340,
+  "LineaNombre": "MONACO RPT",
+  "TipoAberturaId": 3,
+  "TipoAberturaNombre": "CORREDIZA",
+  "Descripcion": "CORREDIZA 2H",
+  "EspesorMin": 17,
+  "EspesorMax": 24,
+  "Orden": 0,
+  "VarianteAccesorios": "kit_2h.cor",
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "68210",
+      "DescripcionPerfil": "MARCO CORREDIZA M\u00D3NACO RPT",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 45,
+      "Orientacion": "H",
+      "TipoPerfil": "RPT",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "68210",
+      "DescripcionPerfil": "MARCO CORREDIZA M\u00D3NACO RPT",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "TipoPerfil": "RPT",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "62800",
+      "DescripcionPerfil": "Hoja Ventana Corrediza M-Uno RPT",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A/2-2",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 45,
+      "Orientacion": "H",
+      "TipoPerfil": "RPT",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "62800",
+      "DescripcionPerfil": "Hoja Ventana Corrediza M-Uno RPT",
+      "Cantidad": 4,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-78",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 45,
+      "Orientacion": "V",
+      "TipoPerfil": "RPT",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "3470",
+      "DescripcionPerfil": "Encuentro de Hojas Mediterr\u00E1nea RPT M-UNO",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-78",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "5610",
+      "DescripcionPerfil": "SOBRE GU\u00CDA MARCO CORREDIZA",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-89",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "94020",
+      "DescripcionAccesorio": "ESCUADRA HOJA CORREDIZA (0427) 3 MONTICELLI",
+      "FormulaCantidad": "12",
+      "Unidad": "UNIDAD"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80160",
+      "DescripcionAccesorio": "ESC. ALIN. MEDIT. (CE-E02) (BOLSA X 100UNID)",
+      "FormulaCantidad": "4",
+      "Unidad": "BOLSA X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89410",
+      "DescripcionAccesorio": "TORNILLO FIJADOR ENC. CENTRAL PERFILES 713/743/556",
+      "FormulaCantidad": "(H*2)/250",
+      "Unidad": "BOLSAX200"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83160",
+      "DescripcionAccesorio": "FELPA 7*6 CON FIN SEAL JN NEGRA ROLLO 400MTS",
+      "FormulaCantidad": "((A*4)\u002B(H*6))/1000",
+      "Unidad": "ROLLO X 400"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "94125",
+      "DescripcionAccesorio": "TOPE GUIA PTE CENTRAL MT-ME-ME RPT (CAJA X 50 U)",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJA X 50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89680",
+      "DescripcionAccesorio": "CRUCE DE HOJA - M1 RPT - (24.5 M/M)",
+      "FormulaCantidad": "2",
+      "Unidad": "BOLSASX20"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "89465",
+      "DescripcionAccesorio": "BOCA DE DESAGUE T-94/T-130 (CAJA X 100U)",
+      "FormulaCantidad": "2",
+      "Unidad": "CAJA X 100"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "83665",
+      "DescripcionAccesorio": "TAPA DESAGUE CON CLAP T-69 (BOLSA X 50UNID)",
+      "FormulaCantidad": "2",
+      "Unidad": "BOLSA X 50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "91550",
+      "DescripcionAccesorio": "TAPON CAJA AGUA PERFIL 6820 MONACO RPT",
+      "FormulaCantidad": "2",
+      "Unidad": "CAJA X 50"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "94060",
+      "DescripcionAccesorio": "PERF AISL ENCUENTRO \u0022J\u0022  M-I  (BARRA DE 6 MTS)",
+      "FormulaCantidad": "(H*2)/1000",
+      "Unidad": "BARRA X 6 MT"
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "94050",
+      "DescripcionAccesorio": "PERFIL AISLADOR \u0022U\u0022  M-1 (6200) (BARRA DE 6 MTS)",
+      "FormulaCantidad": "((A*2)\u002B(H*2))/1000",
+      "Unidad": "BARRA X 6 MT"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A/2-125",
+      "FormulaAlto": "H-199",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "SinContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 17,
+        "EspesorMax": 18,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82200",
+        "BurleteCodigo2": "82200"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 19,
+        "EspesorMax": 20,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82110",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 21,
+        "EspesorMax": 22,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82100",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 23,
+        "EspesorMax": 24,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82090",
+        "BurleteCodigo2": "82090"
+      }
+    ]
+  }
+}

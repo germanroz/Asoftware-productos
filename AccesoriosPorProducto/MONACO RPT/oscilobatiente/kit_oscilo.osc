@@ -1,0 +1,15 @@
+{
+  "Nombre": "KIT OSCILO",
+  "Descripcion": "",
+  "PesoMaximoKg": null,
+  "PesoMinimoKg": null,
+  "Accesorios": [
+    {
+      "CodigoAccesorio": "",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": "O/B JN"
+    }
+  ]
+}
