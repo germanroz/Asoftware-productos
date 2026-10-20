@@ -12,14 +12,35 @@
       "FamiliaPorMedida": ""
     },
     {
-      "CodigoAccesorio": "80005",
+      "CodigoAccesorio": "96280",
       "Cantidad": 1,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""
     },
     {
-      "CodigoAccesorio": "80020",
+      "CodigoAccesorio": "95990",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "96190",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "88515",
+      "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "94525",
       "Cantidad": 1,
       "Modelo": "",
       "Obligatorio": true,

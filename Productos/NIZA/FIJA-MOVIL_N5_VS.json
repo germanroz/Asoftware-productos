@@ -8,7 +8,7 @@
   "Descripcion": "FIJA-MOVIL N5 VS",
   "EspesorMin": 6,
   "EspesorMax": 10,
-  "Orden": 0,
+  "Orden": 1,
   "VarianteAccesorios": "n5_fija-movil.fmo",
   "FormaCorrediza": 1,
   "HojaCentralDoble": false,
