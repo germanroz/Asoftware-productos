@@ -14,6 +14,8 @@
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -240,14 +242,14 @@
       "ProductoId": 0,
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/4-90",
+      "FormulaAncho": "A/4-92",
       "FormulaAlto": "H-208",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
   ],
   "ConfiguracionVidrio": {
-    "Tipo": "ConContravidrio",
+    "Tipo": "SinContravidrio",
     "Reglas": [
       {
         "Id": 0,
