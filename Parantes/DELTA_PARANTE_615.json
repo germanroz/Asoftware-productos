@@ -1,0 +1,25 @@
+{
+  "Id": 0,
+  "Nombre": "PARANTE 615",
+  "LineaNombre": "DELTA",
+  "TipoProducto": "PAÑO FIJO",
+  "Posicion": 0,
+  "Espesor": 51,
+  "ContravidrioLadoDivisor": "",
+  "PerfilCodigo": "6150",
+  "PerfilDescripcion": "",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "6150",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "Alto-52",
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": [],
+  "HojaLadoDivisor": "5.9"
+}

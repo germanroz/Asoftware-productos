@@ -1,0 +1,25 @@
+{
+  "Id": 0,
+  "Nombre": "Travesaño 615 PF",
+  "LineaNombre": "DELTA",
+  "TipoProducto": "PAÑO FIJO",
+  "Posicion": 0,
+  "Espesor": 51,
+  "ContravidrioLadoDivisor": "",
+  "PerfilCodigo": "6150",
+  "PerfilDescripcion": "",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "6150",
+      "DescripcionPerfil": "",
+      "Cantidad": 1,
+      "FormulaMedida": "A-50",
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": [],
+  "HojaLadoDivisor": "5.9"
+}
