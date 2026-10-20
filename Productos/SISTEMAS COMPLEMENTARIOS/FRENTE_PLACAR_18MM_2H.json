@@ -78,7 +78,7 @@
       "DescripcionPerfil": "CANTONERA HOJA PLACARD DE 15.8 MM",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "A/2-66",
+      "FormulaMedida": "A/2-57",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -106,8 +106,8 @@
       "ProductoId": 0,
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaAncho": "A/2",
-      "FormulaAlto": "H",
+      "FormulaAncho": "A/2-30",
+      "FormulaAlto": "H-32",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
