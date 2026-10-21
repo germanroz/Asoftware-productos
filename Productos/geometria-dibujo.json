@@ -1,6 +1,6 @@
 {
   "_comentario": "Bandas de dibujo en mm por producto (ancho visible de cada perfil), generadas por la herramienta de geometria. Clave: LINEA/NOMBRE. SOLO DIBUJO: no alimenta cortes ni precios.",
-  "generado": "2026-10-19 23:51:38",
+  "generado": "2026-10-21 18:29:32",
   "productos": {
     "ALFA/BANDEROLA CV CURVOS": {
       "familia": "marcohoja",
@@ -586,6 +586,18 @@
       "familia": "marcohoja",
       "marco": 25.5,
       "hoja": 45.7,
+      "cv": 20.3
+    },
+    "MONACO/OSCILOBATIENTE HOJA 861 CV CURVOS": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 75,
+      "cv": 20.3
+    },
+    "MONACO/OSCILOBATIENTE HOJA 861 CV RECTOS": {
+      "familia": "marcohoja",
+      "marco": 25.5,
+      "hoja": 75,
       "cv": 20.3
     },
     "MONACO/OSCILOBATIENTE VS": {
