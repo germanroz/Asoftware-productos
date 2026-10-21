@@ -8,6 +8,7 @@
   "ContravidrioLadoDivisor": "espesor/2",
   "DescuentoInferior": "101",
   "DescuentoInferiorVidrio": "108",
+  "ModelosExcluidos": [ "M5" ],
   "PerfilCodigo": "8880",
   "PerfilDescripcion": null,
   "Perfiles": [

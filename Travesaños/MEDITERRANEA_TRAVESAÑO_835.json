@@ -6,6 +6,7 @@
   "Posicion": 0,
   "Espesor": 24,
   "ContravidrioLadoDivisor": "",
+  "ModelosExcluidos": [ "M5" ],
   "PerfilCodigo": "8350",
   "PerfilDescripcion": "",
   "Perfiles": [
