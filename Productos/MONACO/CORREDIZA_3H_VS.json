@@ -257,7 +257,7 @@
         "Id": 0,
         "ProductoId": 0,
         "EspesorMin": 8,
-        "EspesorMax": 9,
+        "EspesorMax": 10,
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
