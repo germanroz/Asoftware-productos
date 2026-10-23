@@ -8,12 +8,14 @@
   "Descripcion": "OSCILOBATIENTE 2 HOJAS CURVAS CV CURVOS",
   "EspesorMin": 4,
   "EspesorMax": 29,
-  "Orden": 5,
+  "Orden": 7,
   "VarianteAccesorios": "kit_on_jn_2h.osc",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
