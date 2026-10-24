@@ -12,7 +12,10 @@
   "VarianteAccesorios": "",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
+  "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -309,7 +312,7 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "Cantidad": 1,
+      "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaAncho": "A/2-187",
       "FormulaAlto": "H-237",

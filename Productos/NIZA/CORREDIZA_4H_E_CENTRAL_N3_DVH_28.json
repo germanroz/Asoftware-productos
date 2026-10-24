@@ -14,6 +14,8 @@
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -130,7 +132,7 @@
       "DescripcionPerfil": "Encuentro central cuatro hojas",
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaMedida": "h-78",
+      "FormulaMedida": "H-78",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -215,7 +217,7 @@
       "Cantidad": 4,
       "FormulaCantidad": "",
       "FormulaAncho": "A/4-67",
-      "FormulaAlto": "H-182",
+      "FormulaAlto": "H-183",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

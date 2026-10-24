@@ -14,6 +14,8 @@
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -152,7 +154,7 @@
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
-      "Orientacion": "H",
+      "Orientacion": "V",
       "TipoPerfil": "RPT",
       "GalceBase": 0,
       "AjusteGalce": 0,

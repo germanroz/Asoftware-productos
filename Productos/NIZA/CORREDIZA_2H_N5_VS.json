@@ -14,6 +14,8 @@
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -213,7 +215,7 @@
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaAncho": "A/2-126",
-      "FormulaAlto": "H-209",
+      "FormulaAlto": "H-208",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

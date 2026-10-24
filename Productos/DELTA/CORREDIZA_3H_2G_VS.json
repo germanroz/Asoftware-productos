@@ -20,8 +20,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "6550",
-      "DescripcionPerfil": "JAMBA DE MARCO CORREDIZA",
+      "CodigoPerfil": "6510",
+      "DescripcionPerfil": "UMBRAL/DINTEL MARCO CORREDIZA",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A-42",
@@ -38,8 +38,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "6510",
-      "DescripcionPerfil": "UMBRAL/DINTEL MARCO CORREDIZA",
+      "CodigoPerfil": "6550",
+      "DescripcionPerfil": "JAMBA DE MARCO CORREDIZA",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H",

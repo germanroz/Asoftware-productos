@@ -11,7 +11,7 @@
   "Orden": 25,
   "VarianteAccesorios": "kit_3_h_45_copia.cor",
   "FormaCorrediza": 0,
-  "HojaCentralDoble": true,
+  "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
   "AccesorioEsquinaCodigo": null,

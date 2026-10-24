@@ -350,8 +350,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-E-97",
-      "FormulaAlto": "H-190",
+      "FormulaAncho": "A-E-67",
+      "FormulaAlto": "H-80",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     },
@@ -360,8 +360,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "E-5-66",
-      "FormulaAlto": "H-85",
+      "FormulaAncho": "E-138",
+      "FormulaAlto": "H-218",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }

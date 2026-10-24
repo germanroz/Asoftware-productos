@@ -276,7 +276,7 @@
       "DescripcionPerfil": "Z\u00F3calo /cabezal hoja 90\u00B0 DVH 28 mm",
       "Cantidad": 2,
       "FormulaCantidad": "",
-      "FormulaMedida": "E-40",
+      "FormulaMedida": "E-60",
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
@@ -328,8 +328,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "A-E-97",
-      "FormulaAlto": "H-190",
+      "FormulaAncho": "A-E-48",
+      "FormulaAlto": "H-80",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     },
@@ -338,8 +338,8 @@
       "ProductoId": 0,
       "Cantidad": 1,
       "FormulaCantidad": "",
-      "FormulaAncho": "E-5-66",
-      "FormulaAlto": "H-85",
+      "FormulaAncho": "E-112",
+      "FormulaAlto": "H-190",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
