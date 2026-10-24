@@ -1,0 +1,27 @@
+{
+  "Id": 0,
+  "Nombre": "TRAVESA\u00D1O PUERTA 6160",
+  "LineaNombre": "MEDITERRANEA RPT",
+  "TipoProducto": "PUERTA",
+  "Posicion": 0,
+  "Espesor": 27,
+  "ContravidrioLadoDivisor": "",
+  "HojaLadoDivisor": "13.5",
+  "DescuentoInferior": "(cv - 2)/2",
+  "DescuentoInferiorVidrio": "118.5",
+  "PerfilCodigo": "61600",
+  "PerfilDescripcion": "Tavesa\u00F1o Angosto Pa\u00F1o Fijo M-Tres 15RPT",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "61600",
+      "DescripcionPerfil": "Tavesa\u00F1o Angosto Pa\u00F1o Fijo M-Tres 15RPT",
+      "Cantidad": 1,
+      "FormulaMedida": "A-226",
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": []
+}

@@ -1,17 +1,17 @@
 {
   "Id": 0,
-  "Nombre": "",
+  "Nombre": "TRAVESA\u00D1O 179",
   "LineaNombre": "GAMMA",
   "TipoProducto": "PA\u00D1O FIJO",
   "Posicion": 0,
   "Espesor": 24,
   "ContravidrioLadoDivisor": "",
   "PerfilCodigo": "1790",
-  "PerfilDescripcion": "",
+  "PerfilDescripcion": "Travesa\u00F1o PF Nueva Gamma",
   "Perfiles": [
     {
       "CodigoPerfil": "1790",
-      "DescripcionPerfil": "",
+      "DescripcionPerfil": "Travesa\u00F1o PF Nueva Gamma",
       "Cantidad": 1,
       "FormulaMedida": "A-60",
       "AnguloCorte": 90,
