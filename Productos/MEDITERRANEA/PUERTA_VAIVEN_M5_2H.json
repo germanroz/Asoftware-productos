@@ -275,7 +275,7 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 11,
+        "EspesorMin": 12,
         "EspesorMax": 12,
         "ContravidrioCodigo": "6120",
         "ContravidrioDescripcion": "CONTRAVIDRIO INTERNO 21 MM M-CINCO",

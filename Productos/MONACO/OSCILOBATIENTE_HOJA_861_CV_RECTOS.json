@@ -92,8 +92,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "5230",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO DE 16 MM",
+      "CodigoPerfil": "8760",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 29MM",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "A-200",
@@ -110,8 +110,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "5230",
-      "DescripcionPerfil": "CONTRAVIDRIO CURVO DE 16 MM",
+      "CodigoPerfil": "8760",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 29MM",
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaMedida": "H-200",

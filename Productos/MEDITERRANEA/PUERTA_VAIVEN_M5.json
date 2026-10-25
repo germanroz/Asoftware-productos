@@ -14,6 +14,8 @@
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -170,7 +172,7 @@
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
-      "Orientacion": "H",
+      "Orientacion": "V",
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
@@ -188,7 +190,7 @@
       "AnguloCorte1": 90,
       "AnguloCorte2": 90,
       "AnguloCorte": 90,
-      "Orientacion": "H",
+      "Orientacion": "V",
       "TipoPerfil": "Perfil",
       "GalceBase": 0,
       "AjusteGalce": 0,
@@ -273,7 +275,7 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 11,
+        "EspesorMin": 12,
         "EspesorMax": 12,
         "ContravidrioCodigo": "6120",
         "ContravidrioDescripcion": "CONTRAVIDRIO INTERNO 21 MM M-CINCO",

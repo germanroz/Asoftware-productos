@@ -14,6 +14,8 @@
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -144,8 +146,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8760",
-      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 29MM",
+      "CodigoPerfil": "8800",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 25MM",
       "Cantidad": 8,
       "FormulaCantidad": "",
       "FormulaMedida": "A/4-122",
@@ -162,8 +164,8 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "CodigoPerfil": "8760",
-      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 29MM",
+      "CodigoPerfil": "8800",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 25MM",
       "Cantidad": 8,
       "FormulaCantidad": "",
       "FormulaMedida": "H-325",

@@ -216,7 +216,7 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 20,
+        "EspesorMin": 21,
         "EspesorMax": 21,
         "ContravidrioCodigo": "5250",
         "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 20 MM",

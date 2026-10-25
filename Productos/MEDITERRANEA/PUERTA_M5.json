@@ -9,8 +9,13 @@
   "EspesorMin": 4,
   "EspesorMax": 30,
   "Orden": 0,
-  "VarianteAccesorios": "kit_m5_h103+h50+h51.pue",
+  "VarianteAccesorios": "kit_m5_h103\u002Bh50\u002Bh51.pue",
   "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -28,7 +33,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -46,7 +51,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -266,7 +271,7 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 11,
+        "EspesorMin": 12,
         "EspesorMax": 12,
         "ContravidrioCodigo": "6120",
         "ContravidrioDescripcion": "CONTRAVIDRIO INTERNO 21 MM M-CINCO",

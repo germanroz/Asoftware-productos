@@ -33,7 +33,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -51,7 +51,7 @@
       "GalceBase": 0,
       "AjusteGalce": 0,
       "ContravidrioFijo": false,
-      "EsMarcoPerimetral": false
+      "EsMarcoPerimetral": true
     },
     {
       "Id": 0,
@@ -130,7 +130,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89160",
       "DescripcionAccesorio": "CLIP P/CONTRAVIDRIO T-96 O 5096(BOLSA X 100 U)",
-      "FormulaCantidad": "((A*2)+(H*2))/200",
+      "FormulaCantidad": "((A*2)\u002B(H*2))/200",
       "Unidad": "BOLSA X 100"
     },
     {
@@ -138,7 +138,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "94550",
       "DescripcionAccesorio": "BURLETE HERMETICIDAD MONACO RPT-15 *12378 G* EPDM",
-      "FormulaCantidad": "((A*2)+(H*2))/1000",
+      "FormulaCantidad": "((A*2)\u002B(H*2))/1000",
       "Unidad": "ROLLO X 50"
     },
     {
@@ -146,7 +146,7 @@
       "ProductoId": 0,
       "CodigoAccesorio": "89060",
       "DescripcionAccesorio": "BURLETE PARTE AEL ALCEMAR (ROLLO X 150MT)",
-      "FormulaCantidad": "((A*2)+(H*2))/1000",
+      "FormulaCantidad": "((A*2)\u002B(H*2))/1000",
       "Unidad": "ROLLO X 150"
     }
   ],
@@ -190,7 +190,7 @@
       {
         "Id": 0,
         "ProductoId": 0,
-        "EspesorMin": 20,
+        "EspesorMin": 21,
         "EspesorMax": 21,
         "ContravidrioCodigo": "5250",
         "ContravidrioDescripcion": "CONTRAVIDRIO CURVO DE 20 MM",

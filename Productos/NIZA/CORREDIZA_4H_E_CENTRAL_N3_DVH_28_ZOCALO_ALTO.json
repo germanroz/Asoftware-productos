@@ -14,6 +14,8 @@
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
@@ -249,8 +251,8 @@
         "ContravidrioCodigo": null,
         "ContravidrioDescripcion": "",
         "ContravidrioAjuste": 0,
-        "BurleteCodigo1": "8211",
-        "BurleteCodigo2": "8211"
+        "BurleteCodigo1": "82110",
+        "BurleteCodigo2": "82110"
       },
       {
         "Id": 0,

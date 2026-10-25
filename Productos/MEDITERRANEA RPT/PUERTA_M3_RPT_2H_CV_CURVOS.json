@@ -186,7 +186,7 @@
       "DescripcionPerfil": "CONTRAVIDRIO CURVO DE 16 MM",
       "Cantidad": 4,
       "FormulaCantidad": "",
-      "FormulaMedida": "H-264",
+      "FormulaMedida": "H-223",
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "AnguloCorte": 90,
@@ -279,7 +279,7 @@
       "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaAncho": "A/2-200",
-      "FormulaAlto": "H-238",
+      "FormulaAlto": "H-239",
       "BurleteCodigo1": "",
       "BurleteCodigo2": ""
     }
