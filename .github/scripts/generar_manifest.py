@@ -53,6 +53,30 @@ BAJAS = "bajas.txt"
 # proposito desde publicar-web. Si el archivo no existe, no hay nada obligatorio.
 PAQUETE_OBLIGATORIO = "paquete-obligatorio.txt"
 
+# Avisos remotos que la app muestra al arrancar (#36; los arma la solapa "Avisos" de
+# publicar-web). Se copian TAL CUAL al campo "avisos": la app filtra por fecha, version
+# y licencia, y valida cada aviso. Las imagenes (Avisos/<nombre>) NO van en el manifest:
+# las sirve la API (plugin?recurso=aviso-imagen).
+AVISOS = "Avisos/avisos.json"
+
+
+def datos_avisos():
+    """Lista de Avisos/avisos.json, o [] si no esta o esta rota (nunca frena el manifest)."""
+    if not os.path.isfile(AVISOS):
+        return []
+    try:
+        with open(AVISOS, encoding="utf-8-sig") as f:
+            avisos = json.load(f)
+    except Exception as e:
+        print(f"ATENCION: {AVISOS} no se pudo leer ({e}). No se publican avisos.")
+        return []
+    if not isinstance(avisos, list):
+        print(f"ATENCION: {AVISOS} no es una lista. No se publican avisos.")
+        return []
+    avisos = [a for a in avisos if isinstance(a, dict)]
+    print(f"Avisos: {len(avisos)}")
+    return avisos
+
 
 def id_paquete_obligatorio():
     """Contenido de paquete-obligatorio.txt, o "" si no esta."""
@@ -210,6 +234,7 @@ def main():
     bajas = datos_bajas(archivos)
 
     obligatorio = id_paquete_obligatorio()
+    avisos = datos_avisos()
 
     manifest = {
         "generado": date.today().isoformat(),
@@ -218,6 +243,7 @@ def main():
         "paqueteObligatorio": obligatorio,
         "archivos": archivos,
         "bajas": bajas,
+        "avisos": avisos,
     }
     with open("manifest.json", "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)

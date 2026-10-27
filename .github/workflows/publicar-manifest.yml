@@ -29,6 +29,8 @@ on:
       # workflow por su carpeta, pero agregar la ruta aca tambien tiene que
       # dispararlo, o la baja no se publica hasta el proximo push.
       - "bajas.txt"
+      # Avisos remotos (solapa "Avisos" de publicar-web): van al campo "avisos" del manifest.
+      - "Avisos/**"
       - ".github/scripts/generar_manifest.py"
       - ".github/workflows/publicar-manifest.yml"
   # Permite regenerarlo a mano desde la pestaña Actions sin tocar el catalogo.
