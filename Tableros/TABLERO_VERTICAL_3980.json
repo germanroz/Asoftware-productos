@@ -2,7 +2,7 @@
   "Id": 3,
   "Nombre": "TABLERO VERTICAL 398",
   "LineaNombre": "NIZA",
-  "Lineas": ["NIZA", "ALUPAL", "MONACO"],
+  "Lineas": ["NIZA", "ALUPAL", "MONACO", "TRADICIONAL"],
   "CodigoPerfil": "3980",
   "DescripcionPerfil": "",
   "AnchoUtil": 100,
