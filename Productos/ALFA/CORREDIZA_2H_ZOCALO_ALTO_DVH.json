@@ -6,7 +6,7 @@
   "TipoAberturaId": 3,
   "TipoAberturaNombre": "CORREDIZA",
   "Descripcion": "CORREDIZA 2H ZOCALO ALTO DVH",
-  "EspesorMin": 21,
+  "EspesorMin": 19,
   "EspesorMax": 26,
   "Orden": 2,
   "VarianteAccesorios": "kit_2h_cierre_lat_\u002B_r47_\u002B_felpa.cor",
@@ -215,6 +215,17 @@
   "ConfiguracionVidrio": {
     "Tipo": "SinContravidrio",
     "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 19,
+        "EspesorMax": 20,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82020",
+        "BurleteCodigo2": "82020"
+      },
       {
         "Id": 0,
         "ProductoId": 0,

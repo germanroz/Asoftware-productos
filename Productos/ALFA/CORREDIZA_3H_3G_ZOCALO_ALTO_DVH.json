@@ -6,7 +6,7 @@
   "TipoAberturaId": 3,
   "TipoAberturaNombre": "CORREDIZA",
   "Descripcion": "Copia de CORREDIZA 3H 3G DVH",
-  "EspesorMin": 21,
+  "EspesorMin": 19,
   "EspesorMax": 26,
   "Orden": 9,
   "VarianteAccesorios": "",
@@ -271,6 +271,17 @@
   "ConfiguracionVidrio": {
     "Tipo": "SinContravidrio",
     "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 19,
+        "EspesorMax": 20,
+        "ContravidrioCodigo": null,
+        "ContravidrioDescripcion": "",
+        "ContravidrioAjuste": 0,
+        "BurleteCodigo1": "82020",
+        "BurleteCodigo2": "82020"
+      },
       {
         "Id": 0,
         "ProductoId": 0,
