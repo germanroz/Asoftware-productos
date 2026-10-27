@@ -1,0 +1,241 @@
+{
+  "Id": 0,
+  "Nombre": "PAÑO FIJO CV RECTOS",
+  "LineaId": 920003,
+  "LineaNombre": "A30NEW",
+  "TipoAberturaId": 1,
+  "TipoAberturaNombre": "PAÑO FIJO",
+  "Descripcion": "PAÑO FIJO CV RECTOS",
+  "EspesorMin": 4,
+  "EspesorMax": 32,
+  "Orden": 1,
+  "VarianteAccesorios": "",
+  "FormaCorrediza": 0,
+  "HojaCentralDoble": false,
+  "SolapeMarco": 0,
+  "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
+  "Perfiles": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "ALU6055",
+      "DescripcionPerfil": "MARCO PAÑO FIJO Y VENTANA DE ABRIR CURVO",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "ALU6055",
+      "DescripcionPerfil": "MARCO PAÑO FIJO Y VENTANA DE ABRIR CURVO",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H",
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Perfil",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": true
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "ALU6046",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 19 MM",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "A-58",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "H",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    },
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoPerfil": "ALU6046",
+      "DescripcionPerfil": "CONTRAVIDRIO RECTO DE 19 MM",
+      "Cantidad": 2,
+      "FormulaCantidad": "",
+      "FormulaMedida": "H-102",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90,
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "TipoPerfil": "Contravidrio",
+      "GalceBase": 0,
+      "AjusteGalce": 0,
+      "ContravidrioFijo": false,
+      "EsMarcoPerimetral": false
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "CodigoAccesorio": "80470",
+      "DescripcionAccesorio": "ESCUADRA A30/ALFA E-83 MONTICELLI",
+      "FormulaCantidad": "4",
+      "Unidad": "UNIDAD"
+    }
+  ],
+  "Vidrios": [
+    {
+      "Id": 0,
+      "ProductoId": 0,
+      "Cantidad": 1,
+      "FormulaCantidad": "",
+      "FormulaAncho": "A-77",
+      "FormulaAlto": "H-77",
+      "BurleteCodigo1": "",
+      "BurleteCodigo2": ""
+    }
+  ],
+  "ConfiguracionVidrio": {
+    "Tipo": "ConContravidrio",
+    "Reglas": [
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 3,
+        "EspesorMax": 4,
+        "ContravidrioCodigo": "ALU6045",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 37 MM",
+        "ContravidrioAjuste": -37,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 5,
+        "EspesorMax": 6,
+        "ContravidrioCodigo": "ALU6045",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 37 MM",
+        "ContravidrioAjuste": -37,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 7,
+        "EspesorMax": 8,
+        "ContravidrioCodigo": "ALU6045",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 37 MM",
+        "ContravidrioAjuste": -37,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82090"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 16,
+        "EspesorMax": 17,
+        "ContravidrioCodigo": "ALU6046",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 19 MM",
+        "ContravidrioAjuste": -19,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82020"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 18,
+        "EspesorMax": 19,
+        "ContravidrioCodigo": "ALU6046",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 19 MM",
+        "ContravidrioAjuste": -19,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 20,
+        "EspesorMax": 21,
+        "ContravidrioCodigo": "ALU6046",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 19 MM",
+        "ContravidrioAjuste": -19,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 22,
+        "EspesorMax": 23,
+        "ContravidrioCodigo": "ALU6046",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 19 MM",
+        "ContravidrioAjuste": -19,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82090"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 24,
+        "EspesorMax": 25,
+        "ContravidrioCodigo": "ALU6049",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 12 MM",
+        "ContravidrioAjuste": -12,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82020"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 26,
+        "EspesorMax": 27,
+        "ContravidrioCodigo": "ALU6049",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 12 MM",
+        "ContravidrioAjuste": -12,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 28,
+        "EspesorMax": 29,
+        "ContravidrioCodigo": "ALU6049",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 12 MM",
+        "ContravidrioAjuste": -12,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 30,
+        "EspesorMax": 31,
+        "ContravidrioCodigo": "ALU6049",
+        "ContravidrioDescripcion": "CONTRAVIDRIO RECTO DE 12 MM",
+        "ContravidrioAjuste": -12,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82090"
+      }
+    ]
+  }
+}
