@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "aviso-20261028-1",
+    "titulo": "Revisá tu listado de vidrios",
+    "texto": "Con la última actualización pueden haber aparecido en tu listado algunos vidrios de muestra que habías borrado (por ejemplo FLOAT 4, LAM 3+3 o algunos DVH).\n\nTus vidrios y tus precios no se modificaron: siguen tal cual los tenías.\n\nSi ves vidrios que no usás, podés borrarlos desde Ver Vidrios. Si alguno está repetido (por ejemplo, dos \"FLOAT 4\"), borrá el que no tiene tu precio.\n\nDisculpá la molestia.",
+    "etiqueta": "info",
+    "imagen": "",
+    "boton": "",
+    "url": "",
+    "desde": "2026-10-28",
+    "hasta": "2026-11-27",
+    "version": "todas",
+    "versionNum": "",
+    "licencias": [
+      "prueba",
+      "anual",
+      "perpetua",
+      "socio"
+    ]
+  }
+]
