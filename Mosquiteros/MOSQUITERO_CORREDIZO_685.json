@@ -24,7 +24,6 @@
         "CORREDIZA 3H 3G VS",
         "CORREDIZA 3H 3G ZOCALO ALTO DVH",
         "CORREDIZA 3H 3G ZOCALO ALTO VS",
-        "CORREDIZA 3H E/2G DVH",
         "CORREDIZA 4H E/ CENTRAL DVH",
         "CORREDIZA 4H E/ CENTRAL VS",
         "CORREDIZA 4H E/ CENTRAL ZOCALO ALTO DVH",
@@ -65,6 +64,20 @@
         "CORREDIZA 6H E/CENTRAL 3G DVH ZOCALO ALTO",
         "CORREDIZA 6H E/CENTRAL 3G VS",
         "CORREDIZA 6H E/CENTRAL 3G VS ZOCALO ALTO"
+      ]
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "6850",
+      "DescripcionPerfil": "HOJA MOSQUITERO",
+      "Cantidad": 2,
+      "Formula": "A/4\u002B15",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H",
+      "Productos": [
+        "CORREDIZA 3H E/2G DVH"
       ]
     }
   ],
