@@ -8,12 +8,14 @@
   "Descripcion": "CORREDIZA 6H E/CENTRAL N5 DVH",
   "EspesorMin": 20,
   "EspesorMax": 26,
-  "Orden": 23,
+  "Orden": 25,
   "VarianteAccesorios": "kit_6h.cor",
   "FormaCorrediza": 1,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
