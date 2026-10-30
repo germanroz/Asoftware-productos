@@ -1,0 +1,55 @@
+{
+  "Id": 0,
+  "Nombre": "PREMARCO 6066",
+  "LineaNombre": "A30NEW",
+  "Lineas": [
+    "A30NEW"
+  ],
+  "Perfiles": [
+    {
+      "Id": 0,
+      "CodigoPerfil": "ALU6066",
+      "DescripcionPerfil": "PREMARCO A 30 NEW",
+      "Cantidad": 2,
+      "Formula": "A\u002B36",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H"
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "ALU6066",
+      "DescripcionPerfil": "PREMARCO A 30 NEW",
+      "Cantidad": 2,
+      "Formula": "H\u002B36",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "V"
+    }
+  ],
+  "Accesorios": [
+    {
+      "Id": 0,
+      "CodigoAccesorio": "87220",
+      "DescripcionAccesorio": "GRAMPA DE AMURE PRE-MARCO (S-9 O S-09)",
+      "FormulaCantidad": "((A\u002BH)/250)*2",
+      "Unidad": "CAJAX100"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "87210",
+      "DescripcionAccesorio": "ESCUADRA P/PREMA PERFIL 648 Y 450  (E-78) ALUMINIO",
+      "FormulaCantidad": "4",
+      "Unidad": "CAJA X 40"
+    },
+    {
+      "Id": 0,
+      "CodigoAccesorio": "99110",
+      "DescripcionAccesorio": "ESQUINERO PREMARCO NYLON BATT JA",
+      "FormulaCantidad": "4",
+      "Unidad": "UNIDAD"
+    }
+  ]
+}
