@@ -53,6 +53,34 @@
         "CORREDIZA 3H M7 RPT",
         "CORREDIZA 4H 4G M7 RPT"
       ]
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "7380",
+      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA M-V Y M-VII",
+      "Cantidad": 2,
+      "Formula": "H-84",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "V",
+      "Productos": [
+        "CORREDIZA 3H M3 RPT"
+      ]
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "7380",
+      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA M-V Y M-VII",
+      "Cantidad": 2,
+      "Formula": "A/3\u002B21",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H",
+      "Productos": [
+        "CORREDIZA 3H M3 RPT"
+      ]
     }
   ],
   "Accesorios": [
