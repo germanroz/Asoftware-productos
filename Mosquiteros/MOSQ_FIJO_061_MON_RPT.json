@@ -13,7 +13,16 @@
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "Orientacion": "H",
-      "Productos": []
+      "Productos": [
+        "BANDEROLA",
+        "BANDEROLA RPT25",
+        "HOJA RPT15",
+        "HOJA RPT25",
+        "OSCILOBATIENTE 1H RPT15",
+        "OSCILOBATIENTE 1H RPT25",
+        "REBATIR 1H RPT15",
+        "REBATIR 1H RPT25"
+      ]
     },
     {
       "Id": 0,
@@ -25,7 +34,16 @@
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "Orientacion": "V",
-      "Productos": []
+      "Productos": [
+        "BANDEROLA",
+        "BANDEROLA RPT25",
+        "HOJA RPT15",
+        "HOJA RPT25",
+        "OSCILOBATIENTE 1H RPT15",
+        "OSCILOBATIENTE 1H RPT25",
+        "REBATIR 1H RPT15",
+        "REBATIR 1H RPT25"
+      ]
     }
   ],
   "Accesorios": [
