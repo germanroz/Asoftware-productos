@@ -1,0 +1,29 @@
+{
+  "Id": 0,
+  "Nombre": "PARANTE DVH 185",
+  "LineaNombre": "GAMMA",
+  "TipoProducto": "PUERTA",
+  "Posicion": 0,
+  "Espesor": 70,
+  "ContravidrioLadoDivisor": "",
+  "HojaLadoDivisor": "",
+  "VidrioLadoDivisor": "espesor/2-13",
+  "ModelosExcluidos": [
+    "VS"
+  ],
+  "PerfilCodigo": "1850",
+  "PerfilDescripcion": "Travesa\u00F1o s/Contravidrio p/DVH",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "1850",
+      "DescripcionPerfil": "Travesa\u00F1o s/Contravidrio p/DVH",
+      "Cantidad": 1,
+      "FormulaMedida": "H-198",
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": []
+}

@@ -1,0 +1,29 @@
+{
+  "Id": 0,
+  "Nombre": "PARANTE VS 184",
+  "LineaNombre": "GAMMA",
+  "TipoProducto": "PUERTA",
+  "Posicion": 0,
+  "Espesor": 70,
+  "ContravidrioLadoDivisor": "",
+  "HojaLadoDivisor": "",
+  "VidrioLadoDivisor": "espesor/2-13",
+  "ModelosExcluidos": [
+    "DVH"
+  ],
+  "PerfilCodigo": "1840",
+  "PerfilDescripcion": "Travesa\u00F1o s/Contravidrio p/V.Simple",
+  "Perfiles": [
+    {
+      "CodigoPerfil": "1840",
+      "DescripcionPerfil": "Travesa\u00F1o s/Contravidrio p/V.Simple",
+      "Cantidad": 1,
+      "FormulaMedida": "H-198",
+      "AnguloCorte": 90,
+      "Orientacion": "V",
+      "AnguloCorte1": 90,
+      "AnguloCorte2": 90
+    }
+  ],
+  "Accesorios": []
+}
