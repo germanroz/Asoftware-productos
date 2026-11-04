@@ -196,7 +196,7 @@
     {
       "Id": 0,
       "ProductoId": 0,
-      "Cantidad": 1,
+      "Cantidad": 2,
       "FormulaCantidad": "",
       "FormulaAncho": "A/2-170",
       "FormulaAlto": "H-173",
