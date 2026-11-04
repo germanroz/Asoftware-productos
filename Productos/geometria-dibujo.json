@@ -324,6 +324,12 @@
       "marco": 19.3,
       "hoja": 59
     },
+    "DELTA/VENTILUZ DVH": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 59,
+      "manual": true
+    },
     "DELTA/VENTILUZ HOJA CURVA CV CURVOS": {
       "familia": "marcohoja",
       "marco": 19.3,
@@ -347,6 +353,12 @@
       "marco": 19.3,
       "hoja": 42.2,
       "cv": 17
+    },
+    "DELTA/VENTILUZ VS": {
+      "familia": "marcohoja",
+      "marco": 19.3,
+      "hoja": 59,
+      "manual": true
     },
     "GAMMA/BANDEROLA DVH": {
       "familia": "marcohoja",
