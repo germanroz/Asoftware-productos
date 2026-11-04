@@ -5,7 +5,7 @@
   "PesoMinimoKg": null,
   "Accesorios": [
     {
-      "CodigoAccesorio": "99750",
+      "CodigoAccesorio": "99710",
       "Cantidad": 8,
       "Modelo": "",
       "Obligatorio": true,

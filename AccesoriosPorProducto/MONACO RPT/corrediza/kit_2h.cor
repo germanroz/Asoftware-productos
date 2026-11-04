@@ -5,13 +5,6 @@
   "PesoMinimoKg": null,
   "Accesorios": [
     {
-      "CodigoAccesorio": "99750",
-      "Cantidad": 4,
-      "Modelo": "",
-      "Obligatorio": true,
-      "FamiliaPorMedida": ""
-    },
-    {
       "CodigoAccesorio": "96230",
       "Cantidad": 2,
       "Modelo": "",
@@ -28,6 +21,13 @@
     {
       "CodigoAccesorio": "94405",
       "Cantidad": 1,
+      "Modelo": "",
+      "Obligatorio": true,
+      "FamiliaPorMedida": ""
+    },
+    {
+      "CodigoAccesorio": "99710",
+      "Cantidad": 4,
       "Modelo": "",
       "Obligatorio": true,
       "FamiliaPorMedida": ""
