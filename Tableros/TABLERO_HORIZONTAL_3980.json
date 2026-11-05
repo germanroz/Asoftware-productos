@@ -3,6 +3,7 @@
   "Nombre": "TABLERO HORIZONTAL 398",
   "LineaNombre": "NIZA",
   "Lineas": ["NIZA", "DELTA","MEDITERRANEA","ALUPAL","MONACO","GAMMA","ATLANTICA","ALFA", "TRADICIONAL"],
+  "LineasEnHojas": ["DELTA"],
   "CodigoPerfil": "3980",
   "DescripcionPerfil": "",
   "AnchoUtil": 100,
