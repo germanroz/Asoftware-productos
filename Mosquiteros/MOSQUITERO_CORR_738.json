@@ -70,7 +70,8 @@
       "AnguloCorte2": 45,
       "Orientacion": "V",
       "Productos": [
-        "CORREDIZA 2H N7 RPT"
+        "CORREDIZA 2H N7 RPT",
+        "CORREDIZA 3H N7 RPT"
       ]
     },
     {
@@ -84,7 +85,8 @@
       "AnguloCorte2": 45,
       "Orientacion": "H",
       "Productos": [
-        "CORREDIZA 2H N7 RPT"
+        "CORREDIZA 2H N7 RPT",
+        "CORREDIZA 3H N7 RPT"
       ]
     },
     {
@@ -98,7 +100,8 @@
       "AnguloCorte2": 45,
       "Orientacion": "V",
       "Productos": [
-        "CORREDIZA 2H N7 RPT"
+        "CORREDIZA 2H N7 RPT",
+        "CORREDIZA 3H N7 RPT"
       ]
     },
     {
@@ -112,8 +115,21 @@
       "AnguloCorte2": 90,
       "Orientacion": "V",
       "Productos": [
-        "CORREDIZA 2H N7 RPT"
+        "CORREDIZA 2H N7 RPT",
+        "CORREDIZA 3H N7 RPT"
       ]
+    },
+    {
+      "Id": 0,
+      "CodigoPerfil": "7380",
+      "DescripcionPerfil": "HOJA MOSQUITERO REFORZADA M-V Y M-VII",
+      "Cantidad": 2,
+      "Formula": "AH\u002B30",
+      "AnguloCorte": 45,
+      "AnguloCorte1": 45,
+      "AnguloCorte2": 45,
+      "Orientacion": "H",
+      "Productos": []
     }
   ],
   "Accesorios": [
