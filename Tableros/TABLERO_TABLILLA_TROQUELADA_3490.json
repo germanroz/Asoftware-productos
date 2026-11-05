@@ -7,5 +7,6 @@
   "DescripcionPerfil": "TABLILLA DE POSTIGÓN RECTA TROQUELADA",
   "AnchoUtil": 68,
   "Espesor": 5,
+  "LineasEnHojas": ["DELTA"],
   "Orientacion": "H"
 }

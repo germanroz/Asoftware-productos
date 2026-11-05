@@ -7,5 +7,6 @@
   "DescripcionPerfil": "TABLILLA DE POSTIGÓN CURVA TROQUELADA",
   "AnchoUtil": 76,
   "Espesor": 5,
+  "LineasEnHojas": ["DELTA"],
   "Orientacion": "H"
 }

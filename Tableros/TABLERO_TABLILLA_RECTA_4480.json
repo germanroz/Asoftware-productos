@@ -7,5 +7,6 @@
   "DescripcionPerfil": "TABLILLA CURVA POSTIGÓN",
   "AnchoUtil": 76,
   "Espesor": 5,
+  "LineasEnHojas": ["DELTA"],
   "Orientacion": "H"
 }
