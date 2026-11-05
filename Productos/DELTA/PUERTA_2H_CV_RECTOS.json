@@ -327,12 +327,23 @@
         "Id": 0,
         "ProductoId": 0,
         "EspesorMin": 4,
-        "EspesorMax": 6,
+        "EspesorMax": 5,
         "ContravidrioCodigo": "6460",
         "ContravidrioDescripcion": "Contravidrio Recto de 29 mm",
         "ContravidrioAjuste": -29,
         "BurleteCodigo1": "89130",
         "BurleteCodigo2": "82110"
+      },
+      {
+        "Id": 0,
+        "ProductoId": 0,
+        "EspesorMin": 6,
+        "EspesorMax": 8,
+        "ContravidrioCodigo": "6460",
+        "ContravidrioDescripcion": "Contravidrio Recto de 29 mm",
+        "ContravidrioAjuste": -29,
+        "BurleteCodigo1": "89130",
+        "BurleteCodigo2": "82100"
       },
       {
         "Id": 0,
