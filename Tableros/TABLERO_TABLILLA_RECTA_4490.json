@@ -2,6 +2,7 @@
   "Id": 2,
   "Nombre": "TABLERO TABLILLA RECTA 4490",
   "LineaNombre": "TRADICIONAL",
+  "Lineas": ["TRADICIONAL", "DELTA"],
   "CodigoPerfil": "4490",
   "DescripcionPerfil": "TABLILLA DE POSTIGÓN RECTA",
   "AnchoUtil": 68,
