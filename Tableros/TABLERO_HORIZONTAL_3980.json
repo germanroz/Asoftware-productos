@@ -4,6 +4,7 @@
   "LineaNombre": "NIZA",
   "Lineas": ["NIZA", "DELTA","MEDITERRANEA","ALUPAL","MONACO","GAMMA","ATLANTICA","ALFA", "TRADICIONAL"],
   "LineasEnHojas": ["DELTA"],
+  "EspesorEnHojas": 7,
   "CodigoPerfil": "3980",
   "DescripcionPerfil": "",
   "AnchoUtil": 100,
