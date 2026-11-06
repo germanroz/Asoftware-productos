@@ -14,7 +14,8 @@
       "AnguloCorte2": 45,
       "Orientacion": "H",
       "Productos": [
-        "CORREDIZA 2H N3 RPT"
+        "CORREDIZA 2H N3 RPT",
+        "CORREDIZA 3H E/2 GUIAS N3 RPT"
       ]
     },
     {
@@ -28,7 +29,8 @@
       "AnguloCorte2": 45,
       "Orientacion": "V",
       "Productos": [
-        "CORREDIZA 2H N3 RPT"
+        "CORREDIZA 2H N3 RPT",
+        "CORREDIZA 3H E/2 GUIAS N3 RPT"
       ]
     },
     {
@@ -42,7 +44,8 @@
       "AnguloCorte2": 90,
       "Orientacion": "V",
       "Productos": [
-        "CORREDIZA 2H N3 RPT"
+        "CORREDIZA 2H N3 RPT",
+        "CORREDIZA 3H E/2 GUIAS N3 RPT"
       ]
     },
     {
@@ -129,7 +132,10 @@
       "AnguloCorte1": 45,
       "AnguloCorte2": 45,
       "Orientacion": "H",
-      "Productos": []
+      "Productos": [
+        "CORREDIZA 2H N7 RPT",
+        "CORREDIZA 3H N7 RPT"
+      ]
     }
   ],
   "Accesorios": [
