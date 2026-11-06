@@ -8,12 +8,14 @@
   "Descripcion": "CORREDIZA 2H N1 RPT",
   "EspesorMin": 17,
   "EspesorMax": 20,
-  "Orden": 11,
+  "Orden": 0,
   "VarianteAccesorios": "kit_n1.cor",
   "FormaCorrediza": 0,
   "HojaCentralDoble": false,
   "SolapeMarco": 0,
   "EntreEjes": 1000,
+  "AccesorioEsquinaCodigo": null,
+  "AccesorioEsquinaCantidad": 1,
   "Perfiles": [
     {
       "Id": 0,
